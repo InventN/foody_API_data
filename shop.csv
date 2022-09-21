@@ -1,0 +1,2 @@
+,shop_id,name,short_description,city_id,district_id,address,rating_total_review,rating_avg,rating_app_link,service_fee,avg_price,min_order_value,min_charge,min_shipping_fee,min_price,max_price,is_foody_delivery,week_days,start_time,end_time
+0,121227,Zhen Food - Trà Sữa & Cá Viên Chiên - Trường Chinh,,217,16,"A1 - 19 Chung Cư Cách Mạng Tháng 8, 162S Trường Chinh, P. 12, Tân Bình, TP. HCM",500,4.7,foody://foody.vn?action=reviewlist&id=1031704,0.0,20826.0,20000.0,"3,000đ","15,000đ",5000.0,169000.0,True,7,09:00,23:59
