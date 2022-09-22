@@ -1,0 +1,401 @@
+CityId,name,addr,RestaurantId,RestaurantStatus,avgrating,TotalPictures,TotalSaves,TotalReviews,TotalFavourites,TotalViews,TotalCheckIns,CreatedOn,Latitude,Longitude,ResUrlReviews
+217,Cô Ngọc - Bún Thang ,"443/63 Điện Biên Phủ, P. 3, Quận 3, TP. HCM",99908,2,5.6,14,36,5,0,0,0,02/01/1970,10.771735,106.679242,/ho-chi-minh/co-ngoc-bun-thang/binh-luan
+217,Quán chay Hoa Tâm,"1 Đường Số 1 , P. 7, Quận Gò Vấp, TP. HCM",29848,2,8.0,9,15,2,0,0,0,02/01/1970,10.819912,106.686237,/ho-chi-minh/quan-chay-hoa-tam/binh-luan
+217,Kobe Teppanyaki - Nhà Hàng Nhật,"13A Tú Xương, P. 7, Quận 3, TP. HCM",973,2,7.998,522,1241,33,0,0,0,02/01/1970,10.783364,106.689016,/ho-chi-minh/kobe-nha-hang-nhat/binh-luan
+217,Nhà Hàng Chay Mộc Nhiên - CN Sư Vạn Hạnh,"391/4 Sư Vạn Hạnh, P. 12, Quận 10, TP. HCM",12806,2,7.076,597,479,54,0,0,0,02/01/1970,10.7719091,106.6694254,/ho-chi-minh/nha-hang-chay-moc-nhien-cn-su-van-hanh/binh-luan
+217,Ăn Vặt Sài Thành - Kha Vạn Cân,"792/26 Kha Vạn Cân, Tp. Thủ Đức, TP. HCM",91940,2,7.064,378,760,50,0,0,0,02/01/1970,10.8472469,106.752927,/ho-chi-minh/an-vat-sai-thanh-kha-van-can/binh-luan
+217,Phượng Hồng - Quán Chè & Ăn Vặt,"335A Minh Phụng, P. 2, Quận 11, TP. HCM",725210,2,8.134,14,51,3,0,0,0,02/01/1970,10.7573923,106.6435528,/ho-chi-minh/phuong-hong-quan-che-an-vat/binh-luan
+217,Trái Cây Chị Thảo - 63/2 Phùng Văn Cung,"63/2 Phùng Văn Cung, P. 7, Quận Phú Nhuận, TP. HCM",802997,2,3.434,51,19,6,0,0,0,02/01/1970,10.800728,106.6858715,/ho-chi-minh/trai-cay-chi-thao-63-2-phung-van-cung/binh-luan
+217,Cơm Lam Gà Nướng - 551/1 Phan Văn Trị,"551/1 Phan Văn Trị, P. 5, Quận Gò Vấp, TP. HCM",1047011,2,4.75,3,3,4,0,0,0,02/01/1970,10.8252262,106.6900437,/ho-chi-minh/com-lam-ga-nuong-551-1-phan-van-tri/binh-luan
+217,"Minh Khang - Bánh Canh, Bún Cá & Bún Sứa","15 Nguyễn Ngọc Lộc, P. 14, Quận 10, TP. HCM",926850,2,8.88,1,21,5,0,0,0,02/01/1970,10.767559,106.663119,/ho-chi-minh/minh-khang-banh-canh-bun-ca-bun-sua/binh-luan
+217,Nguyên Lợi - Mì Gốc Hoa,"333 Xô Viết Nghệ Tĩnh, P. 24, Quận Bình Thạnh, TP. HCM",701899,2,6.75,2,184,4,0,0,0,02/01/1970,10.80357,106.711305,/ho-chi-minh/nguyen-loi-mi-goc-hoa/binh-luan
+217,Gỏi Cuốn Mạ Tôi - Võ Văn Tần,"221/19 Võ Văn Tần, P. 5, Quận 3, TP. HCM",1000046511,2,10.0,0,3,1,0,0,0,02/01/1970,10.772272,106.6856009,/ho-chi-minh/goi-cuon-ma-toi-vo-van-tan/binh-luan
+217,Gà Rán & Khoai Tây Lắc,"268 Tôn Đản, Quận 4, TP. HCM",727641,2,4.6,1,6,2,0,0,0,02/01/1970,10.7564792,106.7059883,/ho-chi-minh/ga-ran-khoai-tay-lac/binh-luan
+217,Hải Sản 98 - Phan Xích Long,"126 Phan Xích Long, P. 2, Quận Phú Nhuận, TP. HCM",25466,2,7.054,167,105,18,0,0,0,02/01/1970,10.7988053,106.6867575,/ho-chi-minh/hai-san-98-hoa-dao/binh-luan
+217,Lẩu Tôm 5 Ri Biên Hòa - Phạm Văn Đồng,"242-244 Phạm Văn Đồng, P. Hiệp Bình Chánh, Tp. Thủ Đức, TP. HCM",678644,2,7.384,210,741,50,0,0,0,02/01/1970,10.8276412,106.7212676,/ho-chi-minh/lau-tom-5-ri-bien-hoa-pham-van-dong/binh-luan
+217,Bánh Bèo Tô - Nguyễn Thượng Hiền,"59 Nguyễn Thượng Hiền, Quận 3, TP. HCM",725728,2,9.1,6,69,2,0,0,0,02/01/1970,10.7712111,106.6858589,/ho-chi-minh/banh-beo-to-nguyen-thuong-hien/binh-luan
+217,Sông Trăng Cháo Vịt Sài Gòn - Trần Cao Vân,"40 Trần Cao Vân, P. 6, Quận 3, TP. HCM",641,2,6.528,73,98,25,0,0,0,02/01/1970,10.783143,106.696343,/ho-chi-minh/song-trang-tran-cao-van/binh-luan
+217,Quán Cơm Happy,"44/12 Tân Hải, P. 13, Quận Tân Bình, TP. HCM",860660,2,9.066,212,102,6,0,0,0,02/01/1970,10.802269,106.639076,/ho-chi-minh/quan-com-happy/binh-luan
+217,Út Mười - Canh Bún & Bún Riêu Cua,"110 Đại Lộ 2, P. Phước Bình, Quận 9, TP. HCM",910408,2,8.8,2,4,1,0,0,0,02/01/1970,10.817358,106.771003,/ho-chi-minh/ut-muoi-canh-bun-bun-rieu-cua/binh-luan
+217,San Fu Lou - Ẩm Thực Quảng Đông - Mplaza,"Tầng B1 Mplaza, 39 Lê Duẩn, P. Bến Nghé, Quận 1, TP. HCM",1107756,2,9.0,0,2,1,0,0,0,02/01/1970,10.7817527,106.7000475,/ho-chi-minh/san-fu-lou-am-thuc-quang-dong-mplaza/binh-luan
+217,K-Pub - Nướng Phong Cách Pub Hàn Quốc - Lê Văn Sỹ,"404 Lê Văn Sỹ, P. 2, Quận Tân Bình, TP. HCM",972826,2,8.31,168,144,82,0,0,0,02/01/1970,10.798865,106.662214,/ho-chi-minh/k-pub-nuong-phong-cach-pub-han-quoc-le-van-sy/binh-luan
+217,Bếp Của Bâu - Kem Mây Ni Tơ - Bình Tây,"56 Bình Tây, P. 1, Quận 6, TP. HCM",261439,2,6.5,5,33,2,0,0,0,02/01/1970,10.747324,106.650948,/ho-chi-minh/bep-cua-bau-kem-may-ni-to-binh-tay/binh-luan
+217,Bánh Hẹ - Nguyễn Trãi,"Đối Diện 710 Nguyễn Trãi, P. 2, Quận 5, TP. HCM",281287,2,7.066,72,139,9,0,0,0,02/01/1970,10.753181,106.660999,/ho-chi-minh/banh-he/binh-luan
+217,Starbucks Coffee - Etown 5,"G2A, Etown 5, 364 Cộng Hòa, P. 13, Quận Tân Bình, TP. HCM",937844,2,6.134,23,5,3,0,0,0,02/01/1970,10.802167,106.641286,/ho-chi-minh/starbucks-coffee-etown-5/binh-luan
+217,Lương Ký Mì Gia,"1 Huỳnh Mẫn Đạt, P.19, Quận Bình Thạnh, TP. HCM",29741,2,6.824,236,944,84,0,0,0,02/01/1970,10.791856,106.708921,/ho-chi-minh/luong-ky-mi-gia/binh-luan
+217,Gyu-Kaku Japanese BBQ - Lê Thánh Tôn,"Tầng 1, 15/7 Lê Thánh Tôn, P. Bến Nghé, Quận 1, TP. HCM",859155,2,5.142,30,19,7,0,0,0,02/01/1970,10.780703,106.704826,/ho-chi-minh/gyu-kaku-japanese-bbq-le-thanh-ton/binh-luan
+217,Bánh Mì Thúy Tiền,"40 Vạn Kiếp, P.3, Quận Bình Thạnh, TP. HCM",28442,2,7.656,13,40,7,0,0,0,02/01/1970,10.801735,106.693359,/ho-chi-minh/banh-mi-thuy-tien/binh-luan
+217,Sushi World Signature - Trần Quang Khải,"124 Trần Quang Khải, P. Tân Định, Quận 1, TP. HCM",1022907,2,8.16,23,17,5,0,0,0,02/01/1970,10.792067,106.692077,/ho-chi-minh/sushi-world-signature-tran-quang-khai/binh-luan
+217,Hủ Tiếu Nam Vang,"116 Đường D1, P. 25, Quận Bình Thạnh, TP. HCM",696817,2,8.4,4,12,1,0,0,0,02/01/1970,10.802639,106.719617,/ho-chi-minh/hu-tieu-nam-vang-116-duong-d1/binh-luan
+217,KaKao Zen - Cacao Mix Sữa Hạt - Nguyễn Quang Bích,"33 Nguyễn Quang Bích, P. 13, Quận Tân Bình, TP. HCM",1000050782,2,9.868,2,1,6,0,0,0,02/01/1970,10.8047365,106.6459056,/ho-chi-minh/kakao-zen-cacao-mix-sua-hat-nguyen-quang-bich.dx834p/binh-luan
+217,Hải Sản Phan Thiết - Nguyễn Thiện Thuật,"005 Lô D C/c Nguyễn Thiện Thuật, P. 1, Quận 3, TP. HCM",33094,2,7.1,21,73,4,0,0,0,02/01/1970,10.768197,106.678123,/ho-chi-minh/hai-san-phan-thiet-nguyen-thien-thuat/binh-luan
+217,Mì Trộn Đệ Nhất - Đinh Tiên Hoàng,"26/20B6 Đinh Tiên Hoàng, P. 1, Quận Bình Thạnh, TP. HCM",1041427,2,9.0,9,13,2,0,0,0,02/01/1970,10.794166,106.697101,/ho-chi-minh/mi-tron-de-nhat-dinh-tien-hoang/binh-luan
+217,Triệu Minh Hiệp - Tiệm Bánh Người Hoa,"123/23 Bình Tây, P. 1, Quận 6, TP. HCM",48771,2,7.8,25,332,4,0,0,0,02/01/1970,10.747475,106.65081,/ho-chi-minh/trieu-minh-hiep-tiem-banh-nguoi-hoa/binh-luan
+217,MNS ICE SNOW - Đá Bào Mật Trái Cây Rừng - Nguyễn Thị Thập,"347 Nguyễn Thị Thập, Quận 7, TP. HCM",647542,2,7.85,30,36,4,0,0,0,02/01/1970,10.7390556,106.7087878,/ho-chi-minh/mns-ice-snow-da-bao-mat-trai-cay-rung-nguyen-thi-thap/binh-luan
+217,Phở Hùng - Nguyễn Tri Phương,"288 Nguyễn Tri Phương, P. 4, Quận 10, TP. HCM",3855,2,6.562,158,97,53,0,0,0,02/01/1970,10.7624294,106.6684096,/ho-chi-minh/pho-hung-nguyen-tri-phuong/binh-luan
+217,Nhà Hàng Khánh Linh - Lươn Xứ Nghệ,"94 Đường 79, P. Tân Quy, Quận 7, TP. HCM",276540,2,2.0,59,13,1,0,0,0,02/01/1970,10.7403634,106.708544,/ho-chi-minh/nha-hang-khanh-linh-luon-xu-nghe/binh-luan
+217,Bếp Của Mẹ - Cơm Trưa Văn Phòng,"58/19 Phạm Ngọc Thạch, P. 6, Quận 3, TP. HCM",678380,2,7.014,43,158,16,0,0,0,02/01/1970,10.786294,106.692811,/ho-chi-minh/bep-cua-me-dac-san-mien-trung/binh-luan
+217,A Tài - Bún Thịt Nướng - Nguyễn Văn Trỗi,"95/37  Nguyễn Văn Trỗi, P. 12, Quận Phú Nhuận, TP. HCM",955708,2,3.652,9,3,8,0,0,0,02/01/1970,10.793179,106.678984,/ho-chi-minh/a-tai-bun-thit-nuong-nguyen-van-troi/binh-luan
+217,Khu Ăn Vặt Nguyễn Kim,"Bên Hông Hùng Vương Plaza, Nguyễn Kim, Quận 5, TP. HCM",84553,2,7.426,458,1251,94,0,0,0,02/01/1970,10.7561912625757,106.6632701084017,/ho-chi-minh/khu-an-vat-nguyen-kim/binh-luan
+217,Hana Buffet Tú Xương,"51 Tú Xương, Phường Võ Thị Sáu, Quận 3, TP. HCM",1118586,2,8.4,22,1,2,0,0,0,02/01/1970,,,
+217,Hoành Thánh Lá Chị Yến - Minh Phụng,"394/14 Minh Phụng, P. 9, Quận 11, TP. HCM",1137794,2,8.0,1,1,1,0,0,0,02/01/1970,10.7599122,106.6447576,/ho-chi-minh/hoanh-thanh-la-chi-yen-minh-phung/binh-luan
+217,"Mập Tea - Sinh Tố, Trà Đào & Trà Vải - Ung Văn Khiêm","31/14 Ung Văn Khiêm, P. 25, Quận Bình Thạnh, TP. HCM",966298,2,8.68,16,5,10,0,0,0,02/01/1970,10.809367,106.71385,/ho-chi-minh/map-tea-fruit/binh-luan
+217,Cua Cà Mau - Lãnh Binh Thăng,"123 Lãnh Binh Thăng, Quận 11, TP. HCM",72816,2,6.628,59,85,8,0,0,0,02/01/1970,10.762464,106.65383,/ho-chi-minh/cua-ca-mau-lanh-binh-thang/binh-luan
+217,Quán Chay Thiện Ân,"67 Đường 41, P. 6, Quận 4, TP. HCM",36979,2,4.5,3,6,2,0,0,0,02/01/1970,10.758511,106.700377,/ho-chi-minh/quan-chay-thien-an/binh-luan
+217,Bảo Duy - Ốc & Lẩu,"11 Lô H, Cư Xá Thanh Đa, P. 27, Quận Bình Thạnh, TP. HCM",743142,2,3.8,31,2,1,0,0,0,02/01/1970,10.815259,106.721385,/ho-chi-minh/bao-duy-oc-lau/binh-luan
+217,Bắc Coffee - Bạch Đằng,"A75/6C/23 Bạch Đằng, Quận Tân Bình, TP. HCM",765589,2,9.2,9,2,2,0,0,0,02/01/1970,10.8160499,106.6712455,/ho-chi-minh/bac-coffee-bach-dang/binh-luan
+217,ABC Bakery - Lê Văn Việt,"5 Lê Văn Việt, P. Hiệp Phú, Tp. Thủ Đức, TP. HCM",4409,2,6.42,54,20,10,0,0,0,02/01/1970,10.848469,106.77475,/ho-chi-minh/abc-bakery-le-van-viet/binh-luan
+217,Taipu Udon - Mì Udon - Nguyễn Kiệm,"373/6 Nguyễn Kiệm, P. 9, Quận Phú Nhuận, TP. HCM",1038336,2,9.8,4,27,1,0,0,0,02/01/1970,10.7996905,106.6797591,/ho-chi-minh/taipu-udon-mi-udon-nguyen-kiem/binh-luan
+217,Cơm Gà 678,"30 Sơn Kỳ, P. Sơn Kỳ, Quận Tân Phú, TP. HCM",664874,2,6.824,402,47,9,0,0,0,02/01/1970,10.804836,106.627828,/ho-chi-minh/com-ga-678/binh-luan
+217,Bún Bò Sông Hương - 63 Gò Dầu,"63 Gò Dầu, P. Tân Quý, Quận Tân Phú, TP. HCM",69346,2,5.66,78,38,24,0,0,0,02/01/1970,10.79579,106.626661,/ho-chi-minh/bun-bo-song-huong-go-dau/binh-luan
+217,Korean BBQ Thích Thịt - Trần Hưng Đạo,"92 Trần Hưng Đạo, Quận 1, TP. HCM",657692,2,6.634,74,71,6,0,0,0,02/01/1970,10.766182,106.693441,/ho-chi-minh/korean-bbq-thich-thit-tran-hung-dao/binh-luan
+217,Canh Tokbokki,"Rubik Zoo, 1Bis Nguyễn Thị Minh Khai, P. Bến Nghé, Quận 1, TP. HCM",672815,2,7.8,16,349,4,0,0,0,02/01/1970,10.7895,106.704792,/ho-chi-minh/canh-tokbokki/binh-luan
+217,Jang Doc Dae - Nhà Hàng Hàn Quốc,"Hưng Gia 3, Quận 7, TP. HCM",679986,2,7.2,3,15,1,0,0,0,02/01/1970,10.7324608,106.7094281,/ho-chi-minh/jang-doc-dae-nha-hang-han-quoc/binh-luan
+217,Seonlo 95 - Tokbokki & Odeng,"98 Đỗ Tấn Phong, P. 9, Quận Phú Nhuận, TP. HCM",675896,2,6.8,2,9,1,0,0,0,02/01/1970,10.8022717196761,106.6775692999363,/ho-chi-minh/seonlo-95-tokbokki-odeng/binh-luan
+217,Nước Mía Hai Lúa,"221 Vĩnh Viễn, P. 4, Quận 10, TP. HCM",883115,2,7.0,2,0,1,0,0,0,02/01/1970,10.764009,106.66917,/ho-chi-minh/nuoc-mia-hai-lua/binh-luan
+217,Giáng My - Bánh Đa Cua Hải Phòng,"1 Hoàng Kế Viên, P. 12, Quận Tân Bình, TP. HCM",652778,2,4.7,6,10,2,0,0,0,02/01/1970,10.7977834,106.6498217,/ho-chi-minh/giang-my-banh-da-cua-hai-phong/binh-luan
+217,HD Media Cafe - Tô Vĩnh Diện,"70A Tô Vĩnh Diện, Tp. Thủ Đức, TP. HCM",212799,2,5.4,7,28,2,0,0,0,02/01/1970,10.8523499,106.7668969,/ho-chi-minh/hd-media-cafe-to-vinh-dien/binh-luan
+217,Bún Mọc Ròm Mập - Võ Văn Tần,"457 Võ Văn Tần, P. 5, Quận 3, TP. HCM",69760,2,6.916,323,1010,124,0,0,0,02/01/1970,10.769463,106.683691,/ho-chi-minh/bun-moc-rom-map-vo-van-tan/binh-luan
+217,Cháo Ếch Geylang - Trường Sa,"688 Trường Sa, P. 17, Quận Phú Nhuận, TP. HCM",995070,2,5.72,6,9,5,0,0,0,02/01/1970,10.7923941,106.6825202,/ho-chi-minh/chao-ech-geylang-truong-sa/binh-luan
+217,TocoToco Bubble Tea D2 - Nguyễn Gia Trí,"128 Nguyễn Gia Trí, P. 25, Quận Bình Thạnh, TP. HCM",658426,2,6.992,424,217,217,0,0,0,02/01/1970,10.8052294,106.7160372,/ho-chi-minh/tocotoco-bubble-tea-d2-nguyen-gia-tri/binh-luan
+217,Phở Gia Nguyễn,"207 Dương Quảng Hàm, Quận Gò Vấp, TP. HCM",745303,2,8.4,8,2,1,0,0,0,02/01/1970,10.835155,106.6840224,/ho-chi-minh/pho-gia-nguyen/binh-luan
+217,Clover Korean House Food - Phan Liêm,"2 Phan Liêm, P. Đakao, Quận 1, TP. HCM",1074507,2,8.0,0,18,1,0,0,0,02/01/1970,10.7890822,106.6957634,/ho-chi-minh/clover-korean-house-food-phan-liem/binh-luan
+217,Mì Quảng Mỹ Sơn - Đường 22,"3 Đường 22, P. An Phú, Quận 2, TP. HCM",1043657,2,6.934,4,2,3,0,0,0,02/01/1970,10.7978768,106.7418461,/ho-chi-minh/mi-quang-my-son-duong-22/binh-luan
+217,Cơm Tấm Vỉa Hè - Đinh Tiên Hoàng,"116 Đinh Tiên Hoàng, P. 1, Quận Bình Thạnh, TP. HCM",657582,2,7.8,16,13,3,0,0,0,02/01/1970,10.799547,106.69658,/ho-chi-minh/com-tam-via-he-dinh-tien-hoang/binh-luan
+217,Hủ Tiếu Mì Hồng Phát,"58 Phan Văn Trị, Quận Bình Thạnh, TP. HCM",28120,2,7.2,77,232,14,0,0,0,02/01/1970,10.807424,106.697491,/ho-chi-minh/hu-tiu-mi-hong-phat/binh-luan
+217,Mai Tu - Chân Gà Xả Tắc,"28/30/6 Thạnh Lộc 31, P. Thạnh Lộc, Quận 12, TP. HCM",951249,2,7.0,4,0,1,0,0,0,02/01/1970,10.874318,106.691199,/ho-chi-minh/mai-tu-chan-ga-xa-tac/binh-luan
+217,Bà Sáu - Bánh Mì Phá Lấu - Hoàng Diệu,"104 Hoàng Diệu, P. 12, Quận 4, TP. HCM",699404,2,5.526,43,381,16,0,0,0,02/01/1970,10.7641817,106.7046019,/ho-chi-minh/ba-sau-banh-mi-pha-lau-hoang-dieu/binh-luan
+217,FOX Tea - Trà Sữa & Ăn Vặt -  Đường Số 8,"202 Đường Số 8, P. 11, Quận Gò Vấp, TP. HCM",743484,2,5.476,154,129,72,0,0,0,02/01/1970,10.8439409,106.6619843,/ho-chi-minh/fox-tea-tra-sua-an-vat-duong-so-8/binh-luan
+217,Bánh Mì Cắt Lát,"68A Trần Quốc Toản, P. 8, Quận 3, TP. HCM",1030091,2,5.2,1,0,1,0,0,0,02/01/1970,10.787936,106.688483,/ho-chi-minh/banh-mi-cat-lat/binh-luan
+217,0610 CORNER - Trà Sữa - Bình Quới,"140/15A Bình Quới, P. 27, Quận Bình Thạnh, TP. HCM",1000038873,2,10.0,0,1,2,0,0,0,02/01/1970,10.8174937,106.7235923,/ho-chi-minh/0610-corner-tra-sua-binh-quoi/binh-luan
+217,Trà Sữa Thái Couple TH - Lạc Long Quân,"393 Lạc Long Quân, P. 5, Quận 11, TP. HCM",144960,2,8.232,20,17,6,0,0,0,02/01/1970,10.771659,106.645549,/ho-chi-minh/tra-sua-thai-couple-th-lac-long-quan/binh-luan
+217,Trà Sữa Panda Thái Lan - Minh Phụng,"456 Minh Phụng, P. 9, Quận 11, TP. HCM",168209,2,7.9,20,14,2,0,0,0,02/01/1970,10.7612607,106.6443937,/ho-chi-minh/tra-sua-panda-thai-lan-minh-phung/binh-luan
+217,Nhà Hàng Bê Vàng - Hải Sản & Bê Thui Nóng,"110A - 112  Vành Đai Trong, P. Bình Trị Đông B, Quận Bình Tân, TP. HCM",8849,2,5.334,65,12,9,0,0,0,02/01/1970,10.745646,106.615287,/ho-chi-minh/be-vang/binh-luan
+217,Bánh Ướt & Bún Mọc 43,"43 Trần Quốc Toản, Quận 3, TP. HCM",663351,2,6.152,24,71,12,0,0,0,02/01/1970,10.7883033107052,106.6889036446809,/ho-chi-minh/banh-uot-bun-moc/binh-luan
+217,Cơm Gà Bàu Sen,"192/30C Nguyễn Trãi, P. 3, Quận 5, TP. HCM",779420,2,7.878,96,172,31,0,0,0,02/01/1970,10.757038,106.677326,/ho-chi-minh/com-ga-bau-sen/binh-luan
+217,Vechai Bistro - Food & Drink,"210/22B Cách Mạng Tháng 8, P. 10, Quận 3, TP. HCM",710954,2,8.178,36,112,8,0,0,0,02/01/1970,10.780676,106.678519,/ho-chi-minh/vechai-bistro-food-drink/binh-luan
+217,Bún Chả Hà Nội - Phạm Văn Hai,"2 Phạm Văn Hai, P. 2, Quận Tân Bình, TP. HCM",299607,2,6.4,0,4,2,0,0,0,02/01/1970,10.799922,106.6651119000001,/ho-chi-minh/bun-cha-ha-noi-pham-van-hai/binh-luan
+217,"Cô Huyền - Trà Sữa, Mì Trộn & Ăn Vặt","1225/94/16 Phạm Thế Hiển, P.5, Quận 8, TP. HCM",1025818,2,8.0,1,6,1,0,0,0,02/01/1970,10.7398726,106.6593993,/ho-chi-minh/co-huyen-tra-sua-mi-tron-an-vat/binh-luan
+217,Hủ Tiếu Mì Thành Ký - Nguyễn Hồng Đào,"199 Nguyễn Hồng Đào, P. 14, Quận Tân Bình, TP. HCM",14298,2,6.95,58,43,4,0,0,0,02/01/1970,10.792296,106.641777,/ho-chi-minh/thanh-ky-nguyen-hong-dao/binh-luan
+217,The Coffee Factory - Nguyễn Du,"53H Nguyễn Du, P. Bến Nghé, Quận 1, TP. HCM",85489,2,7.14,241,230,32,0,0,0,02/01/1970,10.779825,106.700891,/ho-chi-minh/the-coffee-factory-nguyen-du/binh-luan
+217,Bún Bò Chú Gấu,"25 Nguyễn Văn Lượng, P. 17, Quận Gò Vấp, TP. HCM",31125,2,7.434,12,22,6,0,0,0,02/01/1970,10.838543,106.679263,/ho-chi-minh/bun-bo-chu-gau/binh-luan
+217,Cơm Tấm 68 - Trần Quang Khải,"68 Trần Quang Khải, P. Tân Định, Quận 1, TP. HCM",1005514,2,8.0,0,43,1,0,0,0,02/01/1970,10.792331,106.693512,/ho-chi-minh/com-tam-68-tran-quang-khai/binh-luan
+217,C1 Cafe 1983,"1 Lô C Nguyễn Văn Quỳ, P. Phú Thuận, Quận 7, TP. HCM",1018042,2,9.9,43,0,2,0,0,0,02/01/1970,10.74278,106.740887,/ho-chi-minh/c1-cafe-1983/binh-luan
+217,Propaganda Saigon Bistro,"21 Hàn Thuyên, P. Bến Nghé, Quận 1, TP. HCM",69473,2,7.798,291,942,30,0,0,0,02/01/1970,10.778962,106.69794,/ho-chi-minh/propaganda-saigon/binh-luan
+217,Mì Cay Ớt Ma,"268 Tô Hiến Thành, P. 14, Quận 10, TP. HCM",237286,2,7.038,403,368,86,0,0,0,02/01/1970,10.778031,106.665672,/ho-chi-minh/mi-cay-ot-ma/binh-luan
+217,Athena Buffet & Rooftop Coffee - Athena Hotel,"280 Tô Hiến Thành, P. 15, Quận 10, TP. HCM",212956,2,8.066,81,49,3,0,0,0,02/01/1970,10.777445,106.664892,/ho-chi-minh/athena-buffet-rooftop-coffee-athena-hotel/binh-luan
+217,Cột Điện Bistro - Quán Nhậu,"1 Đồng Nai, P. 15, Quận 10, TP. HCM",32684,2,6.738,224,163,33,0,0,0,02/01/1970,10.7780506,106.6634176,/ho-chi-minh/cot-dien-bistro-hai-san-tuoi-song/binh-luan
+217,Unique House - Nhà Hàng & Liên Hoan,"58 Đồng Nai, P. 15, Quận 10, TP. HCM",763601,2,8.6,3,22,2,0,0,0,02/01/1970,10.7781294462255,106.6635622545903,/ho-chi-minh/unique-house-nha-hang-lien-hoan/binh-luan
+217,Quán Mạ Ơi - Món Huế,"59 Thạch Thị Thanh, P. Tân Định, Quận 1, TP. HCM",7520,2,7.192,98,476,41,0,0,0,02/01/1970,10.790523,106.692025,/ho-chi-minh/quan-ma-oi/binh-luan
+217,Isushi Buffet Nhật Bản - Lê Quý Đôn,"13 Lê Quý Đôn, P. 6, Quận 3, TP. HCM",764990,2,8.358,663,373,180,0,0,0,02/01/1970,10.7801442,106.6920089,/ho-chi-minh/isushi-buffet-nhat-ban-le-quy-don/binh-luan
+217,Phở Đêm Ông Già,"202/71 Phạm Văn Hai, P. 5, Quận Tân Bình, TP. HCM",1046511,2,6.2,3,1,1,0,0,0,02/01/1970,10.791809,106.660164,/ho-chi-minh/pho-dem-ong-gia/binh-luan
+217,Cơm Tấm Tiên - Cách Mạng Tháng 8,"388A Cách Mạng Tháng 8, Quận 3, TP. HCM",143929,2,4.734,43,28,3,0,0,0,02/01/1970,10.7831426768371,106.672037243843,/ho-chi-minh/com-tam-tien-cach-mang-thang-8/binh-luan
+217,Bánh Cuốn & Bánh Ướt - Hậu Giang,"214 Hậu Giang , Quận 6, TP. HCM",787441,2,3.8,5,1,1,0,0,0,02/01/1970,10.7486664,106.6369144,/ho-chi-minh/banh-cuon-banh-uot-hau-giang/binh-luan
+217,ZumWhere Phú Nhuận,"117B Nguyễn Đình Chính, P. 15, Quận Phú Nhuận, TP. HCM",893875,2,8.162,352,270,22,0,0,0,02/01/1970,10.795317,106.678245,/ho-chi-minh/zumwhere-craft-beer-nguyen-dinh-chinh/binh-luan
+217,Mộc Food - Gà Ủ Muối & Ăn Vặt,"203 Đường 11, P. Phước Bình, Tp. Thủ Đức, TP. HCM",920763,2,6.55,13,4,4,0,0,0,02/01/1970,10.8136456495517,106.7689560201573,/ho-chi-minh/moc-food-ga-u-muoi-an-vat/binh-luan
+217,Bánh Trung Thu Hong Kong - Shop Online,"133/36/60 Quang Trung, P. 10, Quận Gò Vấp, TP. HCM",268343,2,5.0,4,1,1,0,0,0,02/01/1970,10.827793,106.673881,/ho-chi-minh/banh-trung-thu-hong-kong-shop-online/binh-luan
+217,SaSin - Mì Cay 7 Cấp Độ Hàn Quốc - D2,"11 Đường D2, P. 25, Quận Bình Thạnh, TP. HCM",233099,2,5.916,752,319,263,0,0,0,02/01/1970,10.803213,106.715894,/ho-chi-minh/sasin-mi-cay-7-cap-do-han-quoc-d2/binh-luan
+217,Meat & Meet Korean BBQ Container - Lê Thị Riêng,"8 Lê Thị Riêng, P. Bến Thành, Quận 1, TP. HCM",627785,2,7.474,4053,3637,361,0,0,0,02/01/1970,10.771351,106.692265,/ho-chi-minh/meat-meet-bbq-container/binh-luan
+217,Sẹt Ky Quán - Đường Số 19,"67 Đường Số 19, P. Bình Trị Đông B, Quận Bình Tân, TP. HCM",143956,2,7.7,60,9,2,0,0,0,02/01/1970,10.753283104819,106.6161480545997,/ho-chi-minh/set-ky-quan-duong-so-19/binh-luan
+217,An An Quán - Chuyên Lẩu Nướng,"490 Vĩnh Khánh, P. 10, Quận 4, TP. HCM",120791,2,6.614,45,218,14,0,0,0,02/01/1970,10.7609484,106.7056147,/ho-chi-minh/an-an-quan-chuyen-lau-nuong/binh-luan
+217,Amor Coffee,"368/29 Lê Hồng Phong, Phường 1, Quận 10, TP. HCM",723830,2,8.44,121,98,21,0,0,0,02/01/1970,10.763698,106.676243,/ho-chi-minh/amor-coffee/binh-luan
+217,Vịt Lộn - Nguyễn Oanh,"Ngã 3 Nguyễn Oanh - Nguyễn Văn Lượng, Quận Gò Vấp, TP. HCM",130239,2,6.864,66,307,16,0,0,0,02/01/1970,10.83868,106.675567,/ho-chi-minh/vit-lon-nguyen-oanh/binh-luan
+217,Bánh Mì Thị Hồng Sơn,"438/44 Lê Hồng Phong, Quận 10, TP. HCM",714587,2,8.8,7,3,1,0,0,0,02/01/1970,10.7656389,106.6758875,/ho-chi-minh/banh-mi-thi-hong-son/binh-luan
+217,Bột Chiên - Nguyễn Kim,"187 Nguyễn Kim, P. 7, Quận 10, TP. HCM",47073,2,6.232,77,589,38,0,0,0,02/01/1970,10.7616498,106.6620933,/ho-chi-minh/bot-chien-nguyen-kim/binh-luan
+217,Kỳ Trà Các - không gian thiền trà,"12a Nhiêu Tứ, P. 7, Tp. HCM, Quận Phú Nhuận, TP. HCM",1138766,2,9.8,9,2,3,0,0,0,02/01/1970,10.801506,106.689184,
+217,Chuối Nếp Nướng & Cháo Lòng,"7/1 Trịnh Đình Trọng, P. 5, Quận 11, TP. HCM",1027254,2,6.6,2,39,1,0,0,0,02/01/1970,10.775192,106.647138,/ho-chi-minh/chuoi-nep-nuong-chao-long/binh-luan
+217,Cháo Ếch Singapore - 374B Trường Chinh,"374B Trường Chinh, P. 13, Quận Tân Bình, TP. HCM",969268,2,10.0,0,3,1,0,0,0,02/01/1970,10.799673,106.640891,/ho-chi-minh/chao-ech-singapore-nha-trang-quan/binh-luan
+217,Savvy - Beer Kitchen,"841 Hoàng Sa, P. 9, Quận 3, TP. HCM",886624,2,9.5,149,914,75,0,0,0,02/01/1970,10.784289,106.67771,/ho-chi-minh/savvy-beer-kitchen-coffee/binh-luan
+217,Hải Sản Bê Vàng,"261 - 263 An Dương Vương, P. 3, Quận 5, TP. HCM",73,2,7.574,569,410,59,0,0,0,02/01/1970,10.759281,106.678682,/ho-chi-minh/hai-san-be-vang/binh-luan
+217,Emergency Room - Bar & Grill,"59 Huỳnh thúc Kháng, Quận 1, TP. HCM",39995,2,9.0,22,29,2,0,0,0,02/01/1970,10.77234,106.70204,/ho-chi-minh/emergency-room-bar-grill/binh-luan
+217,Kyoichi - Nhà Hàng Món Nhật,"34 Phạm Viết Chánh, P. 19, Quận Bình Thạnh, TP. HCM",187398,2,7.62,191,517,20,0,0,0,02/01/1970,10.7901302,106.7105283,/ho-chi-minh/teppan-yaki-hajime-restaurant-nha-hang-mon-nhat/binh-luan
+217,Cơm Tấm The Nguyen - Mạc Đĩnh Chi,"59 Mạc Đỉnh Chi, P. Đa Kao, Quận 1, TP. HCM",1029108,2,4.84,14,25,5,0,0,0,02/01/1970,10.787276,106.696735,/ho-chi-minh/com-tam-the-nguyen-mac-dinh-chi/binh-luan
+217,Cơm Tấm The Nguyen - Trường Sơn,"7 Trường Sơn, P. 4, Quận Tân Bình, TP. HCM",957649,2,7.84,27,63,10,0,0,0,02/01/1970,10.806227,106.6642544,/ho-chi-minh/com-tam-the-nguyen-truong-son/binh-luan
+217,Bún Cá Sứa & Bánh Canh Chả Cá Nha Trang - Huỳnh Văn Bánh,"73/4 Huỳnh Văn Bánh, Quận Phú Nhuận, TP. HCM",156867,2,7.752,56,347,8,0,0,0,02/01/1970,10.794043,106.6811649,/ho-chi-minh/bun-ca-sua-banh-canh-cha-ca-nha-trang-huynh-van-banh/binh-luan
+217,Nhà Hàng Ếch Điền Kê,"16 Đồng Nai, P. 15, Quận 10, TP. HCM",1079764,2,7.832,72,20,6,0,0,0,02/01/1970,10.777655,106.664339,/ho-chi-minh/nha-hang-ech-dien-ke/binh-luan
+217,Ốc Liên 20k - Bàu Cát 8,"2 Bàu Cát 8, Quận Tân Bình, TP. HCM",657941,2,5.278,110,219,28,0,0,0,02/01/1970,10.788153,106.64375,/ho-chi-minh/oc-lien-20k-bau-cat-8/binh-luan
+217,Cô Béo - Trứng Gà Lòng Đào & Yaua,"169/4b Bạch Đằng, P. 15, Quận Bình Thạnh, TP. HCM",696241,2,8.196,282,787,44,0,0,0,02/01/1970,10.8023778,106.7081465,/ho-chi-minh/co-beo-trung-ga-long-dao-yaua/binh-luan
+217,Phương Nga - Kem Bơ Sầu Riêng,"229 Bình Phú, P. 11, Quận 6, TP. HCM",934241,2,8.0,9,9,1,0,0,0,02/01/1970,10.746273,106.631068,/ho-chi-minh/phuong-nga-kem-bo-sau-rieng/binh-luan
+217,Đông Giang Quán - 110 Trần Quý,"110 Trần Quý, Quận 11, TP. HCM",91358,2,7.9,55,53,6,0,0,0,02/01/1970,10.757636,106.657018,/ho-chi-minh/dong-giang-quan-110-tran-quy/binh-luan
+217,One Steak - Chuyên Bò Mỹ & Cá Hồi - Nguyễn Gia Trí,"168/42 Nguyễn Gia Trí, P. 25, Quận Bình Thạnh, TP. HCM",1038409,2,7.44,28,48,10,0,0,0,02/01/1970,10.805993,106.718036,/ho-chi-minh/one-steak-chuyen-bo-my-ca-hoi-nguyen-gia-tri/binh-luan
+217,Buffet Nan - Khu Du Lịch Bến Xưa,"Khu Du Lịch Bến Xưa, 39A Hà Huy Giáp, P. Thạnh Lộc, Quận 12, TP. HCM",957742,2,9.734,13,32,3,0,0,0,02/01/1970,10.852604,106.677699,/ho-chi-minh/buffet-nan-khu-du-lich-ben-xua/binh-luan
+217,Mong Kok Roast & Noodles,"108 Nguyễn Văn Cừ, P. Nguyễn Cư Trinh, Quận 1, TP. HCM",946073,2,7.274,145,347,11,0,0,0,02/01/1970,10.758055,106.684636,/ho-chi-minh/mong-kok-roast-noodles/binh-luan
+217,Fly Chicken - Ăn Vặt & Trà Sữa,"78 Đường Số 4, Cư Xá Đô Thành, Quận 3, TP. HCM",177965,2,7.056,322,499,72,0,0,0,02/01/1970,10.7724266,106.6821103,/ho-chi-minh/fly-chicken/binh-luan
+217,Sun Merry Bakery,"252/53 Cao Thắng, P. 12, Quận 10, TP. HCM",97351,2,7.228,480,814,28,0,0,0,02/01/1970,10.7752157,106.6716653,/ho-chi-minh/sun-merry-hai-ba-trung/binh-luan
+217,Sushi Kei Giga Mall,"L5-11, TTTM Giga Mall 240 - 242 Phạm Văn Đồng, P. Hiệp Bình Chánh, Tp. Thủ Đức, TP. HCM",882060,2,7.134,78,13,12,0,0,0,02/01/1970,10.8282935951178,106.7222157238221,/ho-chi-minh/sushi-kei-giga-mall/binh-luan
+217,"Trà sữa 94A  - Trà Sữa, Trà Đào, Sữa Tươi Trân Châu Đường Đen - Đường Số 2","94A Đường Số 2, P. Hiệp Bình Phước, Tp. Thủ Đức, TP. HCM",1000026202,2,9.2,0,0,1,0,0,0,02/01/1970,10.8385533,106.7189804,/ho-chi-minh/tra-sua-94a-tra-sua-tra-dao-sua-tuoi-tran-chau-duong-den-duong-so-2.gpejfx/binh-luan
+217,"Vegan House - Món Chay, Ăn Vặt Chay & Sữa Hạt - Phan Sào Nam","32/75 Phan Sào Nam, P. 11, Quận Tân Bình, TP. HCM",1033253,2,8.47,8,22,3,0,0,0,02/01/1970,10.7903245,106.6441398,/ho-chi-minh/vegan-house-mon-chay-an-vat-chay-sua-hat-phan-sao-nam/binh-luan
+217,Thế Giới Steak - Phan Văn Trị,"493 Phan Văn Trị, P. 5, Quận Gò Vấp, TP. HCM",740250,2,7.316,150,434,36,0,0,0,02/01/1970,10.8239359,106.6917897,/ho-chi-minh/the-gioi-steak-phan-van-tri/binh-luan
+217,Funny Beef - Spaghetti & Beefsteak - Lê Đức Thọ,"136 Lê Đức Thọ, P. 7, Quận Gò Vấp, TP. HCM",967082,2,9.166,68,70,6,0,0,0,02/01/1970,10.834884,106.681548,/ho-chi-minh/funny-beef-spaghetti-beefsteak-le-duc-tho/binh-luan
+217,The Huế House - Nhà Hàng Huế,"Rooftop Master Building, 41 - 43 Trần Cao Vân, P. 6, Quận 3, TP. HCM",642367,2,8.14,222,1132,30,0,0,0,02/01/1970,10.783298,106.696834,/ho-chi-minh/the-hue-house-nha-hang-hue/binh-luan
+217,Chi Chi Mo Ba - Cá Viên Chiên & Trà Sữa,"479/10 Phan Văn Trị, P. 5, Quận Gò Vấp, TP. HCM",999738,2,8.268,2,12,3,0,0,0,02/01/1970,10.823043,106.692132,/ho-chi-minh/chi-chi-mo-ba-ca-vien-chien-tra-sua/binh-luan
+217,Kem Nhãn - Nguyễn Minh Hoàng,"58/80 Nguyễn Minh Hoàng, P. 12, Quận Tân Bình, TP. HCM",220018,2,9.6,10,15,1,0,0,0,02/01/1970,10.7983716550028,106.6492435338744,/ho-chi-minh/kem-nhan-nguyen-minh-hoang/binh-luan
+217,Bún Thái Cô Bé Bự - Chợ Cao Đạt,"34/79E Trần Bình Trọng, P. 1, Quận 5, TP. HCM",1000057723,2,4.6,1,0,1,0,0,0,02/01/1970,10.7536207,106.6827925,/ho-chi-minh/bun-thai-co-be-bu-cho-cao-dat/binh-luan
+217,Trâu Nhúng Mẻ 89 - Dương Quảng Hàm,"12 Dương Quảng Hàm, P. 6, Quận Gò Vấp, TP. HCM",127254,2,8.1,81,48,2,0,0,0,02/01/1970,10.8279633,106.6900777999999,/ho-chi-minh/trau-nhung-me-89-duong-quang-ham/binh-luan
+217,Delisa - Fresh Salad Bar - Nguyễn Công Trứ,"158/16 Nguyễn Công Trứ, P. Nguyễn Thái Bình, Quận 1, TP. HCM",860572,2,6.824,115,285,25,0,0,0,02/01/1970,10.769172,106.701198,/ho-chi-minh/delisa-fresh-salad-bar-nguyen-cong-tru/binh-luan
+217,3D Box Cinema Cafe - Vườn Lài," 425 Vườn Lài,  P. Phú Thọ Hòa, Quận Tân Phú, TP. HCM",14845,2,7.63,40,111,7,0,0,0,02/01/1970,10.788012,106.624138,/ho-chi-minh/3d-box-cinema-cafe-vuon-lai/binh-luan
+217,Thanh Vy - Gỏi Cuốn & Bò Bía,"165 Phạm Văn Chiêu, P. 14, Quận Gò Vấp, TP. HCM",902998,2,6.5,5,9,2,0,0,0,02/01/1970,10.847595,106.646671,/ho-chi-minh/thanh-vy-goi-cuon-bo-bia/binh-luan
+217,H&H Food - Crepe & Bánh Cuộn Trứng,"71/23 Trịnh Đình Trọng, P. Phú Trung, Quận Tân Phú, TP. HCM",637228,2,7.944,43,299,7,0,0,0,02/01/1970,10.7742804,106.6428505,/ho-chi-minh/h-h-food-crepe-banh-cuon-trung/binh-luan
+217,Pappa Roti SG - Parkson Hùng Vương,"Tầng Trệt Parkson Hùng Vương, 126 Hùng Vương, P. 12, Quận 5, TP. HCM",15950,2,7.44,69,77,20,0,0,0,02/01/1970,10.756061,106.663068,/ho-chi-minh/pappa-roti-parkson-hung-vuong/binh-luan
+217,Pappa Roti - Vinatex Mart Lãnh Binh Thăng,"Trước cổng Vinatex Lãnh Binh Thăng, Quận 11, TP. HCM",22506,2,7.6,0,3,1,0,0,0,02/01/1970,10.76204,106.650097,/ho-chi-minh/pappa-roti-vinatex-lanh-binh-thang/binh-luan
+217,Cháo Ếch Singapore - 3 Tháng 2,"6 Đường 3 Tháng 2, Quận 11, TP. HCM",287790,2,7.2,4,4,1,0,0,0,02/01/1970,10.763522963164,106.6591706871986,/ho-chi-minh/chao-ech-singapore-3-thang-2/binh-luan
+217,Ốc Đào II - Vĩnh Khánh,"232/123 Vĩnh Khánh, P. 10, Quận 4, TP. HCM",4821,2,6.432,907,589,149,0,0,0,02/01/1970,10.761091,106.705028,/ho-chi-minh/oc-dao-ii-vinh-khanh/binh-luan
+217,Bò Nướng Phố,"195 Bình Thới, P. 9, Quận 11, TP. HCM",756343,2,7.758,84,250,28,0,0,0,02/01/1970,10.76435,106.645045,/ho-chi-minh/bo-nuong-pho/binh-luan
+217,Phở & Bò Kho 178C,"178C Phan Văn Trị, P. 12, Quận Bình Thạnh, TP. HCM",29753,2,5.16,30,5,5,0,0,0,02/01/1970,10.812005,106.695278,/ho-chi-minh/pho-bo-kho-178c/binh-luan
+217,Cháo Lòng - Nơ Trang Long,"89 Nơ Trang Long, Quận Bình Thạnh, TP. HCM",90725,2,6.47,16,196,9,0,0,0,02/01/1970,10.809867,106.695017,/ho-chi-minh/chao-long-no-trang-long/binh-luan
+217,Quán Chay Thanh Lạc,"144 Nguyễn Tất Thành, P. 13, Quận 4, TP. HCM",1066683,2,10.0,12,56,1,0,0,0,02/01/1970,10.7635902,106.7076692,/ho-chi-minh/quan-chay-thanh-lac/binh-luan
+217,Kimbong Toast & Drink - 292 Nguyễn Đình Chiểu,"292 Nguyễn Đình Chiểu, P. 6, Quận 3, TP. HCM",1015390,2,9.398,18,143,6,0,0,0,02/01/1970,10.775481,106.687199,/ho-chi-minh/kimbong-toast-drink-292-nguyen-dinh-chieu/binh-luan
+217,Quán Bò Lá Lốp 286 - Nguyễn Trọng Tuyển,"284 Nguyễn Trọng Tuyển, P. 10, Quận Phú Nhuận, TP. HCM",968357,2,7.13,45,74,8,0,0,0,02/01/1970,10.798167,106.669416,/ho-chi-minh/quan-bo-la-lop-286-nguyen-trong-tuyen/binh-luan
+217,Phở Kim - Nguyễn Thiện Thuật,"002 Lô K Chung Cư Nguyễn Thiện Thuật, Nguyễn Thiện Thuật, P. 1, Quận 3, TP. HCM",653794,2,8.7,11,20,2,0,0,0,02/01/1970,10.770309,106.676932,/ho-chi-minh/pho-kim-nguyen-thien-thuat/binh-luan
+217,Happy BBQ 1 Xiên Nướng Đồng Giá 5K - Sư Vạn Hạnh,"824/28Q Sư Vạn Hạnh, P. 12, Quận 10, TP. HCM",192519,2,7.064,867,1318,125,0,0,0,02/01/1970,10.7758609,106.6681098,/ho-chi-minh/happy-bbq-4-xien-nuong-su-van-hanh/binh-luan
+217,Trường Thạnh - Hủ Tiếu Bò Viên,"145/6 Nguyễn Thiện Thuật, Quận 3, TP. HCM",48823,2,5.01,49,321,26,0,0,0,02/01/1970,10.767944,106.67995,/ho-chi-minh/truong-thanh-hu-tieu-bo-vien/binh-luan
+217,Vịt Quay Phát Thành,"132 Bùi Hữu Nghĩa, P. 7, Quận 5, TP. HCM",30355,2,6.838,296,925,89,0,0,0,02/01/1970,10.7555685,106.6745478,/ho-chi-minh/vit-quay-phat-thanh/binh-luan
+217,Sushi Phước - Bùi Thị Xuân,"245 Bùi Thị Xuân, P. 1, Quận Tân Bình, TP. HCM",1128621,2,8.0,3,0,1,0,0,0,02/01/1970,10.7926681,106.6654866,/ho-chi-minh/sushi-phuoc-bui-thi-xuan/binh-luan
+217,Somtamlam Bangkok Street Food,"K66 Hoàng Diệu , P. 6, Quận 4, TP. HCM",922587,2,7.566,51,287,17,0,0,0,02/01/1970,10.761115,106.700217,/ho-chi-minh/somtamlam-bangkok-street-food/binh-luan
+217,Quán 2Ku - Cá Nướng Rau Rừng,"954 Trường Sa, P. 13, Quận 3, TP. HCM",711910,2,9.312,442,177,11,0,0,0,02/01/1970,10.7851659035394,106.6769879311323,/ho-chi-minh/quan-2ku-ca-nuong-rau-rung/binh-luan
+217,Ốc Tý - Thạch Lam,"58/7 Thạch Lam, P. Phú Thạnh, Quận Tân Phú, TP. HCM",35324,2,6.74,85,168,26,0,0,0,02/01/1970,10.777299,106.630994,/ho-chi-minh/oc-ty-thach-lam/binh-luan
+217,Phở Nhi,"296 Thống Nhất, Quận Gò Vấp, TP. HCM",670179,2,5.628,6,2,7,0,0,0,02/01/1970,10.838845,106.66515,/ho-chi-minh/pho-nhi/binh-luan
+217,The Pizza Company - Hòa Bình,"78D - 80 Hòa Bình, P. 5, Quận 11, TP. HCM",713624,2,7.548,113,17,12,0,0,0,02/01/1970,10.768602,106.638909,/ho-chi-minh/the-pizza-company-hoa-binh/binh-luan
+217,Milano Coffee - 453 Điện Biên Phủ,"453 Điện Biên Phủ, P. 25, Quận Bình Thạnh, TP. HCM",177243,2,8.8,14,11,4,0,0,0,02/01/1970,10.801506,106.7134894,/ho-chi-minh/milano-coffee-453-dien-bien-phu/binh-luan
+217,Bếp Mẹ Bơ - Ăn Vặt - Đường Số 1,"34/3 Đường Số 1, P. Hiệp Bình Phước, Tp. Thủ Đức, TP. HCM",1000027556,2,10.0,0,3,5,0,0,0,02/01/1970,10.8354628,106.7114766,/ho-chi-minh/bep-me-bo-an-vat-duong-so-1/binh-luan
+217,Bún Đậu Homemade - Nguyễn Gia Trí,"213 Nguyễn Gia Trí, P. 25, Quận Bình Thạnh, TP. HCM",913922,2,6.59,289,51,32,0,0,0,02/01/1970,10.806776,106.716144,/ho-chi-minh/bun-dau-homemade-nguyen-gia-tri/binh-luan
+217,Mr Steak - Bò & Gà Rán Sốt Hàn Quốc - Nguyễn Thị Minh Khai,"18Bis/27 Nguyễn Thị Minh Khai, P. Đa Kao, Quận 1, TP. HCM",872664,2,5.6,196,118,32,0,0,0,02/01/1970,10.785597,106.6996654,/ho-chi-minh/mr-steak-take-out-steak-house-nguyen-thi-minh-khai/binh-luan
+217,Bò Bía Trứng - Chợ Tân Định,"127 Nguyễn Hữu Cầu, P. Tân Định, Quận 1, TP. HCM",692682,2,6.684,49,437,19,0,0,0,02/01/1970,10.7896971,106.6903366,/ho-chi-minh/bo-bia-trung-cho-tan-dinh/binh-luan
+217,Lẩu Bò 90,"343 Nguyễn Thái Bình, Quận Tân Bình, TP. HCM",256174,2,7.306,54,170,13,0,0,0,02/01/1970,10.796313990913,106.6523364186286,/ho-chi-minh/lau-bo-90/binh-luan
+217,Bánh Xèo Ba Híu - Đường Số 12,"46/9 Đường Số 12, P. Bình An, Tp. Thủ Đức, TP. HCM",143115,2,6.874,50,107,13,0,0,0,02/01/1970,10.789246,106.730616,/ho-chi-minh/banh-xeo-ba-hiu-duong-so-12/binh-luan
+217,Koilands Coffee,"13 Khổng Tử, P. Bình Thọ, Tp. Thủ Đức, TP. HCM",752558,2,4.53,93,38,20,0,0,0,02/01/1970,10.844588,106.7669278999999,/ho-chi-minh/koilands-coffee/binh-luan
+217,Huyền - Bún Nước & Mì Cay Muối Ớt,"38 Nguyễn Công Hoan, P. 7, Quận Phú Nhuận, TP. HCM",121709,2,3.264,287,1174,178,0,0,0,02/01/1970,10.801117,106.69085,/ho-chi-minh/huyen-bun-nuoc-hem-49/binh-luan
+217,Tàu Hủ Ly Cối - Thạch Thị Thanh,"73Bis Thạch Thị Thanh, P. Tân Định, Quận 1, TP. HCM",1014530,2,8.2,8,10,1,0,0,0,02/01/1970,10.7907119,106.6916404,/ho-chi-minh/thuong-xuan-ganh-an-vat-chay-truyen-thong-thach-thi-thanh/binh-luan
+217,Lotteria - Ga Sài Gòn,"1 Nguyễn Thông, Quận 3, TP. HCM",35753,2,6.508,56,13,13,0,0,0,02/01/1970,10.781888,106.678474,/ho-chi-minh/lotteria-ga-sai-gon/binh-luan
+217,Titoe - Bánh Tráng Nướng,"Hẻm 311 Lương Định Của, P. An Phú, Quận 2, TP. HCM",223021,2,7.0,3,4,1,0,0,0,02/01/1970,10.791934,106.74948,/ho-chi-minh/titoe-banh-trang-nuong/binh-luan
+217,Bạch Tuộc Nướng Kiên Giang - Hòa Bình,"38 Hòa Bình, Quận 11, TP. HCM",240053,2,6.074,76,175,16,0,0,0,02/01/1970,10.7671023,106.6415073,/ho-chi-minh/bach-tuoc-nuong-kien-giang-hoa-binh/binh-luan
+217,Quán Ngã 7 - Hải Sản Tươi Sống,"336	Lê Lợi, P. 3, Quận Gò Vấp, TP. HCM",239972,2,6.6,7,0,1,0,0,0,02/01/1970,10.814573,106.679534,/ho-chi-minh/quan-nga-7-hai-san-tuoi-song/binh-luan
+217,Comachi - Trái Cây Tô & Sinh Tố - Shop Online,"7/37 Thành Thái, P. 14, Quận 10, TP. HCM",948072,2,8.014,15,15,15,0,0,0,02/01/1970,10.7690854689343,106.6657427903152,/ho-chi-minh/comachi-trai-cay-to-sinh-to-shop-online/binh-luan
+217,Bánh Mì Hà Nội Phúc Vy - Bạch Đằng,"194 Bạch Đằng, P. 24, Quận Bình Thạnh, TP. HCM",1111293,2,9.81,0,757,54,0,0,0,02/01/1970,10.8033446,106.7061018,/ho-chi-minh/banh-mi-ha-noi-phuc-vy-bach-dang/binh-luan
+217,Bánh Canh Cua - Nguyễn Bỉnh Khiêm,"25 Nguyễn Bỉnh Khiêm, Quận 1, TP. HCM",1021472,2,7.0,4,3,1,0,0,0,02/01/1970,10.787827,106.704321,/ho-chi-minh/banh-canh-cua-nguyen-binh-khiem/binh-luan
+217,Út Linh - Bún Chả Cá & Nem Nướng,"195/36 Trần Văn Đang, P. 11, Quận 3, TP. HCM",1041776,2,9.256,29,23,7,0,0,0,02/01/1970,10.785471,106.672981,/ho-chi-minh/bun-cha-ca-nem-nuong-ut-linh/binh-luan
+217,Hải Sản 68 - Quán Nhậu Gò Vấp,"18A Phan Văn Trị, P. 10, Quận Gò Vấp, TP. HCM",930429,2,8.4,278,46,9,0,0,0,02/01/1970,10.832898,106.672098,/ho-chi-minh/hai-san-68-quan-nhau-go-vap/binh-luan
+217,Star Cafe - Trường Sơn,"Tầng 2, Nhà Ga Quốc Tế, Quận Tân Bình, TP. HCM",48740,2,5.458,104,7,14,0,0,0,02/01/1970,10.815823,106.66362,/ho-chi-minh/star-cafe-truong-son/binh-luan
+217,"Minh Ký - Canh Tiềm Dinh Dưỡng, Gà Ác & Bồ Câu","185 - 189 Trần Tuấn Khải, P. 5, Quận 5, TP. HCM",1024774,2,8.556,20,92,9,0,0,0,02/01/1970,10.752963,106.673517,/ho-chi-minh/minh-ky-canh-tiem-dinh-duong-ga-ac-bo-cau/binh-luan
+217,Lẩu Đuôi Bò A Tài,"Hẻm 372 Cách Mạng Tháng 8, P. 10, Quận 3, TP. HCM",46987,2,6.022,60,338,27,0,0,0,02/01/1970,10.783248,106.673512,/ho-chi-minh/lau-duoi-bo-a-tai/binh-luan
+217,Súp Cua & Phá Lấu - Cô Giang,"53 Cô Giang, Quận 1, TP. HCM",691355,2,7.678,81,250,18,0,0,0,02/01/1970,10.7641254,106.6961027,/ho-chi-minh/sup-cua-pha-lau-co-giang/binh-luan
+217,Cháo Gỏi Vịt Người Hoa - Cháo Gỏi Vịt - Trần Thị Bảy,"52i Trần Thị Bảy, P. Hiệp Thành, Quận 12, TP. HCM",90498,2,7.48,11,20,5,0,0,0,02/01/1970,10.8781072,106.6377185,/ho-chi-minh/lau-ca-diem-hen/binh-luan
+217,Ốc 7 - Huỳnh Mẫn Đạt,"56 Huỳnh Mẫn Đạt, P. 19, Quận Bình Thạnh, TP. HCM",1111876,2,10.0,0,0,1,0,0,0,02/01/1970,10.7906906,106.7086364,/ho-chi-minh/oc-7-huynh-man-dat/binh-luan
+217,Năm Đạt - Quách Đình Bảo,"231 Quách Đình Bảo, P. Phú Thạnh, Quận Tân Phú, TP. HCM",24164,2,5.76,9,24,5,0,0,0,02/01/1970,10.782282,106.621698,/ho-chi-minh/nam-dat-quach-dinh-bao/binh-luan
+217,Cô Thu - Súp Cua & Bánh Tráng Trộn,"2 Mai Thị Lựu, P. Đa Kao, Quận 1, TP. HCM",751515,2,9.2,6,5,1,0,0,0,02/01/1970,10.790169,106.700345,/ho-chi-minh/co-thu-sup-cua-banh-trang-tron/binh-luan
+217,Bánh Flan Bình Thuận - Vũ Huy Tấn,"2 Vũ Huy Tấn, P. 3, Quận Bình Thạnh, TP. HCM",161804,2,7.424,162,220,25,0,0,0,02/01/1970,10.7957416,106.6953692,/ho-chi-minh/banh-flan-binh-thuan-vu-huy-tan/binh-luan
+217,"Yeebo Di Bửu - Seafood, Hot Pot & Dimsum - Nguyễn Văn Trỗi","76 Nguyễn Văn Trỗi, P. 15, Quận Phú Nhuận, TP. HCM",21817,2,7.262,538,175,63,0,0,0,02/01/1970,10.795852,106.675569,/ho-chi-minh/yeebo-di-buu-nguyen-van-troi/binh-luan
+217,Kichi Kichi Lẩu Băng Chuyền - AEON Mall Tân Phú,"Tầng 3 AEON Mall Tân Phú, 30 Bờ Bao Tân Thắng, P. Sơn Kỳ, Quận Tân Phú, TP. HCM",133893,2,8.574,645,126,215,0,0,0,02/01/1970,10.801526,106.617653,/ho-chi-minh/kichi-kichi-lau-bang-chuyen-aeon-mall/binh-luan
+217,Bánh Đúc & Bánh Bò,"428 Nguyễn Thượng Hiền, P. 4, Quận 3, TP. HCM",724616,2,1.0,4,2,1,0,0,0,02/01/1970,10.773155,106.684653,/ho-chi-minh/banh-duc-banh-bo/binh-luan
+217,Gà Bó Xôi 1Ngon,"65/6 Nguyễn Thị Huê, Ấp Trung Lân, Xã Bà Điểm, Huyện Hóc Môn, TP. HCM",697140,2,7.328,90,66,17,0,0,0,02/01/1970,10.845386,106.602963,/ho-chi-minh/ga-bo-xoi-1ngon/binh-luan
+217,"Chị Hà - Súp Cua Bong Bóng Cá, Óc & Tủy","52 Lão Tử, P. 14, Quận 5, TP. HCM",866210,2,3.8,17,35,4,0,0,0,02/01/1970,10.753614,106.657729,/ho-chi-minh/chi-ha-sup-cua-bong-bong-ca-oc-tuy/binh-luan
+217,Trà Sữa Bobapop - Đại Học Nông Lâm,"8 - 9 Đại Học Nông Lâm, KP. 6, P. Linh Trung, Tp. Thủ Đức, TP. HCM",711060,2,8.034,15,10,18,0,0,0,02/01/1970,10.869242,106.788072,/ho-chi-minh/tra-sua-bobapop-dai-hoc-nong-lam/binh-luan
+217,Quán Nem - Nem Cua Biển & Bún Chả - Nguyễn Thị Minh Khai,"15E Nguyễn Thị Minh Khai, P. Bến Nghé, Quận 1, TP. HCM",118,2,6.794,585,938,146,0,0,0,02/01/1970,10.785743,106.700979,/ho-chi-minh/quan-nem-nguyen-thi-minh-khai/binh-luan
+217,Cháo Ếch Singapore Việt Sing - Đường Số 6,"90 Đường Số 6, P. Linh Trung, Tp. Thủ Đức, TP. HCM",972645,2,9.358,85,79,15,0,0,0,02/01/1970,10.859915,106.767027,/ho-chi-minh/chao-ech-singapore-viet-sing-duong-so-6/binh-luan
+217,Quán Chay Hiếu Hạnh - Tân Kỳ Tân Quý,"14 Tân Kỳ Tân Quý, Quận Tân Phú, TP. HCM",128204,2,6.8,14,30,4,0,0,0,02/01/1970,10.80391,106.636541,/ho-chi-minh/quan-chay-hieu-hanh-tan-ky-tan-quy/binh-luan
+217,Bánh Mì Quỳnh Hương,"14 Phan Văn Trị, Quận Bình Thạnh, TP. HCM",28180,2,8.056,8,43,7,0,0,0,02/01/1970,10.806517,106.697589,/ho-chi-minh/banh-mi-quynh-huong/binh-luan
+217,Đức Ký Mì Gia,"633/45 Điện Biên Phủ (Đối Diện Chung Cư Lô C Nguyễn Thiện Thuật), P. 1, Quận 3, TP. HCM",736917,2,7.02,124,176,21,0,0,0,02/01/1970,10.769009,106.67596,/ho-chi-minh/duc-ki-mi-gia/binh-luan
+217,Hủ Tiếu Gà Xé,"Hẻm 319 Tân Phước, P. 6, Quận 11, TP. HCM",997014,2,6.2,7,4,1,0,0,0,02/01/1970,10.759818,106.655478,/ho-chi-minh/hu-tieu-ga-xe/binh-luan
+217,Alibaba - Buffet Tự Chọn 119K - Tân Hóa,"76 Tân Hóa, P. 3, Quận 11, TP. HCM",802751,2,5.44,38,29,10,0,0,0,02/01/1970,10.758697,106.634571,/ho-chi-minh/alibaba-buffet-tu-chon-119k-tan-hoa/binh-luan
+217,Quà Hà Nội Quán - Võ Văn Tần,"21/1 Võ Văn Tần, P. 6, Quận 3, TP. HCM",136323,2,7.466,426,558,63,0,0,0,02/01/1970,10.777891,106.692114,/ho-chi-minh/qua-ha-noi-quan-vo-van-tan/binh-luan
+217,Vitaminee Trái Cây - Sinh Tố & Nước Ép,"95/4 Tân Cảng, P. 25, Quận Bình Thạnh, TP. HCM",49140,2,6.61,623,937,97,0,0,0,02/01/1970,10.80128,106.721097,/ho-chi-minh/vitaminee-sinh-to-nuoc-ep/binh-luan
+217,Trà Sữa Bobapop - Đinh Tiên Hoàng,"87R Đinh Tiên Hoàng, P.13, Quận Bình Thạnh, TP. HCM",649027,2,6.514,133,69,69,0,0,0,02/01/1970,10.79719,106.696015,/ho-chi-minh/tra-sua-bobapop-dinh-tien-hoang/binh-luan
+217,Phúc Kỳ - Bún Đậu Mắm Tôm - Hoàng Diệu 2,"200 Hoàng Diệu 2, P. Linh Chiểu, Tp. Thủ Đức, TP. HCM",734414,2,7.21,395,185,100,0,0,0,02/01/1970,10.854694,106.768248,/ho-chi-minh/phuc-ky-bun-dau-mam-tom-hoang-dieu-2/binh-luan
+217,Mì Vịt Tiềm Phong Ký - Lý Thường Kiệt,"444 Lý Thường Kiệt, P. 7, Quận Tân Bình, TP. HCM",137191,2,6.832,15,31,6,0,0,0,02/01/1970,10.785624,106.654119,/ho-chi-minh/mi-vit-tiem-phong-ky-ly-thuong-kiet/binh-luan
+217,Hood - Trà Sữa & Ăn Vặt,"95/6 Lê Văn Duyệt, P. 3, Quận Bình Thạnh, TP. HCM",1046962,2,9.588,34,32,15,0,0,0,02/01/1970,10.798453,106.696007,/ho-chi-minh/hood-tra-sua-an-vat/binh-luan
+217,Ko'k - Ăn Vặt - Vĩnh Viễn,"209B Vĩnh Viễn, Phường 4, Quận 10, TP. HCM",1039733,2,9.674,74,629,46,0,0,0,02/01/1970,10.764018,106.669361,/ho-chi-minh/an-vat-ko-k-vinh-vien/binh-luan
+217,The Pizza Company - Estella Place,"L4-6A-7B, Tầng 4, Estella Place, 88 Song Hành, P. An Phú, Tp. Thủ Đức, TP. HCM",916482,2,8.3,2,4,2,0,0,0,02/01/1970,10.802097,106.74846,/ho-chi-minh/the-pizza-company-estella-place/binh-luan
+217,Deku Salad,"30 Đường 59, P. Thảo Điền, Tp. Thủ Đức, TP. HCM",751190,2,8.4,13,80,2,0,0,0,02/01/1970,10.808663,106.729615,/ho-chi-minh/deku-salad/binh-luan
+217,Gờ Cafe - Chung Cư Phạm Viết Chánh,"B10 Chung Cư Phạm Viết Chánh, Phạm Viết Chánh, P. 19, Quận Bình Thạnh, TP. HCM",767056,2,8.1,7,8,4,0,0,0,02/01/1970,10.7908722,106.7113725,/ho-chi-minh/go-cafe-chung-cu-pham-viet-chanh/binh-luan
+217,Là Việt Coffee Saigon - Tú Xương,"57A Tú Xương, P. 7, Quận 3, TP. HCM",985416,2,5.446,35,30,13,0,0,0,02/01/1970,10.777693,106.683591,/ho-chi-minh/la-viet-coffee-saigon-tu-xuong/binh-luan
+217,Bánh Tráng Trộn Chú Thọ - Thích Quảng Đức,"3 Thích Quảng Đức, P. 3, Quận Phú Nhuận, TP. HCM",1148127,2,9.65,16,1,4,0,0,0,02/01/1970,10.8038041,106.6840174,/ho-chi-minh/banh-trang-tron-chu-tho-thich-quang-duc/binh-luan
+217,Pizza Inn - Phú Mỹ Hưng,"C001 Chung Cư Mỹ Phước, Phạm Thái Bường, P. Tân Phong, Quận 7, TP. HCM",4356,2,6.71,78,89,27,0,0,0,02/01/1970,10.727467,106.710512,/ho-chi-minh/pizza-inn-nguyen-duc-canh/binh-luan
+217,Cơm Gà Xối Mỡ 268 - Nguyễn Văn Đậu,"268 Nguyễn Văn Đậu, Quận Bình Thạnh, TP. HCM",49993,2,7.136,79,147,19,0,0,0,02/01/1970,10.813007,106.69358,/ho-chi-minh/com-ga-xoi-mo-268-nguyen-van-dau/binh-luan
+217,Cơm Trộn 2 Cô - Tân Canh,"23 Tân Canh, P. 1, Quận Tân Bình, TP. HCM",163473,2,6.518,1685,2033,349,0,0,0,02/01/1970,10.7966849,106.6674437,/ho-chi-minh/com-tron-2-co-tan-canh/binh-luan
+217,Trà Sữa Xiên Que Hot & Cold - Lê Trọng Tấn,"723 Lê Trọng Tấn, P. Bình Hưng Hòa, Quận Bình Tân, TP. HCM",315908,2,6.284,162,42,29,0,0,0,02/01/1970,10.8154154,106.6038998999999,/ho-chi-minh/tra-sua-xien-que-hot-cold-le-trong-tan/binh-luan
+217,"3 Râu - Gà Rán, Pizza & Trà Sữa - Lê Trọng Tấn","808 Lê Trọng Tấn, Quận Bình Tân, TP. HCM",1036806,2,8.8,4,1,2,0,0,0,02/01/1970,10.816118,106.602322,/ho-chi-minh/3-rau-ga-ran-pizza-tra-sua-le-trong-tan/binh-luan
+217,Cuốn Và Chấm - Trương Định,"73 Trương Định, P. 6, Quận 3, TP. HCM",952093,2,8.036,48,56,81,0,0,0,02/01/1970,10.777381,106.689906,/ho-chi-minh/cuon-va-cham-truong-dinh/binh-luan
+217,Library Coffee - Cafe Thư Viện,"Lầu 3, 70 Trương Quốc Dung, P. 10, Quận Phú Nhuận, TP. HCM",99560,2,8.866,1,47,3,0,0,0,02/01/1970,10.7956517,106.67247,/ho-chi-minh/library-coffee-cafe-thu-vien/binh-luan
+217,"Huo Cha - Trà Sữa, Nước Ép & Ăn Vặt - Tô Vĩnh Diện","78A Tô Vĩnh Diện, P. Linh Chiểu, Tp. Thủ Đức, TP. HCM",1079181,2,8.6,1,1,1,0,0,0,02/01/1970,10.8527983,106.7673159,/ho-chi-minh/huo-cha-tra-sua-nuoc-ep-an-vat-to-vinh-dien/binh-luan
+217,Cơm Tấm Tí Nị,"184 Nguyễn Thượng Hiền, P. 4, Quận 3, TP. HCM",218086,2,7.388,20,159,16,0,0,0,02/01/1970,10.7751216,106.683365,/ho-chi-minh/com-tam-ti-ni/binh-luan
+217,Strawberry Cafe - Tân Lập,"37 Tân Lập, Tp. Thủ Đức, TP. HCM",153250,2,8.0,32,20,1,0,0,0,02/01/1970,10.8761380073352,106.809455741764,/ho-chi-minh/strawberry-cafe-tan-lap/binh-luan
+217,Tiến Hải Quán - Bún Đậu Mắm Tôm - Nguyễn Sơn,"39 Nguyễn Sơn, P. Phú Thạnh, Quận Tân Phú, TP. HCM",760382,2,7.056,56,95,18,0,0,0,02/01/1970,10.781006,106.632244,/ho-chi-minh/tien-hai-quan-bun-dau-mam-tom-nguyen-son/binh-luan
+217,Bella Pizza - Meatlove - Điện Biên Phủ,"633/57 Điện Biên Phủ, P. 1, Quận 3, TP. HCM",1000044749,2,10.0,2,0,1,0,0,0,02/01/1970,10.7681125,106.6780783,/ho-chi-minh/bella-pizza-meatlove-dien-bien-phu.uppk3g/binh-luan
+217,Supreme Noodle - Mì Trộn Sa Tế,"108/22 Nguyễn Thiện Thuật, P. 2, Quận 3, TP. HCM",1063367,2,8.668,6,21,3,0,0,0,02/01/1970,10.767839,106.6808294,/ho-chi-minh/supreme-noodle-mi-tron-sa-te/binh-luan
+217,Hủ Tiếu & Mì Hoành Thánh - Vạn Kiếp,"146 Vạn Kiếp, Quận Bình Thạnh, TP. HCM",735180,2,2.6,5,8,1,0,0,0,02/01/1970,10.7989477,106.6937719,/ho-chi-minh/hu-tieu-mi-hoanh-thanh-van-kiep/binh-luan
+217,Ốc Mâm 5 Món,"30 Nguyễn Ngọc Lộc, P. 14, Quận 10, TP. HCM",240498,2,7.646,176,187,13,0,0,0,02/01/1970,10.766771,106.663572,/ho-chi-minh/oc-mam-5-mon/binh-luan
+217,Hủ Tiếu Mì Hoành Thánh - Hưng Phú,"593B Hưng Phú, Quận 8, TP. HCM",207751,2,5.6,8,9,2,0,0,0,02/01/1970,10.74654,106.67103,/ho-chi-minh/hu-tieu-mi-hoanh-thanh-hung-phu/binh-luan
+217,Chân Gà Nướng & Các Món Ốc,"Trần Kế Xương, Quận Phú Nhuận, TP. HCM",720860,2,6.0,14,0,1,0,0,0,02/01/1970,10.80233,106.690089,/ho-chi-minh/chan-ga-nuong-cac-mon-oc/binh-luan
+217,Xuân - Vietnamese Cuisine - Nguyễn Thiện Thuật,"111 Nguyễn Thiện Thuật, P. 2, Quận 3, TP. HCM",755892,2,8.0,72,34,5,0,0,0,02/01/1970,10.767518,106.680342,/ho-chi-minh/xuan-vietnamese-cuisine-nguyen-thien-thuat/binh-luan
+217,Namidora Coffee,"611 Nguyễn Đình Chiểu, P. 2, Quận 3, TP. HCM",792148,2,8.278,169,18,13,0,0,0,02/01/1970,10.7672401,106.6796775999999,/ho-chi-minh/namidora-coffee/binh-luan
+217,S.Tix Coffee - Quận 8,"46 Bến Cần Giuộc, P. 13, Quận 8, TP. HCM",1080111,2,8.3,3,0,2,0,0,0,02/01/1970,10.74712,106.65992,/ho-chi-minh/s-tix-coffee-quan-8/binh-luan
+217,Bún Thái NI - Hoàng Hoa Thám,"232 Hoàng Hoa Thám, P. 5, Quận Bình Thạnh, TP. HCM",976680,2,7.4,1,11,4,0,0,0,02/01/1970,10.809053,106.6840153,/ho-chi-minh/bun-thai-ni/binh-luan
+217,Pharaohs BBQ - Egypt Restaurant - Asiana Food Town,"Q15 - 16, Asiana Food Town, 4 Phạm Ngũ Lão, P. Phạm Ngũ Lão, Quận 1, TP. HCM",751366,2,6.666,84,32,3,0,0,0,02/01/1970,10.769062,106.6937379999999,/ho-chi-minh/pharaohs-bbq-egypt-restaurant-asiana-food-town/binh-luan
+217,Gen Dining - Nhà Hàng Âu Á,"140 Lý Chính Thắng, P. 7, Quận 3, TP. HCM",785466,2,5.0,2,3,1,0,0,0,02/01/1970,10.787046,106.684713,/ho-chi-minh/gen-dining-nha-hang-au-a/binh-luan
+217,Ahihi - Fruit & Yogurt,"17/3 Nguyễn Thị Minh Khai, P. Bến Nghé, Quận 1, TP. HCM",730312,2,9.49,108,993,138,0,0,0,02/01/1970,10.7850243,106.700535,/ho-chi-minh/ahihi-fruit-yogurt/binh-luan
+217,Sầu Riêng Sạch & Trái Cây Sạch 436 - Cách Mạng Tháng 8,"436/11/1 Cách Mạng Tháng Tám, P. 11, Quận 3, TP. HCM",1148848,2,8.75,3,2,4,0,0,0,02/01/1970,10.7843641,106.6703517,/ho-chi-minh/sau-rieng-sach-trai-cay-sach-436-cach-mang-thang-8/binh-luan
+217,Tiệm Trà An Nhiên,"47 Trần Thiện Chánh, P. 12, Quận 10, TP. HCM",934380,2,8.5,27,20,2,0,0,0,02/01/1970,10.771002,106.670921,/ho-chi-minh/tiem-tra-an-nhien/binh-luan
+217,Cô Ánh - Ăn Vặt & Bánh Tráng Trộn Tỏi Muối,"55/43 Nguyễn Văn Công, P. 3, Quận Gò Vấp, TP. HCM",987040,2,7.68,11,72,5,0,0,0,02/01/1970,10.8228331,106.677124,/ho-chi-minh/co-anh-banh-trang-tron-toi-muoi/binh-luan
+217,Bánh Đa & Bún Cá Rô Đồng,"005 Lô G Chung Cư Miếu Nổi, Vũ Huy Tấn, P. 3, Quận Bình Thạnh, TP. HCM",735720,2,6.2,11,14,1,0,0,0,02/01/1970,10.7956865,106.6939108,/ho-chi-minh/banh-da-bun-ca-ro-dong/binh-luan
+217,30/4 Cafe & Restaurant,"1 Huyền Trân Công Chúa, Quận 1, TP. HCM",33467,2,6.476,128,87,24,0,0,0,02/01/1970,10.775679,106.695158,/ho-chi-minh/30-4-cafe-restaurant/binh-luan
+217,Lươn Nghệ An Bà Hai,"188 Nguyễn Hồng Đào, P. 14, Quận Tân Bình, TP. HCM",219702,2,6.968,113,135,18,0,0,0,02/01/1970,10.791625,106.641608,/ho-chi-minh/luon-nghe-an-ba-hai/binh-luan
+217,Lee Dim Sum - Há Cảo Đặc Biệt Nhà Làm,"4 Đường Số 9, Cư Xá Bình Thới, P. 8, Quận 11, TP. HCM",769030,2,7.326,50,186,11,0,0,0,02/01/1970,10.764454,106.647574,/ho-chi-minh/lee-dim-sum-ha-cao-dac-biet-nha-lam/binh-luan
+217,Vịt Quay Lạng Sơn Phú Hà Thành,"81 Trần Hữu Trang, P. 10, Quận Phú Nhuận, TP. HCM",1055584,2,9.592,12,529,70,0,0,0,02/01/1970,10.793858,106.67284,/ho-chi-minh/vit-quay-lang-son-phu-ha-thanh/binh-luan
+217,Lễ Hội Ẩm Thực Vedan Biết Nấu Ăn Là Chuẩn Oppa,"Công Viên Lê Thị Riêng, 875 Cách Mạng Tháng 8, P. 7, Quận 10, TP. HCM",891543,2,10.0,13,1,1,0,0,0,02/01/1970,10.785088,106.665426,/ho-chi-minh/le-hoi-am-thuc-vedan-biet-nau-an-la-chuan-oppa/binh-luan
+217,Bánh Mì Xíu Mại Đà Lạt Dì Liên - Đường Số 13,"5 Đường Số 13, P. 4, Quận 8, TP. HCM",48596,2,8.4,16,31,1,0,0,0,02/01/1970,10.7408921,106.6711414,/ho-chi-minh/banh-mi-xiu-mai-da-lat/binh-luan
+217,Cháo Sườn - Trần Quang Khải,"269B Trần Quang Khải, Quận 1, TP. HCM",134775,2,6.644,64,227,9,0,0,0,02/01/1970,10.7912647,106.6879591,/ho-chi-minh/chao-suon-tran-quang-khai/binh-luan
+217,Cháo Sườn 338,"338 Hai Bà Trưng, Quận 1, TP. HCM",187528,2,4.302,11,36,8,0,0,0,02/01/1970,10.7900301,106.6895252,/ho-chi-minh/chao-suon-338/binh-luan
+217,Quán Cơm 20k,"180/A9 Bùi Văn Ba, P. Tân Thuận Đông, Quận 7, TP. HCM",733275,2,5.7,31,10,2,0,0,0,02/01/1970,10.747124,106.734062,/ho-chi-minh/quan-com-20k/binh-luan
+217,Phúc Bửu Thiên - Dimsum & Món Hoa,"122D Cách Mạng Tháng 8, P. 7, Quận 3, TP. HCM",759026,2,5.834,20,14,6,0,0,0,02/01/1970,10.777232,106.682922,/ho-chi-minh/phuc-buu-thien-dimsum-mon-hoa/binh-luan
+217,Bánh Ướt Minh Châu,"400 Lê Văn Sỹ, Quận 3, TP. HCM",70853,2,3.5,18,46,10,0,0,0,02/01/1970,10.788713,106.676659,/ho-chi-minh/banh-uot-minh-chau/binh-luan
+217,Buffet Nướng - Khách Sạn Hương Sen,"66 - 70 Đồng Khởi, Quận 1, TP. HCM",47563,2,7.696,290,340,29,0,0,0,02/01/1970,10.775008,106.704322,/ho-chi-minh/buffet-nuong-khach-san-huong-sen/binh-luan
+217,Thầy Hải - Bún Bò & Lẩu Bò,"40/8A Trần Xuân Soạn, P. Tân Thuận Tây, Quận 7, TP. HCM",116471,2,7.4,14,25,3,0,0,0,02/01/1970,10.75234,106.722374,/ho-chi-minh/thay-hai-bun-bo-lau-bo/binh-luan
+217,Cúc Kía - Bánh Ú Người Tiều,"100 Đường C4, Xã Bình Hưng, Huyện Bình Chánh, TP. HCM",795915,2,8.566,14,199,6,0,0,0,02/01/1970,10.729384,106.672863,/ho-chi-minh/cuc-kia-banh-u-nguoi-tieu/binh-luan
+217,Fika Getogether - Coffee & Tea,"602/32 Điện Biên Phủ, P. 22, Quận Bình Thạnh, TP. HCM",1056512,2,6.402,81,64,9,0,0,0,02/01/1970,10.7982731084759,106.7176458201065,/ho-chi-minh/fika-getogether-coffee-tea/binh-luan
+217,Súp Cua Phú Ký,"241 Lãnh Binh Thăng, P. 12, Quận 11, TP. HCM",1049601,2,3.6,1,1,1,0,0,0,02/01/1970,10.7625454,106.6520067,/ho-chi-minh/sup-cua-phu-ky/binh-luan
+217,Súp Cua Tôn Đản,"206 Tôn Đản, P. 10, Quận 4, TP. HCM",261311,2,3.0,2,4,1,0,0,0,02/01/1970,10.757905,106.706378,/ho-chi-minh/sup-cua-ton-dan/binh-luan
+217,HumiFood - Shop Online,"288/2 Lò Siêu, P. 13, Quận 11, TP. HCM",211960,2,7.732,4,85,3,0,0,0,02/01/1970,10.762996,106.651407,/ho-chi-minh/humifood-shop-online/binh-luan
+217,Lẩu Dê Minh Phụng - Tuệ Tĩnh,"91 Tuệ Tĩnh, P. 13, Quận 11, TP. HCM",19848,2,6.828,5,30,7,0,0,0,02/01/1970,10.763381,106.654474,/ho-chi-minh/lau-de-minh-phung-tue-tinh/binh-luan
+217,Zhengxin Chicken Steak - Lò Siêu,"302 Lò Siêu, P. 13, Quận 11, TP. HCM",873260,2,3.72,8,10,5,0,0,0,02/01/1970,10.763224,106.651298,/ho-chi-minh/zhengxin-chicken-steak-lo-sieu/binh-luan
+217,A Mùi - Quán Ốc,"124/32 Lê Thị Bạch Cát, P.13, Quận 11, TP. HCM",250458,2,5.8,11,2,1,0,0,0,02/01/1970,10.7652629,106.651681,/ho-chi-minh/a-mui-quan-oc/binh-luan
+217,Bún Mì Vàng - Tuệ Tĩnh,"3 Chung Cư Tuệ Tĩnh, P. 13, Quận 11, TP. HCM",19968,2,7.4,13,13,2,0,0,0,02/01/1970,10.764419,106.653664,/ho-chi-minh/bun-mi-vang-tue-tinh/binh-luan
+217,Mr Kimbap,"88 Phạm Văn Nghị, P. Tân Phong, Quận 7, TP. HCM",739489,2,6.8,3,35,1,0,0,0,02/01/1970,10.730535,106.70671,/ho-chi-minh/mr-kimbap/binh-luan
+217,Paulie's Pizza & Pasta - Lê Văn Sỹ,"360 Lê Văn Sỹ, P. 2, Quận Tân Bình, TP. HCM",759165,2,8.372,50,57,7,0,0,0,02/01/1970,10.7978492,106.6636479,/ho-chi-minh/paulie-s-pizza-pasta-le-van-sy/binh-luan
+217,Bún Mắm Út,"83 Trần Xuân Soạn, Quận 7, TP. HCM",105690,2,8.4,2,33,1,0,0,0,02/01/1970,10.7518268,106.7048135,/ho-chi-minh/bun-mam-ut-105690/binh-luan
+217,Bún Mắm Chị Châm - Chợ Nguyễn Hữu Hào,"Chợ Nguyễn Hữu Hào, Nguyễn Hữu Hào, P. 6, Quận 4, TP. HCM",893464,2,8.064,2,13,3,0,0,0,02/01/1970,10.762486,106.700413,/ho-chi-minh/bun-mam-chi-cham-cho-nguyen-huu-hao/binh-luan
+217,Bánh Nước Cốt Dừa - Chợ Bà Chiểu,"306 Bùi Hữu Nghĩa, P. 2, Quận Bình Thạnh, TP. HCM",994051,2,7.04,18,172,5,0,0,0,02/01/1970,10.800819,106.69929,/ho-chi-minh/banh-nuoc-cot-dua-cho-ba-chieu/binh-luan
+217,Chang Kang Kung - Hấp Thủy Nhiệt Hong Kong - Crescent Mall,"Tầng 5 - Khu Foodcourt, Crescent Mall, 101 Tôn Dật Tiên, P. Tân Phú, Quận 7, TP. HCM",671745,2,7.506,273,149,34,0,0,0,02/01/1970,10.728741,106.718784,/ho-chi-minh/chang-kang-kung-hai-san-khoi-crescent-mall/binh-luan
+217,Bánh Huế Khánh Tâm,"005 Lô 9, Cư Xá Thanh Đa, P. 27, Quận Bình Thạnh, TP. HCM",898414,2,7.0,9,9,1,0,0,0,02/01/1970,10.817226,106.71845,/ho-chi-minh/banh-hue-khanh-tam/binh-luan
+217,Bánh Mì Minh Châu 1,"113 Hoàng Diệu, P. 12, Quận 4, TP. HCM",122629,2,7.5,12,3,4,0,0,0,02/01/1970,10.7635336,106.7038857999999,/ho-chi-minh/banh-mi-minh-chau-1/binh-luan
+217,Cafe Central Nguyễn Huệ,"74 Nguyễn Huệ, P. Bến Nghé, Quận 1, TP. HCM",3572,2,6.938,372,233,68,0,0,0,02/01/1970,10.775099,106.703051,/ho-chi-minh/cafe-central-nguyen-hue/binh-luan
+217,Tabu - Tiệm Bánh & Bò Né,"148 Tân Hòa Đông, P. 14, Quận 6, TP. HCM",959776,2,1.0,0,0,1,0,0,0,02/01/1970,10.759621,106.628717,/ho-chi-minh/tabu-tiem-banh-bo-ne/binh-luan
+217,Hủ Tíu Nam Vang Quỳnh Anh - Lê Văn Sỹ,"327 Lê Văn Sỹ, P. 1, Quận Tân Bình, TP. HCM",9302,2,5.64,142,69,36,0,0,0,02/01/1970,10.7953365,106.66682,/ho-chi-minh/hu-tiu-nam-vang-quynh-anh-le-van-sy/binh-luan
+217,Marduk - Korean Restaurant - Phú Mỹ Hưng,"09 Bùi Bằng Đoàn, Khu phố Hưng Vượng 2, P. Tân Phong, Quận 7, TP. HCM",981736,2,7.058,109,428,14,0,0,0,02/01/1970,10.7303835782748,106.7086823480986,/ho-chi-minh/marduk-korean-restaurant-phu-my-hung/binh-luan
+217,Brodard Gourmet Bakery - Đồng Khởi,"55 Đồng Khởi, P. Bến Nghé, Quận 1, TP. HCM",701507,2,5.75,39,47,4,0,0,0,02/01/1970,10.773929,106.70492,/ho-chi-minh/brodard-gourmet-bakery-dong-khoi/binh-luan
+217,Sài Gòn Givral Cafe - Nguyễn Văn Linh,"F001 Nguyễn Văn Linh, KP. Mỹ Phước, Quận 7, TP. HCM",46499,2,7.2,352,37,14,0,0,0,02/01/1970,10.728267,106.7106329,/ho-chi-minh/sai-gon-givral-cafe-nguyen-van-linh/binh-luan
+217,Xôi Gà Thu Vân,"52 Nguyễn Huy Tự, P. Đa Kao, Quận 1, TP. HCM",77381,2,5.8,23,180,9,0,0,0,02/01/1970,10.7928124,106.6960296,/ho-chi-minh/xoi-ga-thu-van/binh-luan
+217,Cơm Tấm Tín Mập,"68D Trần Bình Trọng, P. 5, Quận Bình Thạnh, TP. HCM",710183,2,8.486,3,20,7,0,0,0,02/01/1970,10.814539,106.686876,/ho-chi-minh/com-tam-tin-map/binh-luan
+217,Mi Đốm - Sâm Dừa Coconutty,"Block B, Chung Cư Bình Minh, Đường 45, P. An Khánh, Tp. Thủ Đức, TP. HCM",937313,2,8.934,10,55,3,0,0,0,02/01/1970,10.7895172,106.7353355,/ho-chi-minh/mi-dom-sam-dua-coconutty/binh-luan
+217,Ốc Đào - Nguyễn Trãi,"212B/C79 Nguyễn Trãi, P. Nguyễn Cư Trinh, Quận 1, TP. HCM",1171,2,6.524,2628,2344,383,0,0,0,02/01/1970,10.765034,106.684873,/ho-chi-minh/oc-dao-nguyen-trai/binh-luan
+217,Ốc Quyên 2,"159/1 Bình Thành, Quận Bình Tân, TP. HCM",693008,2,5.0,45,5,1,0,0,0,02/01/1970,10.804252,106.587864,/ho-chi-minh/oc-quyen-2/binh-luan
+217,Chilli Thai - Lý Tự Trọng,"93 Lý Tự Trọng, P. Bến Thành, Quận 1, TP. HCM",1012534,2,5.962,88,94,16,0,0,0,02/01/1970,10.774336,106.6979301,/ho-chi-minh/chilli-thai-ly-tu-trong/binh-luan
+217,Mì Xào Bò Trứng & Mì Ý - Võ Thị Sáu,"160/3 Võ Thị Sáu, P. 8, Quận 3, TP. HCM",1023498,2,9.8,1,6,1,0,0,0,02/01/1970,10.786769,106.690412,/ho-chi-minh/mi-xao-bo-trung-mi-y-vo-thi-sau/binh-luan
+217,Món Ngon Quảng Ngãi - Đặc Sản Miền Trung - Thống Nhất,"15 Thống Nhất, P. Bình Thọ, Tp. Thủ Đức, TP. HCM",736345,2,6.432,134,121,19,0,0,0,02/01/1970,10.8406437,106.766919,/ho-chi-minh/mon-ngon-quang-ngai-dac-san-mien-trung/binh-luan
+217,Hủ Tiếu Bò Viên - Lê Quang Định,"22E Lê Quang Định, Quận Bình Thạnh, TP. HCM",224685,2,7.058,33,73,7,0,0,0,02/01/1970,10.806646,106.696876,/ho-chi-minh/hu-tieu-bo-vien-le-quang-dinh/binh-luan
+217,Cô Dung - Bún Nước & Chả Tôm,"33/3 Nguyễn Công Hoan, Quận Phú Nhuận, TP. HCM",274065,2,6.32,169,238,25,0,0,0,02/01/1970,10.802155,106.6906815,/ho-chi-minh/co-dung-bun-nuoc-cha-tom/binh-luan
+217,Xôi Cầu Đỏ,"43 Trần Quý Cáp, P. 11, Quận Bình Thạnh, TP. HCM",191681,2,7.386,45,122,14,0,0,0,02/01/1970,10.815747,106.695515,/ho-chi-minh/xoi-cau-do/binh-luan
+217,Ngõ Thái - Pad Thái & Xiên Heo Nướng Phô Mai,"945/64B Lê Đức Thọ, P. 16, Quận Gò Vấp, TP. HCM",1132610,2,7.0,0,20,1,0,0,0,02/01/1970,10.8486391,106.6622606,/ho-chi-minh/ngo-thai-pad-thai-xien-heo-nuong-pho-mai/binh-luan
+217,Ngọc Thạch Quán - Sữa Chua & Caramen - Quận 12,"Lô 44, 15 Nguyễn Thị Đặng, P. Hiệp Thành, Quận 12, TP. HCM",879702,2,7.7,3,16,2,0,0,0,02/01/1970,10.860451,106.639625,/ho-chi-minh/ngoc-thach-quan-sua-chua-caramen-quan-12/binh-luan
+217,Adam Halal Food - Cơm Gà,"39 Trần Quang Diệu, P. 13, Quận 3, TP. HCM",963539,2,10.0,2,4,1,0,0,0,02/01/1970,10.78573,106.678447,/ho-chi-minh/a-dam-halal-ca-ri-an-do/binh-luan
+217,Trà Sữa Mr Bin - Nguyễn Thị Định,"277 Nguyễn Thị Định, P. Bình Trưng Tây, Tp. Thủ Đức, TP. HCM",732155,2,9.332,122,16,3,0,0,0,02/01/1970,10.783335,106.758066,/ho-chi-minh/tra-sua-mr-bin-nguyen-thi-dinh/binh-luan
+217,Belgo Belgian Craft Beer Brewery - Lê Ngô Cát,"2 Lê Ngô Cát, P. 7, Quận 3, TP. HCM",993222,2,8.256,117,75,7,0,0,0,02/01/1970,10.776532,106.685451,/ho-chi-minh/belgo-belgian-craft-beer-brewery-le-ngo-cat/binh-luan
+217,Tukume - Lẩu & Bò Nầm nướng Hà Nội,"627 Lê Văn Lương, P. Tân Phong, Quận 7, TP. HCM",803241,2,7.752,125,216,61,0,0,0,02/01/1970,10.731088,106.700789,/ho-chi-minh/tukume-kitchen-beerpub/binh-luan
+217,Bánh Mì Nấm Nướng Bào Ngư,"36 Trần Quý Cáp, P. 11, Quận Bình Thạnh, TP. HCM",763123,2,8.0,4,104,1,0,0,0,02/01/1970,10.816171,106.696287,/ho-chi-minh/banh-mi-nam-nuong-bao-ngu/binh-luan
+217,Ilmirack BBQ Restaurant - Nhà Hàng BBQ Hàn Quốc,"222 Phạm Thái Bường, P. Tân Phong, Quận 7, TP. HCM",956676,2,9.898,90,96,59,0,0,0,02/01/1970,10.7275816,106.7092311,/ho-chi-minh/ilmirack-bbq-restaurant-nha-hang-bbq-han-quoc/binh-luan
+217,CuBin Food - Ăn Vặt Online,"92B/20Bis Tôn Thất Thuyết, P. 15, Quận 4, TP. HCM",1012344,2,7.12,5,10,5,0,0,0,02/01/1970,10.75463,106.70893,/ho-chi-minh/cubin-food-an-vat-online/binh-luan
+217,Panda BBQ - Quán Thịt Nướng Đà Lạt - Đường Số 9A,"137 Đường Số 9A, Khu Dân Cư Trung Sơn, X. Bình Hưng, Huyện Bình Chánh, TP. HCM",89691,2,6.716,1101,604,192,0,0,0,02/01/1970,10.7364484,106.6895213,/ho-chi-minh/panda-bbq-quan-thit-nuong-da-lat-duong-so-9a/binh-luan
+217,"Yumi Ăn Vặt - Chân Gà Sả Tắc, Bánh Tráng & Cơm Cháy - Shop Online - Nguyễn Đình Chiểu","241/41 Nguyễn Đình Chiểu, P. 5, Quận 3, TP. HCM",923573,2,4.0,33,16,3,0,0,0,02/01/1970,10.773081,106.686097,/ho-chi-minh/an-vat-yumi-chan-ga-sa-tac-banh-trang-com-chay-shop-online/binh-luan
+217,Quán Nướng Ngói - Tạ Quang Bửu,"Gầm Cầu Tạ Quang Bửu, Quận 8, TP. HCM",86837,2,5.56,22,20,5,0,0,0,02/01/1970,10.734721,106.66487,/ho-chi-minh/quan-nuong-ngoi-ta-quang-buu/binh-luan
+217,Style - Quán Nướng Ngói,"Chung Cư K26, P. 7, Quận Gò Vấp, TP. HCM",96301,2,7.216,126,96,14,0,0,0,02/01/1970,10.831214,106.686805,/ho-chi-minh/style-quan-nuong-ngoi/binh-luan
+217,Nướng Ngói,"222A Lô A Phạm Thế Hiển, P. 4, Quận 8, TP. HCM",925995,2,9.332,4,34,3,0,0,0,02/01/1970,10.739832,106.6709599,/ho-chi-minh/nuong-ngoi/binh-luan
+217,Hana BBQ & Hot Pot Buffet - Phạm Viết Chánh ,"25 - 25A Phạm Viết Chánh, Quận 1, TP. HCM",110997,2,6.924,3677,983,401,0,0,0,02/01/1970,10.767657,106.685126,/ho-chi-minh/hana-bbq-hot-pot-buffet-pham-viet-chanh/binh-luan
+217,Cơm Chiên & Bún Chả Giò,"351 Lạc Long Quân, P. 5, Quận 11, TP. HCM",260056,2,6.6,10,6,1,0,0,0,02/01/1970,10.7712750898125,106.6452205181121,/ho-chi-minh/com-chien-bun-cha-gio/binh-luan
+217,Quán Cô Điệp - Bún Đậu Chả Giò,"118/43 Bạch Đằng, P. 24, Quận Bình Thạnh, TP. HCM",238508,2,7.942,20,217,7,0,0,0,02/01/1970,10.803399,106.707615,/ho-chi-minh/quan-co-diep-bun-dau-cha-gio/binh-luan
+217,Bánh Khọt & Bánh Mì Hấp,"Hẻm 54 Trần Khắc Chân, P. Tân Định, Quận 1, TP. HCM",624899,2,6.6,14,49,1,0,0,0,02/01/1970,10.793802,106.691159,/ho-chi-minh/banh-khot-banh-mi-hap/binh-luan
+217,Bánh Mì Hấp - Cô Giang,"195 Cô Giang, Quận 1, TP. HCM",154270,2,5.128,22,95,8,0,0,0,02/01/1970,10.761624,106.693243,/ho-chi-minh/banh-mi-hap-co-giang/binh-luan
+217,Heekcaa - Trà Sữa Đài Loan - Phạm Ngũ Lão,"182 Phạm Ngũ Lão, P. 7, Quận Gò Vấp, TP. HCM",867163,2,4.26,58,9,68,0,0,0,02/01/1970,10.821883,106.682708,/ho-chi-minh/heekcaa-tra-sua-dai-loan-pham-ngu-lao/binh-luan
+217,Trà Sữa Milky Homemade - Lê Văn Thọ,"319/39 Lê Văn Thọ, P. 9, Quận Gò Vấp, TP. HCM",715881,2,8.562,76,24,11,0,0,0,02/01/1970,10.84567,106.65569,/ho-chi-minh/tra-sua-milky-homemade/binh-luan
+217,Gà Sốt Cay Hàn Quốc - Lê Hồng Phong,"438/44 Lê Hồng Phong, P. 1, Quận 10, TP. HCM",940971,2,7.018,44,1073,40,0,0,0,02/01/1970,10.75605,106.6787551,/ho-chi-minh/ga-sot-cay-han-quoc-le-hong-phong/binh-luan
+217,Teng Teng - Taiwan Tea - Võ Văn Kiệt,"1398 Võ Văn Kiệt, P. 1, Quận 6, TP. HCM",720390,2,6.966,37,9,6,0,0,0,02/01/1970,10.7460477,106.6535924,/ho-chi-minh/teng-teng-taiwan-tea-vo-van-kiet/binh-luan
+217,Phở Bắc Hải - Thành Thái,"137 Thành Thái, P. 12, Quận 10, TP. HCM",9951,2,6.866,30,64,12,0,0,0,02/01/1970,10.774411,106.664366,/ho-chi-minh/pho-bac-hai/binh-luan
+217,Trà Sữa Gong Cha - 貢茶 - Nguyễn Sơn,"7 Nguyễn Sơn, P. Phú Thạnh, Quận Tân Phú, TP. HCM",263004,2,6.62,959,518,244,0,0,0,02/01/1970,10.780868,106.634209,/ho-chi-minh/tra-sua-gong-cha-nguyen-son/binh-luan
+217,Mì Quảng 2 Chị Em,"257 Lê Văn Việt, P. Tăng Nhơn Phú B, Quận 9, TP. HCM",696973,2,3.95,12,8,4,0,0,0,02/01/1970,10.8442142061284,106.7842977494001,/ho-chi-minh/mi-quang-2-chi-em/binh-luan
+217,Cơm Tấm Ba Há - Hưng Phú,"389 Hưng Phú, Quận 8, TP. HCM",755713,2,7.636,18,590,11,0,0,0,02/01/1970,10.747549,106.67497,/ho-chi-minh/com-tam-ba-ha-hung-phu/binh-luan
+217,Haidilao Hot Pot - Vincom Center ,"Tầng L3 Vincom Center, 72 Lê Thánh Tôn, P. Bến Nghé, Quận 1, TP. HCM",968218,2,8.356,333,220,35,0,0,0,02/01/1970,10.7780548,106.7016373999999,/ho-chi-minh/haidilao-hot-pot-vincom-center/binh-luan
+217,Trà Sữa Handmade Bông Sao,"127 Bông Sao, P. 5, Quận 8, TP. HCM",127375,2,6.822,199,218,27,0,0,0,02/01/1970,10.7387486,106.662439,/ho-chi-minh/tra-sua-thach-pho-mai-bong-sao/binh-luan
+217,Dì 9 - Hủ Tiếu Mỹ Tho,"538/51 Đoàn Văn Bơ, P. 14, Quận 4, TP. HCM",702099,2,5.742,141,775,21,0,0,0,02/01/1970,10.75797,106.709026,/ho-chi-minh/di-9-hu-tieu-my-tho/binh-luan
+217,Cháo Lòng 1297,"1297 Phạm Thế Hiển, P.5, Quận 8, TP. HCM",11841,2,6.422,30,99,18,0,0,0,02/01/1970,10.741168,106.658215,/ho-chi-minh/chao-long-1297/binh-luan
+217,Quán 27 - Cơm Gà Xối Mỡ - Điện Biên Phủ,"645/27 Điện Biên Phủ, P. 1, Quận 3, TP. HCM",897281,2,6.164,17,10,23,0,0,0,02/01/1970,10.768498,106.676069,/ho-chi-minh/quan-27-com-ga-xoi-mo/binh-luan
+217,Quán Ốc Thảo - Bông Sao,"01 Bông Sao, P. 5, Quận 8, TP. HCM",71355,2,7.066,87,90,6,0,0,0,02/01/1970,10.740776,106.6617,/ho-chi-minh/quan-oc-thao-bong-sao/binh-luan
+217,Golden Jade Restaurant - SC VivoCity,"Tầng 1 - SC VivoCity, 1058 Nguyễn Văn Linh, KP. 1, P. Tân Phong, Quận 7, TP. HCM",175291,2,7.072,673,322,79,0,0,0,02/01/1970,10.7294749477239,106.7041090875864,/ho-chi-minh/golden-jade-restaurant-sc-vivo-city/binh-luan
+217,Crystal Jade Kitchen - Aeon Mall Tân Phú,"Lô T22 - T35, Tầng 3 Aeon Mall Tân Phú, 30 Bờ Bao Tân Thắng, P. Sơn Kỳ, Quận Tân Phú, TP. HCM",952161,2,8.894,152,27,30,0,0,0,02/01/1970,10.802182,106.61814,/ho-chi-minh/crystal-jade-kitchen-aeon-mall-tan-phu/binh-luan
+217,Chè Ngon Cô Ba - Phan Xích Long,"397 Phan Xích Long, P. 3, Quận Phú Nhuận, TP. HCM",1128361,2,8.0,1,4,4,0,0,0,02/01/1970,10.8028417,106.6821274,/ho-chi-minh/che-ngon-co-ba-phan-xich-long/binh-luan
+217,Chillsa Coffee & Milktea - Huỳnh Văn Bánh,"201/1 Huỳnh Văn Bánh, P. 12, Quận Phú Nhuận, TP. HCM",1040608,2,7.6,4,31,3,0,0,0,02/01/1970,10.792077,106.677742,/ho-chi-minh/chillsa-coffee-milktea-huynh-van-banh/binh-luan
+217,Cơm Văn Phòng Hẻm 53 - Nguyễn Huệ,"53 Nguyễn Huệ, Quận 1, TP. HCM",49942,2,6.98,46,54,10,0,0,0,02/01/1970,10.7730671,106.704986,/ho-chi-minh/com-van-phong-hem-53-nguyen-hue/binh-luan
+217,Tô Ký Mì Gia,"172D Hiệp Bình, P. Hiệp Bình Chánh, Tp. Thủ Đức, TP. HCM",781355,2,7.202,39,16,6,0,0,0,02/01/1970,10.8433156,106.7307491,/ho-chi-minh/to-ky-mi-gia/binh-luan
+217,Bột Chiên Ông Già - Nguyễn Nhữ Lãm,"6 Nguyễn Nhữ Lãm, P. Phú Thọ Hòa, Quận Tân Phú, TP. HCM",895659,2,8.0,5,1,1,0,0,0,02/01/1970,10.783358,106.626532,/ho-chi-minh/bot-chien-ong-gia-nguyen-nhu-lam/binh-luan
+217,King BBQ - Vua Nướng Hàn Quốc - Nguyễn Văn Quá,"867A Nguyễn Văn Quá, P. Đông Hưng Thuận, Quận 12, TP. HCM",804017,2,7.414,40,64,14,0,0,0,02/01/1970,10.846615,106.634179,/ho-chi-minh/king-bbq-vua-nuong-han-quoc-nguyen-van-qua/binh-luan
+217,Hào Nướng - Lê Văn Lương,"267 Lê Văn Lương, Xã Phước Kiểng, Huyện Nhà Bè, TP. HCM",701689,2,7.0,17,4,2,0,0,0,02/01/1970,10.7059544939267,106.7034794390201,/ho-chi-minh/hao-nuong-le-van-luong/binh-luan
+217,Nguyên Phát - Hủ Tiếu Sa Tế Nai,"581 Nguyễn Trãi, P. 7, Quận 5, TP. HCM",19430,2,6.578,42,95,9,0,0,0,02/01/1970,10.754153,106.667247,/ho-chi-minh/nguyen-phat-hu-tieu-sa-te-nai/binh-luan
+217,Bánh Tráng Cô Út - Đường Số 9,"161 Đường Số 9, P. Phước Bình, Quận 9, TP. HCM",996258,2,8.228,50,14,7,0,0,0,02/01/1970,10.81453,106.771308,/ho-chi-minh/banh-trang-co-ut-duong-so-9/binh-luan
+217,Sushi Uraetei Dining,"Lô L2-01, Lầu 2, TTTM Estella Place, 88 Song Hành, P. An Phú, Quận 2, TP. HCM",870131,2,6.58,104,7,9,0,0,0,02/01/1970,10.802026,106.748277,/ho-chi-minh/sushi-uraetei-dining/binh-luan
+217,Huê Ký Mì Gia - Thuận Kiều,"59C Thuận Kiều, P. 12, Quận 5, TP. HCM",12575,2,6.418,119,531,46,0,0,0,02/01/1970,10.757098,106.65828,/ho-chi-minh/hue-ky-mi-gia/binh-luan
+217,Mẫn Ý - Quán Chay,"44QA Tôn Thất Thuyết, P. 3, Quận 4, TP. HCM",646843,2,8.0,2,24,1,0,0,0,02/01/1970,10.7529231,106.6986334,/ho-chi-minh/man-y-quan-chay/binh-luan
+217,Xuân Lam - Lẩu & Nướng,"267B Ba Tơ, P. 7, Quận 8, TP. HCM",86707,2,7.112,62,38,11,0,0,0,02/01/1970,10.7070768944103,106.6200107708573,/ho-chi-minh/lau-xuan-lam-ba-to/binh-luan
+217,Hải Sản Biển Đông - Âu Cơ,"527 Âu Cơ, P. Phú Trung, Quận Tân Phú, TP. HCM",23015,2,4.566,59,9,6,0,0,0,02/01/1970,10.781423,106.643346,/ho-chi-minh/hai-san-bien-dong-au-co/binh-luan
+217,Thu Hiền - Gỏi Gà & Miến Gà,"5 Nguyễn Văn Giai, P. Đa Kao, Quận 1, TP. HCM",19103,2,7.916,70,117,12,0,0,0,02/01/1970,10.792338,106.697223,/ho-chi-minh/thu-hien-goi-ga-vit/binh-luan
+217,Rau Câu Nương Võ - Trung Thu Rau Câu,"Lô B Chung Cư Bàu Cát 2, Ni Sư Huỳnh Liên, Quận Tân Bình, TP. HCM",87131,2,7.904,513,314,8,0,0,0,02/01/1970,10.7861489,106.6450049,/ho-chi-minh/rau-cau-nuong-vo-trung-thu-rau-cau/binh-luan
+217,Cơm Gà Tuy Hòa - Trường Sơn,"CC 15 Trường Sơn, P. 15, Quận 10, TP. HCM",101579,2,7.35,129,341,39,0,0,0,02/01/1970,10.7820571,106.664398,/ho-chi-minh/com-ga-tuy-hoa-truong-son/binh-luan
+217,Thanh Thủy - Bánh Flan Dừa,"66B Tôn Thất  Đạm, P Bến Nghé, Quận 1, TP. HCM",264823,2,7.3,1,15,2,0,0,0,02/01/1970,10.7720537,106.7027815,/ho-chi-minh/thanh-thuy-banh-flan-dua/binh-luan
+217,Chè Chợ Thiếc,"168 Phó Cơ Điều, Quận 11, TP. HCM",44089,2,7.714,36,122,7,0,0,0,02/01/1970,10.757799,106.657084,/ho-chi-minh/che-cho-thiec/binh-luan
+217,Quán Hẻm Chill,"8/13A Đường Số 49B, P. Thảo Điền, Tp. Thủ Đức, TP. HCM",1018212,2,8.398,235,53,3,0,0,0,02/01/1970,10.802351,106.728756,/ho-chi-minh/quan-hem-chill/binh-luan
+217,Gà Ta Tam Kỳ Nhã Hân Quán - Cơm Gà & Cháo Gà - Hà Huy Giáp,"768 Hà Huy Giáp, P. Thạnh Lộc, Quận 12, TP. HCM",1000029583,2,2.6,1,0,1,0,0,0,02/01/1970,10.8884569,106.6851475,/ho-chi-minh/ga-ta-tam-ky-nha-han-quan-com-ga-chao-ga-ha-huy-giap.9chicw/binh-luan
+217,Mezz - Buffet Tương Tác - Sofitel Saigon Plaza,"17 Lê Duẩn, P. Bến Nghé, Quận 1, TP. HCM",157044,2,7.672,479,587,39,0,0,0,02/01/1970,10.7839399,106.7025634,/ho-chi-minh/nha-hang-mezz-sofitel-saigon/binh-luan
+217,Village Romaine - Thảo Điền Village,"195 Nguyễn Văn Hưởng, P. Thảo Điền, Quận 2, TP. HCM",1560,2,7.5,119,411,12,0,0,0,02/01/1970,10.816477,106.733063,/ho-chi-minh/village-romaine/binh-luan
+217,Buddha Chay - Đặng Tất,"31 Đặng Tất, P. Tân Định, Quận 1, TP. HCM",118362,2,6.862,753,1061,145,0,0,0,02/01/1970,10.792771,106.688205,/ho-chi-minh/buddha-chay/binh-luan
+217,Gành Biển - Hải Sản,"221 Phan Văn Trị, P. 11, Quận Bình Thạnh, TP. HCM",179490,2,7.68,163,107,28,0,0,0,02/01/1970,10.811383,106.695344,/ho-chi-minh/ganh-bien-hai-san/binh-luan
+217,KOI Thé - Võ Văn Ngân,"372 Võ Văn Ngân, P. Bình Thọ, Tp. Thủ Đức, TP. HCM",863049,2,6.736,78,42,28,0,0,0,02/01/1970,10.849651,106.772081,/ho-chi-minh/koi-the-cafe-vo-van-ngan/binh-luan
+217,Hokkaido Baked Cheese Tart - Nguyễn Thái Học,"169 Nguyễn Thái Học, P. Phạm Ngũ Lão, Quận 1, TP. HCM",774634,2,6.892,426,290,58,0,0,0,02/01/1970,10.768201,106.694973,/ho-chi-minh/hokkaido-baked-cheese-tart-nguyen-thai-hoc/binh-luan
+217,Thiên Du & Sky Sushi - Trần Hưng Đạo,"1089A Trần Hưng Đạo, P. 5, Quận 5, TP. HCM",26626,2,7.126,2708,5443,466,0,0,0,02/01/1970,10.7533468,106.674167,/ho-chi-minh/sky-sushi-sushi-via-he-duong-pho/binh-luan
+217,Draphoe Cafe & Bistro - TTTM Takashimaya,"Tầng Hầm 2 - TTTM Takashimaya, 92 - 94 Nam Kỳ Khởi Nghĩa, P. Bến Nghé, Quận 1, TP. HCM",293521,2,8.0,6,15,1,0,0,0,02/01/1970,10.773075,106.700467,/ho-chi-minh/draphoe-cafe-bistro-takashimaya-vietnam/binh-luan
+217,"Ba Anh Em - Món Nhật, Mì Ý Spaghetti & Bò Mỹ Steak","431 Nguyễn Kiệm, P. 9, Quận Phú Nhuận, TP. HCM",661015,2,6.852,75,243,39,0,0,0,02/01/1970,10.8012683,106.6792728,/ho-chi-minh/quan-ba-anh-em-com-mi-xao-bo-nui-xao-bo/binh-luan
+217,Súp Vi Cá Nhất Phẩm - Shop Online,"70 Phó Đức Chính, Quận 1, TP. HCM",653616,2,7.932,6,143,3,0,0,0,02/01/1970,10.770205,106.699532,/ho-chi-minh/sup-vi-ca-nhat-pham-shop-online/binh-luan
+217,Bún Đậu Mạc Văn Khoa - Gò Dầu,"90B Gò Dầu, P. Tân Quý, Quận Tân Phú, TP. HCM",1013422,2,4.856,25,5,7,0,0,0,02/01/1970,10.7961753,106.6257023,/ho-chi-minh/bun-dau-mac-van-khoa-go-dau/binh-luan
+217,Nhà Hàng Hoa Lộc Vừng,"352/15 Bình Lợi, P. 13, Quận Bình Thạnh, TP. HCM",1018431,2,4.7,25,0,2,0,0,0,02/01/1970,10.837682,106.702337,/ho-chi-minh/nha-hang-hoa-loc-vung/binh-luan
+217,Phá Lấu & Bánh Flan - Kênh Tân Hóa,"475 Kênh Tân Hóa, P. Phú Trung, Quận Tân Phú, TP. HCM",857426,2,8.468,84,21,3,0,0,0,02/01/1970,10.7811658,106.6402729,/ho-chi-minh/pha-lau-banh-flan-kenh-tan-hoa/binh-luan
+217,Trà Sữa Huy's - Đường 3 Tháng 2,"406 3 Tháng 2, P. 12, Quận 10, TP. HCM",1076563,2,10.0,0,3,1,0,0,0,02/01/1970,10.769241,106.669416,/ho-chi-minh/tra-sua-huy-s-duong-3-thang-2/binh-luan
+217,Nấm Thiên Đàng - Ẩm Thực Chay,"278 Lê Văn Lương, P. Tân Hưng, Quận 7, TP. HCM",194068,2,7.216,39,185,14,0,0,0,02/01/1970,10.7427777,106.7039073,/ho-chi-minh/nam-thien-dang-am-thuc-chay/binh-luan
+217,Bún Chả Hà Nội Xưa - Vườn Lài,"47 Vườn Lài, P. Phú Thọ Hòa, Quận Tân Phú, TP. HCM",936795,2,7.038,42,23,15,0,0,0,02/01/1970,10.787293,106.634476,/ho-chi-minh/bun-cha-ha-noi-xua-vuon-lai/binh-luan
+217,Cộng Cà Phê - Hồng Hà,"10 Hồng Hà, P. 2, Quận Tân Bình, TP. HCM",654849,2,7.826,328,80,39,0,0,0,02/01/1970,10.813203,106.666757,/ho-chi-minh/cong-caphe-hong-ha/binh-luan
+217,The Hummingbird Cafe Saigon,"5H Tôn Đức Thắng. P. Bến Nghé , Quận 1, TP. HCM",910689,2,7.6,148,145,2,0,0,0,02/01/1970,10.780928,106.707379,/ho-chi-minh/the-hummingbird-cafe-saigon/binh-luan
+217,Topping Beef - Steakhouse - Lê Ngô Cát,"16L Lê Ngô Cát, P. Võ Thị Sáu, Quận 3, TP. HCM",85104,2,7.68,4189,6919,476,0,0,0,02/01/1970,10.7771304,106.6844664,/ho-chi-minh/topping-beef-steakhouse-le-ngo-cat/binh-luan
+217,Đặc Sản La Ngà - Lẩu Cá Lăng,"347/158 Lê Đại Hành, Quận 11, TP. HCM",759782,2,1.0,13,12,1,0,0,0,02/01/1970,10.765937,106.6541026,/ho-chi-minh/dac-san-la-nga-lau-ca-lang/binh-luan
+217,Thanh Basilic - Đặc Sản Phan Thiết,"108/10A Trần Quang Diệu, P. 14, Quận 3, TP. HCM",970853,2,9.12,9,20,5,0,0,0,02/01/1970,10.78993,106.6794,/ho-chi-minh/thanh-basilic/binh-luan
+217,Lẩu Gà Đá & Cá Bớp - Quán Ăn Gia Đình,"Lô M Cư Xá Vĩnh Hội, Nguyễn Hữu Hào, P. 6, Quận 4, TP. HCM",991054,2,7.6,12,1,1,0,0,0,02/01/1970,10.761552,106.700296,/ho-chi-minh/lau-ga-da-ca-bop-quan-an-gia-dinh/binh-luan
+217,Hiền Béo - Lẩu Cá Khô Campuchia,"240/23B Cách Mạng Tháng 8, P. 10, Quận 3, TP. HCM",990403,2,7.6,0,6,1,0,0,0,02/01/1970,10.7806671,106.677978,/ho-chi-minh/hien-beo-lau-ca-kho-campuchia/binh-luan
+217,Kem Dairy Queen - Lotte Mart Gò Vấp,"Tầng Trệt Lotte Mart Gò Vấp, 242 Nguyễn Văn Lượng, P. 10, Quận Gò Vấp, TP. HCM",233081,2,7.164,167,40,22,0,0,0,02/01/1970,10.838665,106.670339,/ho-chi-minh/kem-dairy-queen-lotte-mart-go-vap/binh-luan
+217,Đông Nhi - Lẩu Cá,"93 Hùng Vương, P. 4, Quận 5, TP. HCM",294262,2,7.4,22,3,1,0,0,0,02/01/1970,10.7615585,106.6758006,/ho-chi-minh/dong-nhi-lau-ca/binh-luan
+217,Lẩu Cá Cường - Dương Tử Giang,"88 Dương Tử Giang, P. 14, Quận 5, TP. HCM",46797,2,7.786,212,59,17,0,0,0,02/01/1970,10.7535538621105,106.6551245748996,/ho-chi-minh/lau-ca-cuong-duong-tu-giang/binh-luan
+217,Trà Sữa Tiger Sugar Delivery - Đường Nâu Sữa Đài Loan - Cách Mạng Tháng 8,"743 Cách Mạng Tháng 8, P. 6, Quận Tân Bình, TP. HCM",939923,2,5.174,49,10,22,0,0,0,02/01/1970,10.787446,106.663165,/ho-chi-minh/tra-sua-tiger-sugar-delivery-duong-nau-sua-dai-loan-cach-mang-thang-8/binh-luan
+217,Tuấn Phương - Quán Bia Sài Gòn Ướp Lạnh,"252/3 Cao Thắng, P. 12 (Gần Nhà Hàng Đông Hồ), Quận 10, TP. HCM",127975,2,7.24,139,60,5,0,0,0,02/01/1970,10.7747321,106.6758942,/ho-chi-minh/tuan-phuong-quan-bia-sai-gon-uop-lanh/binh-luan
+217,Hội Quán Học Viện - Ẩm Thực Bắc,"179 Cao Thắng, P. 12, Quận 10, TP. HCM",295905,2,7.0,50,2,1,0,0,0,02/01/1970,10.77349,106.678101,/ho-chi-minh/hoi-quan-hoc-vien-am-thuc-bac/binh-luan
+217,Bún Riêu Cua Ốc 66 - Chợ Võ Văn Tần,"287/66 Nguyễn Đình Chiểu, Quận 3, TP. HCM",72460,2,6.608,111,676,41,0,0,0,02/01/1970,10.7723433,106.6858821,/ho-chi-minh/bun-rieu-cua-oc-cho-vo-van-tan/binh-luan
+217,Hoàng Minh Châu - Cơm Chiên Gà & Cơm Văn Phòng - Cao Thắng,"153/18 Cao Thắng, P. 11, Quận 10, TP. HCM",956868,2,8.066,88,40,3,0,0,0,02/01/1970,10.7733029,106.677905,/ho-chi-minh/hoang-minh-chau-com-chien-ga-com-van-phong-cao-thang/binh-luan
+217,Cơm Trộn Đệ Nhất - Cao Thắng,"190 Cao Thắng, P. 11, Quận 10, TP. HCM",1117562,2,5.0,0,0,1,0,0,0,02/01/1970,10.7750556255433,106.6769491678244,/ho-chi-minh/com-tron-de-nhat-cao-thang/binh-luan
+217,Chàng Thái BBQ Hot Pot - Cao Thắng,"392/20/50 Cao Thắng, Quận 10, TP. HCM",161182,2,6.5,30,56,2,0,0,0,02/01/1970,10.7749245,106.6748480999999,/ho-chi-minh/chang-thai-bbq-hot-pot-cao-thang/binh-luan
+217,Thuận Tuấn - Đặc Sản Cừu Nướng - 35 Nguyễn Văn Thủ,"69 Hoàng Sa, Quận 1, TP. HCM",767315,2,9.2,0,5,1,0,0,0,02/01/1970,10.792254,106.703348,/ho-chi-minh/thuan-tuan-dac-san-cuu-nuong-35-nguyen-van-thu/binh-luan
+217,Nhà Hàng Đùi Cừu Nướng - Tân Sơn,"395/2 Tân Sơn, Quận Gò Vấp, TP. HCM",260306,2,5.988,106,243,14,0,0,0,02/01/1970,10.836888755881,106.646089553833,/ho-chi-minh/nha-hang-dui-cuu-nuong/binh-luan
+217,Ốc Thị Nở - Cửu Long,"95 Cửu Long, P. 15, Quận 10, TP. HCM",968790,2,7.65,7,17,4,0,0,0,02/01/1970,10.783142,106.66142,/ho-chi-minh/oc-thi-no-cuu-long/binh-luan
+217,The Pizza Company - Quốc Lộ 50,"310 - 312 Quốc Lộ 50, P. 6, Quận 8, TP. HCM",986258,2,6.398,5,3,3,0,0,0,02/01/1970,10.732929,106.656043,/ho-chi-minh/the-pizza-company-quoc-lo-50/binh-luan
+217,Cừu Non Hy Lạp,"395 Hoàng Sa, P. 8, Quận 3, TP. HCM",778969,2,7.8,53,93,4,0,0,0,02/01/1970,10.7920417,106.6861625,/ho-chi-minh/cuu-non-hy-lap/binh-luan
+217,Cừu Non - Đặc Sản Cừu,"475/12 Hai Bà Trưng, P. 8 , Quận 3, TP. HCM",68339,2,7.37,89,92,7,0,0,0,02/01/1970,10.79215,106.686567,/ho-chi-minh/quan-cuu-nuong-hy-lap/binh-luan
+217,Lẩu Mắm Cô 7 Bạc Liêu - Nguyễn Trãi,"139L Nguyễn Trãi, Quận 1, TP. HCM",148637,2,6.622,206,209,18,0,0,0,02/01/1970,10.7687745,106.6900792,/ho-chi-minh/lau-mam-co-7-bac-lieu-nguyen-trai/binh-luan
+217,Lẩu Mắm 140,"140/13 Trần Huy Liệu, P. 15, Quận Phú Nhuận, TP. HCM",2066,2,7.718,175,268,27,0,0,0,02/01/1970,10.79794,106.677697,/ho-chi-minh/lau-mam-140/binh-luan
+217,Quán Duy Linh 3 - Cơm Gà Xối Mỡ & Cơm Chiên Dương Châu - Tỉnh Lộ 10,"1057 Tỉnh Lộ 10, P. Tân Tạo, Quận Bình Tân, TP. HCM",92820,2,7.778,56,11,8,0,0,0,02/01/1970,10.7546271,106.6005124,/ho-chi-minh/quan-duy-linh-3-com-ga-xoi-mo-com-chien-duong-chau/binh-luan
+217,Dinh Ý - Cơm Gà Xối Mỡ - Số 23,"64 Số 23, P. Tân Quy, Quận 7, TP. HCM",803233,2,5.91,55,40,13,0,0,0,02/01/1970,10.7441016,106.7097493,/ho-chi-minh/dinh-y-com-ga-xoi-mo-so-23/binh-luan
+217,Bún Bò Hải Lệ,"19 Lam Sơn, P. 2, Quận Tân Bình, TP. HCM",34387,2,6.6,31,76,14,0,0,0,02/01/1970,10.809723,106.666771,/ho-chi-minh/bun-bo-hai-le/binh-luan
+217,Tuệ Mẫn - Ẩm Thực Chay,"450 Cây Trâm, P. 9, Quận Gò Vấp, TP. HCM",132326,2,3.36,107,38,15,0,0,0,02/01/1970,10.843683,106.6485036,/ho-chi-minh/tue-man-am-thuc-chay-cay-tram/binh-luan
+217,Quán Nhậu Mười Phát,"110/1 Trường Sa, Quận Bình Thạnh, TP. HCM",694559,2,4.4,9,0,1,0,0,0,02/01/1970,10.79389,106.699993,/ho-chi-minh/quan-nhau-muoi-phat/binh-luan
+217,Nhớ Tuyết - Quán Ăn Gia Đình,"70 Võ Văn Kiệt, P. Nguyễn Thái Bình, Quận 1, TP. HCM",667018,2,7.278,89,98,8,0,0,0,02/01/1970,10.766424,106.700896,/ho-chi-minh/nho-tuyet-quan-an-gia-dinh/binh-luan
+217,Gà Đông Tảo A Được,"3 Đường Số 53, P. Tân Phong, Quận 7, TP. HCM",311620,2,3.4,108,21,1,0,0,0,02/01/1970,10.7387715,106.7084092,/ho-chi-minh/a-duoc-dac-san-ga-dong-tao/binh-luan
+217,Cửa Hàng Ăn Uống Số 12 - Đồng Nai,"12 Đồng Nai, P. 15, Quận 10, TP. HCM",28970,2,6.108,247,171,33,0,0,0,02/01/1970,10.777256,106.66428,/ho-chi-minh/cua-hang-an-uong-so-12-dong-nai/binh-luan
+217,Món Lạ - Lẩu Cua Đồng,"14 Đường Số 10, P. Tân Quy, Quận 7, TP. HCM",61438,2,6.844,366,1301,94,0,0,0,02/01/1970,10.740399,106.709919,/ho-chi-minh/mon-la-lau-cua-dong/binh-luan
+217,Không Tên - Cafe & Phòng Trà,"112 Lê Thánh Tôn, Quận 1, TP. HCM",7287,2,6.684,110,83,14,0,0,0,02/01/1970,10.773963,106.698672,/ho-chi-minh/khong-ten-cafe-phong-tra/binh-luan
+217,Quán Cô Ba - Đặc Sản Trảng Bàng,"48 - 49 Lô R, Cư Xá Phú Lâm, P. 10, Quận 6, TP. HCM",314494,2,6.02,30,84,10,0,0,0,02/01/1970,10.7409848,106.6311942,/ho-chi-minh/banh-canh-trang-bang-co-ba/binh-luan
+217,Bánh Canh Cua Bùi Phát - Bánh Canh Cua - Lê Văn Sỹ,"453/95 Lê Văn Sỹ, P. 12, Quận 3, TP. HCM",68977,2,6.828,83,801,24,0,0,0,02/01/1970,10.7886639,106.672706,/ho-chi-minh/banh-canh-cua-le-van-sy/binh-luan
+217,Phúc Long Coffee & Tea - Vạn Hạnh Mall,"Tầng B1, Vạn Hạnh Mall, 11 Sư Vạn Hạnh, P. 12, Quận 10, TP. HCM",1002586,2,7.072,166,2,14,0,0,0,02/01/1970,10.770732,106.669912,/ho-chi-minh/phuc-long-coffee-tea-van-hanh-mall/binh-luan
+217,Hoàng Long - Hủ Tiếu Nam Vang,"495/8/43 Tô Hiến Thành, P. 14, Quận 10, TP. HCM",47876,2,7.4,9,16,2,0,0,0,02/01/1970,10.774011,106.662667,/ho-chi-minh/hoang-long-hu-tieu-nam-vang/binh-luan
+217,Cô Huệ - Chè & Bánh Tráng Trộn - Lê Thị Hồng,"50 Lê Thị Hồng, P. 17, Quận Gò Vấp, TP. HCM",956036,2,5.0,0,4,1,0,0,0,02/01/1970,10.834714,106.67789,/ho-chi-minh/co-hue-banh-trang-tron/binh-luan
+217,Lẩu Dê Gia Lạc,"49 Rạch Bùng Binh, P. 9, Quận 3, TP. HCM",44576,2,7.8,11,23,1,0,0,0,02/01/1970,10.781961,106.680111,/ho-chi-minh/lau-de-gia-lac/binh-luan
+217,Bò Tơ Dê Núi 68 Đồng Nai,"68 Đồng Nai, Quận 10, TP. HCM",97461,2,8.1,27,38,6,0,0,0,02/01/1970,10.7785105247214,106.6631695630798,/ho-chi-minh/bo-to-de-nui-68-dong-nai/binh-luan
+217,Quán 177 - Dê Tự Chọn,"177 Nguyễn Đình Chiểu, P. 6, Quận 3, TP. HCM",248804,2,7.6,33,33,2,0,0,0,02/01/1970,10.775127,106.687116,/ho-chi-minh/quan-177-de-tu-chon/binh-luan
