@@ -1,0 +1,390 @@
+ReviewUrl,name,Address,districtid,RestaurantId,RestaurantStatus,avgrating,TotalPictures,TotalSaves,TotalReviews,TotalFavourites,TotalViews,TotalCheckIns,Latitude,Longitude
+/ho-chi-minh/bo-to-xuan-dao/binh-luan,Bò Tơ Xuân Đào - Bò Tơ Củ Chi,"KP2, Quốc Lộ 22",694,4261,2,6.884,500,0,75,52,39049,30,10.9678181601311,106.4950135106506
+/ho-chi-minh/nuoc-mia-vuon-cau/binh-luan,Quán Vườn Cau - Nước Mía Sầu Riêng & Củ Mì Hấp Cốt Dừa,"259A Quốc lộ 22, Tân Thông Hội",694,71075,2,6.952,157,0,50,34,14161,16,10.954993,106.51247
+/ho-chi-minh/bo-to-vinh-xuan/binh-luan,Bò Tơ Vĩnh Xuân ,QL 22 Tân Thông Hội,694,97921,2,8.414,62,0,14,16,4459,6,10.956392,106.510916
+/ho-chi-minh/bo-to-truong-lac/binh-luan,Bò Tơ Trường Lạc,Trung Lập,694,25702,2,6.524,51,0,18,13,9418,8,11.126767,106.44855
+/ho-chi-minh/bo-to-xuan-anh-cu-chi/binh-luan,Bò Tơ Xuân Anh - Củ Chi,"79 Tỉnh Lộ 8, Ấp Tây, Xã An Hội",694,29830,2,6.58,139,0,10,7,14134,11,10.964492,106.48447
+/ho-chi-minh/hai-he-chao-mon-luon-ech/binh-luan,Hai He - Cháo Môn Lươn & Ếch,"Đường Bến Than, Ấp 1, Xã Hoà Phú",694,110374,2,7.018,54,0,12,14,6221,3,10.97635,106.61444
+/ho-chi-minh/pho-quynh-mai-cu-chi/binh-luan,Phở Quỳnh Mai - Củ Chi,Gần QL22 & Trần Văn Chấm,694,49238,2,7.348,26,0,12,6,3420,4,10.956299,106.511903
+/ho-chi-minh/kim-ma-2-bo-to-cu-chi/binh-luan,Kim Mã 2 - Bò Tơ Củ Chi,"Tỉnh Lộ 8, Xã Tân An Hội",694,22116,2,7.42,50,0,10,6,9763,3,10.9617940526547,106.4811019099731
+/ho-chi-minh/lang-nuong-hong-dao/binh-luan,Làng Nướng Hồng Đào - Bò Tơ Củ Chi,"171 Quốc Lộ 22, Ấp Trung, Xã Tân Thông Hội  ",694,22118,2,7.0,61,0,10,5,5370,3,10.936641,106.546397
+/ho-chi-minh/citizone-ong-ich-duong/binh-luan,Citizone Coffee - Ông Ích Đường,11 Ông Ích Đường,694,159102,2,8.166,55,0,6,5,1548,7,10.979257,106.4992909999999
+/ho-chi-minh/bay-biem-bo-to/binh-luan,Bảy Biệm - Bò Tơ,"677 Nguyễn Thị Rành, Ấp Ngã Tư, Xã Nhuận Đức",694,92873,2,8.14,50,0,7,5,3117,1,11.0373004957867,106.4857122302055
+/ho-chi-minh/tea-mate-tra-sua-coffee/binh-luan,Tea Mate - Trà Sữa & Coffee,"Tầng 2 Satra Centre Mall Củ Chi, 1239 Tỉnh Lộ 8",694,790116,2,8.316,64,0,7,1,568,3,10.9838447,106.5794715
+/ho-chi-minh/fiopabakery-tiem-banh-online/binh-luan,Fiopabakery - Tiệm Bánh Online,"282 Ấp 2, Xã Phước Vĩnh An",694,130800,2,6.55,14,0,4,8,37907,5,10.984377,106.5230541999999
+/ho-chi-minh/lotteria-cu-chi/binh-luan,Lotteria - CoopMart Củ Chi,"357 Quốc Lộ 22, Ấp Thượng, X. Tân Thông",694,35804,2,3.83,2,0,7,8,6314,10,10.95896,106.504378
+/ho-chi-minh/tra-sua-sala/binh-luan,Trà Sữa Sala,"68 Trần Tử Bình, Ấp Tân Định",694,202832,2,0.0,11,2,0,0,5207,1,10.962741,106.506875
+/ho-chi-minh/binh-my-tay-quan-an-cau-ca-giai-tri/binh-luan,Bình Mỹ Tây - Quán Ăn & Câu Cá Giải Trí, 236 - 238 Võ Văn Bích,694,30453,2,0.0,0,6,0,2,4298,2,10.94845,106.624686
+/ho-chi-minh/bun-dau-nha-nem-duong-tinh-lo-8/binh-luan,Bún Đậu Nhà Nem - Đường Tỉnh Lộ 8,"1676 Đường Tỉnh Lộ 8, Ấp 1, X. Hòa Phú",694,1150186,2,0.0,0,0,0,0,2,0,10.9801808,106.6113046
+/ho-chi-minh/ponpo-mi-cay-7-cap-do-tran-van-cham/binh-luan,PONPO - Mì Cay 7 Cấp Đô - Trần Văn Chẩm,"13A Trần Văn Chẩm, X. Tân Thông Hội",694,1149819,2,0.0,0,0,0,0,2,0,10.9592320055697,106.5106927915639
+/ho-chi-minh/plants-coffee-tinh-lo-15/binh-luan,Plants Coffee - Tỉnh Lộ 15,"24D Tỉnh Lộ 15, Xã Bình Mỹ",694,1147515,2,0.0,0,0,0,0,2,0,10.9204123,106.6003973
+/ho-chi-minh/quan-an-canh-dong-sen-duong-dat-do/binh-luan,Quán Ăn Cánh Đồng Sen - Đường Đất Đỏ,"Kênh T1 Đường Đất Đỏ, Ấp 11A , X. Tân Thạnh Đông",694,1146987,2,0.0,0,0,0,0,4,0,10.931232912317,106.6000805684743
+/ho-chi-minh/pizza-surya-nguyen-thi-tiep/binh-luan,PIZZA SURYA - Nguyễn Thị Tiệp,"63C Nguyễn Thị Tiệp, KP. 5, TT. Củ Chi",694,1144193,2,0.0,0,0,0,0,2,0,10.9684317,106.4830544
+/ho-chi-minh/tiny-tra-sua-an-vat-1957-ap-2-tinh-lo-8/binh-luan,TiNy - Trà Sữa & Ăn Vặt - 1957 Ấp 2 Tỉnh Lộ 8,"1957 Đường Tỉnh Lộ 8, X. Bình Mỹ",694,1143999,2,0.0,0,0,0,0,3,0,10.9760982,106.6437422
+/ho-chi-minh/ca-phe-dat-nguyen-thi-lang/binh-luan,Cà Phê Đất - Nguyễn Thị Lắng,"201 Nguyễn Thị Lắng, Ấp Phú Lợi, X. Tân Phú Trung",694,1142195,2,0.0,0,0,0,0,4,0,10.9514737684262,106.549908220596
+/ho-chi-minh/phuc-long-48-lieu-binh-huong/binh-luan,Phúc Long 48 Liêu Bình Hương,"48 Liêu Bình Hương, X. Thông Tân Hội",694,1141029,2,0.0,0,0,0,0,17,0,10.9634624335064,106.5037925821879
+/ho-chi-minh/met-tre-bun-dau-mam-tom-le-vinh-huy/binh-luan,Mẹt Tre - Bún Đậu Mắm Tôm - Lê Vĩnh Huy,"5B Lê Vĩnh Huy, TT. Củ Chi",694,1139882,2,0.0,0,0,0,0,6,0,10.9771855474702,106.4941921559505
+/ho-chi-minh/the-coc-centremall-cu-chi/binh-luan,The CỐC - Centremall Củ Chi,"CENTREMALL CỦ CHI, 1239 Tỉnh Lộ 8, X. Trung An",694,1139414,2,0.0,0,0,0,0,7,0,10.9845338889448,106.5803163460224
+/ho-chi-minh/an-vat-ong-phi-tra-sua-ca-vien-chien-18a-pham-huu-tam.q5nt5q/binh-luan,Ăn Vặt Ông Phi - Trà Sữa & Cá Viên Chiên - 18A Phạm Hữu Tâm,"18A Phạm Hữu Tâm, TT. Củ Chi",694,1000053722,2,0.0,0,0,0,0,26,0,10.9774678,106.4999752
+/ho-chi-minh/pizza-ngon-cu-chi-nguyen-van-ni/binh-luan,Pizza Ngon Củ Chi - Nguyễn Văn Ni,"66 Nguyễn Văn Ni, TT. Củ Chi",694,1136185,2,0.0,0,0,0,0,27,0,10.9740324595442,106.4981450101524
+/ho-chi-minh/nhoi-s-milk-tea/binh-luan,Nhoi's Milk Tea,"111 Liêu Bình Hương, Xã Tân Thông Hội",694,730797,2,10.0,11,0,1,1,215,4,10.96488,106.504287
+/ho-chi-minh/nguyen-phuc-bakery-tinh-lo-8/binh-luan,Nguyên Phúc Bakery - Tỉnh Lộ 8,"47 Tỉnh Lộ 8, TT. Củ Chi",694,1019837,2,10.0,40,0,1,0,318,4,10.970527,106.489845
+,Quán Rau Má Củ Chi,"383B, Tỉnh Lộ 15, Xã Tân Thạnh Đông, Huyện Củ Chi, Thành Phố Hồ Chí Minh",694,1112470,2,10.0,17,0,2,0,0,0,0.0,0.0
+/ho-chi-minh/lo-banh-mi-nhan/binh-luan,Lò Bánh Mì Nhân,445 Tỉnh Lộ 8,694,654924,2,10.0,0,0,1,0,112,1,10.962376,106.482315
+/ho-chi-minh/vuon-lan-coffee-tea/binh-luan,Vườn Lan - Coffee & Tea,"153B Tỉnh Lộ 8, Xã Tân Thạnh Tây",694,998431,2,10.0,1,0,1,0,71,0,10.984133,106.568505
+/ho-chi-minh/quan-an-cuchi-cuchi/binh-luan,Quán Ăn Cuchi Cuchi, 286 Tỉnh Lộ 8,694,784035,2,9.6,13,0,2,0,206,0,10.9848797961771,106.5581715407986
+/ho-chi-minh/sapa-cafe/binh-luan,Sapa Cafe,"35 Nguyễn Viết Xuân, TT. Củ Chi",694,290762,2,9.6,0,0,1,0,122,0,10.976834,106.497746
+/ho-chi-minh/hu-tieu-ba-dat/binh-luan,Hủ Tiếu Ba Đạt,Nguyễn Đình Huân,694,681533,2,9.3,7,0,4,3,580,2,10.973011,106.49265
+/ho-chi-minh/du-coffee-tinh-lo-7/binh-luan,Du Coffee - Tỉnh Lộ 7,"812 Tỉnh Lộ 7, Xã An Nhơn Tây",694,950332,2,9.2,46,2,2,1,106,1,11.058600608892,106.4749783765823
+/ho-chi-minh/an-vat-family-tra-sua-sinh-to-cafe/binh-luan,"Ăn Vặt Family - Trà Sữa, Sinh Tố & Cafe","Đối Diện Số 300 Nguyễn Kim Cương, Xã Tân Thạnh Đông",694,905674,2,9.1,6,0,2,0,139,1,10.966837,106.582588
+/ho-chi-minh/subin-bbq-quan-nuong-lau-han-quoc/binh-luan,Subin BBQ - Quán Nướng Hàn Quốc - Quốc Lộ 22,"638 Quốc Lộ 22, KP. 2, TT. Củ Chi",694,704629,2,9.0,4,4,1,1,1139,1,10.965949,106.492678
+/ho-chi-minh/bon-cafeteria-fastfood/binh-luan,Bon Cafeteria - Fastfood,"1B Lê Vĩnh Huy, KP. 7, TT. Củ Chi",694,675226,2,8.9,9,0,2,1,432,0,10.975168,106.495767
+/ho-chi-minh/bo-to-hai-ngheo/binh-luan,Bò Tơ Hai Nghẹo,"Tỉnh Lộ 8, Tổ 2, Ấp 6, Xã Phước Vĩnh An",694,310177,2,7.534,28,0,6,8,2519,2,10.985241,106.533544
+/ho-chi-minh/gia-chanh-quan-quoc-lo-22/binh-luan,Gia Chánh Quán - Quốc Lộ 22,268 Quốc Lộ 22,694,84893,2,8.2,31,0,2,6,2596,1,10.9603787,106.502387
+/ho-chi-minh/lu-bang-ky-mi-hoanh-thanh/binh-luan,Lư Bằng Ký - Mì Hoành Thánh,680A Quốc Lộ 22,694,732568,2,0.0,1,1,0,0,106,2,11.0028016,106.4361762999999
+/ho-chi-minh/quan-an-le-quan/binh-luan,Quán Ăn Lệ Quân,"549 Quốc Lộ 22, Xã Phước Hiệp",694,1000988,2,7.4,10,0,1,0,46,0,10.995721,106.445868
+/ho-chi-minh/coffee-combo/binh-luan,Coffee ComBo,432 Quốc Lộ 22,694,812344,2,0.0,0,0,0,0,12,0,10.989117,106.451688
+/ho-chi-minh/bun-bo-hue-bo-kho-co-tu/binh-luan,Bún Bò Huế - Bò Kho Cô Tư,"363 Quốc Lộ 22, Ấp Bến Đò 2, X. Tân Phú Trung",694,1076909,2,0.0,0,0,0,0,52,0,10.9880137,106.4533804
+/ho-chi-minh/thanh-xuan-anh-quan-bo-to-ga-vuon/binh-luan,Thành Xuân Anh - Quán Bò Tơ & Gà Vườn,"63/1 Đường Số 609, P. Phước Hiệp",694,918628,2,0.0,10,0,0,0,33,0,10.99697,106.459649
+/ho-chi-minh/trai-cay-sau-rieng/binh-luan,Vựa Trái Cây,"33 Đường 365, Xã Tân An Hội",694,1004963,2,0.0,1,0,0,0,24,0,10.959804,106.467485
+/ho-chi-minh/cafe-fin-nguyen-thi-ranh/binh-luan,Cafe Fin - Nguyễn Thị Rành,"12/35 Nguyễn Thị Rành, Xã Phước Hiệp",694,824497,2,0.0,0,0,0,0,45,0,10.990849,106.469275
+/ho-chi-minh/oc-nho/binh-luan,Ốc Nhỏ,Tỉnh Lộ 7,694,717299,2,8.0,3,0,1,0,114,0,11.0583348386655,106.4742015302181
+/ho-chi-minh/phuc-long-309-nguyen-thi-ranh/binh-luan,Phúc Long 309 Nguyễn Thị Rành,"309 Nguyễn Thị Rành, Ấp Xóm Mới, X. Trung Lập Hạ",694,1119983,2,0.0,0,0,0,0,28,0,11.0082745,106.471317
+/ho-chi-minh/monfoods-an-va-t-tinh-lo-7-shop-online.mwfylx/binh-luan,MonFoods - Ăn Vặt - Tỉnh Lộ 7 - Shop Online,"804 Tỉnh Lộ 7, X. An Nhơn Tây",694,1000047018,2,0.0,0,0,0,0,30,0,11.058454,106.474654
+/ho-chi-minh/phuc-long-314-tinh-lo-8/binh-luan,Phúc Long 314 Tỉnh Lộ 8,"314 KP4, Tỉnh Lộ 8, TT. Củ Chi",694,1141022,2,0.0,0,0,0,0,23,0,10.9762009,106.5003069
+/ho-chi-minh/tra-sua-bee-duong-27/binh-luan,Trà Sữa Bee - Đường 27,"64 Đường 27, Ấp Tân Tiến, X. Tân Thông Hội",694,1084192,2,0.0,0,0,0,0,25,0,10.9679784494626,106.5051621679267
+/ho-chi-minh/bun-dau-h-famil-lieu-binh-huong/binh-luan,Bún Đậu H-Famil - Liêu Bình Hương,"84 Liêu Bình Hương, X. Tân Thông Hội",694,1077001,2,0.0,0,0,0,0,14,0,10.9659312838613,106.5049657971752
+/ho-chi-minh/bun-dau-mam-tom-h-famil-duong-458/binh-luan,Bún Đậu Mắm Tôm H-Famil - Đường 458,"93 Đường 458, Ấp Thạnh An",694,1128530,2,0.0,0,0,0,0,27,0,10.9890877095953,106.5841174839304
+/ho-chi-minh/ga-ran-chicken-plus-tinh-lo-8/binh-luan,Gà Rán Chicken Plus - Tỉnh Lộ 8,"83 Tỉnh Lộ 8, Xã Tân Thạnh Tây",694,1061974,2,0.0,0,0,0,0,117,0,10.983901,106.572701
+/ho-chi-minh/cheese-milk-tea-tra-sua-cheese-dai-loan/binh-luan,Cheese Milk Tea - Trà Sữa Cheese Đài Loan,"68 Nguyễn Văn Ni, Tổ 5, Khu Phố 4, TT. Củ Chi",694,1118496,2,0.0,0,0,0,0,24,0,10.9749531,106.4983776
+/ho-chi-minh/tra-sua-te-amo-152-tinh-lo-8/binh-luan,Trà Sữa Te Amo – 152 Tỉnh Lộ 8,"152 Tỉnh Lộ 8, TT. Củ Chi",694,1132377,2,0.0,0,0,0,0,20,0,10.9723228772071,106.4928764241301
+/ho-chi-minh/chao-dinh-duong-cay-thi-duong-so-78/binh-luan,Cháo Dinh Dưỡng Cây Thị - Đường Số 78,"16 Đường Số 78, Xã Tân Phú Trung",694,782357,2,0.0,0,0,0,0,77,0,10.9423042,106.5399721999999
+/ho-chi-minh/o-thom-bun-bo-20k-tinh-lo-8.onvuy2/binh-luan,O Thơm - Bún Bò 20K - Tỉnh Lộ 8,"1349 Tỉnh Lộ 8, X.Trung An",694,1000025775,2,0.0,0,0,0,0,10,0,10.9828593,106.5913946
+/ho-chi-minh/huy-dai-pha-lau-lieu-binh-huong/binh-luan,Huy Đại - Phá Lấu - Liêu Bình Hương,"192 Liêu Bình Hương, Ấp Tân Thành, X. Tân Thông Hội",694,1000037695,2,0.0,0,0,0,0,32,0,10.973419,106.505224
+/ho-chi-minh/quan-lam-lau-bo-cac-mon-nhau-binh-dan/binh-luan,Quán Lâm - Lẩu Bò & Các Món Nhậu Bình Dân,224/A Nguyễn Kim Cương,694,688001,2,5.5,5,0,2,5,1460,2,10.968665,106.579959
+/ho-chi-minh/phuc-long-28-tran-tu-binh/binh-luan,Phúc Long 28 Trần Tử Bình,"28 Trần Tử Bình, X. Tân Thông Hội",694,1141028,2,0.0,0,0,0,0,3,0,10.9614302,106.5064074
+/ho-chi-minh/subin-bbq-quan-nuong-lau-han-quoc-cu-chi/binh-luan,Subin BBQ - Quán Nướng Hàn Quốc - Củ Chi,"Tầng 1, TTTM Satra Củ Chi 1239, Đường Tỉnh Lộ 8, P. Thạnh An",694,939694,2,6.9,2,0,2,1,372,0,10.983943,106.579499
+/ho-chi-minh/ga-ran-cp-five-star-nguyen-thi-trieu/binh-luan,Gà Rán CP Five Star - Nguyễn Thị Triệu,"Nguyễn Thị Triệu, KP. 2, TT. Củ Chi",694,1105899,2,0.0,0,0,0,0,41,0,10.9717097,106.4960832
+/ho-chi-minh/banh-trang-bien-hoa-banh-trang-deo-tron-topping-nguyen-thi-nghiem.lfdh81/binh-luan,Bánh Tráng Biên Hòa - Bánh Tráng Dẻo Trộn Topping - Nguyễn Thị Nghiêm,"7 Tỉnh Lộ 8, P. Bình Mỹ",694,1000027982,2,0.0,0,0,0,0,10,0,10.9780091,106.6460201
+/ho-chi-minh/thanh-xuan-anh-bo-to-ga-tha-vuon/binh-luan,Thành Xuân Anh - Bò Tơ & Gà Thả Vườn,"122/9 Ấp Phú Lợi, Xã Tân Phú Trung",694,692392,2,0.0,29,2,0,0,327,0,10.939879,106.54145
+/ho-chi-minh/quan-chinh-bo-to-ga-ta/binh-luan,Quán Chính - Bò Tơ & Gà Ta,2 Phạm Văn Chèo,694,188200,2,7.7,15,0,2,1,1184,2,10.9742228,106.4946535
+/ho-chi-minh/titi-tea-tra-sua-an-vat-tinh-lo-8.2gfh9f/binh-luan,Titi Tea - Trà Sữa & Ăn Vặt - Tỉnh Lộ 8,"1804 Tỉnh Lộ 8, X. Hòa Phú",694,1000048745,2,0.0,0,0,0,0,17,0,10.9778392,106.6196555
+/ho-chi-minh/bun-bo-hue-o-lien-ha-duy-phien/binh-luan,Bún Bò Huế O Liên - Hà Duy Phiên,"106 Hà Duy Phiên, X. Bình Mỹ",694,1105406,2,0.0,0,0,0,0,27,0,10.9338334737779,106.6462851966616
+/ho-chi-minh/dalas-tea-tinh-lo-15/binh-luan,Dalas Tea - Tỉnh Lộ 15,"127/5 Tỉnh Lộ 15, Tổ 5, Ấp 1A, Xã Tân Thạnh Tây",694,1118893,2,0.0,0,0,0,0,15,0,10.9834301,106.5766094
+/ho-chi-minh/quan-huynh-de-oi/binh-luan,Quán Huynh Đệ Ơi,"28A Nhữ Tiến Hiến, T.T Củ Chi",694,1079860,2,0.0,0,0,0,0,26,0,10.974014,106.501778
+/ho-chi-minh/gui-pizza-tra-sua-lieu-binh-huong.iejkul/binh-luan,Gùi - Pizza & Trà Sữa - Liêu Bình Hương,"114 Liêu Bình Hương, X. Tân Thông Hội",694,1000047767,2,0.0,0,0,0,0,26,0,10.9687711,106.5062341
+/ho-chi-minh/chao-dinh-duong-doremi-130c-duong-78/binh-luan,Cháo Dinh Dưỡng Doremi - 130C Đường 78,"130C Đường Số 78, X. Tân Phú Trung",694,1118840,2,0.0,0,0,0,0,32,0,10.9442754457861,106.5408447522908
+/ho-chi-minh/tiem-tra-hoa-gio-lieu-binh-huong.rnbi4p/binh-luan,TIỆM TRÀ HOA GIÓ - Liêu Bình Hương,"181 Liêu Bình Hương, X. Tân Thông Hội",694,1000031761,2,0.0,0,0,0,0,37,0,10.9697947,106.5063235
+/ho-chi-minh/xuka-drink-tra-trai-cay-16a-nguyen-van-on.rn4mnn/binh-luan,Xuka Drink - Trà Trái Cây - 16a Nguyễn Văn On,"16A Nguyễn Văn On, T.T Củ Chi",694,1000044868,2,0.0,0,0,0,0,25,0,10.9706499,106.4936724
+/ho-chi-minh/sushi-world-quoc-lo-22/binh-luan,Sushi World - Quốc Lộ 22,779 Quốc Lộ 22,694,627094,2,6.966,49,0,6,3,1721,1,10.9692473,106.4838025
+/ho-chi-minh/bo-to-kim-dung/binh-luan,Bò Tơ Kim Dung,"638 Nguyễn Thị Rành, Ấp Ngã Tư",694,85583,2,8.12,21,0,5,1,3184,3,11.038004,106.485759
+/ho-chi-minh/kaphi-coffee/binh-luan,Kaphi Coffee,Tỉnh Lộ 8,694,188069,2,8.0,26,0,3,3,955,7,10.970276,106.48967
+/ho-chi-minh/bunny-garden-grill-vuon-nuong-chu-tho/binh-luan,Bunny Garden Grill - Vườn Nướng Chú Thỏ,Mũi Tàu Quốc Lộ 22 - Hương Lộ 2,694,147894,2,8.15,104,0,4,1,2383,1,10.9343447360823,106.5507638454437
+/ho-chi-minh/the-light-coffee-211636/binh-luan,The Light Coffee,449 Tỉnh Lộ 8,694,211636,2,7.9,30,0,2,4,1006,6,10.9671936759566,106.4853660992614
+/ho-chi-minh/buffet-ngon-99k/binh-luan,Buffet Ngon 99K,"71 Tỉnh Lộ 8, TT. Củ Chi",694,971097,2,8.056,79,0,7,1,1107,0,10.971802,106.492065
+/ho-chi-minh/hu-tieu-nam-vang-tai-anh-quoc-lo-22/binh-luan,Hủ Tiếu Nam Vang Tài Anh,"261 Quốc Lộ 22, Xã Tân Thông Hội",694,673449,2,8.736,8,0,3,3,3330,2,10.938627,106.54194
+/ho-chi-minh/best-burger/binh-luan,Best Burger,"30 Phạm Hữu Tâm, Tổ 4, KP 3",694,264484,2,7.1,5,0,4,2,531,2,10.977774,106.499521
+/ho-chi-minh/xuan-anh/binh-luan,Xuân Anh - Ẩm Thực Củ Chi,"79 Mũi Lớn, Tân An Hội",694,22113,2,5.6,30,0,4,1,3338,0,10.9615841912722,106.4823248359375
+/ho-chi-minh/lau-dai-meo-cafe-milktea-quoc-lo-22/binh-luan,Lâu Đài Mèo Cafe - Milktea - Quốc Lộ 22,123 Quốc Lộ 22,694,149669,2,4.468,18,0,3,2,2526,3,10.9500401,106.5201597999999
+/ho-chi-minh/vua-buffet/binh-luan,Vua Buffet,"9 Nguyễn Đình Huân, KP. 1",694,945284,2,8.0,51,0,1,3,2190,0,10.974566,106.491307
+/ho-chi-minh/only-b-milk-tea-food/binh-luan,Only B - Milk Tea & Food,"4 Hồ Văn Tắng, Xã Tân Phú Trung",694,769124,2,0.0,4,4,0,0,2007,0,10.9399125908076,106.5414186939597
+/ho-chi-minh/kuchi-coffee-quoc-lo-22/binh-luan,Kuchi Coffee - Quốc Lộ 22,539 Quốc Lộ 22,694,89496,2,5.6,2,0,2,3,1808,5,10.963359,106.498188
+/ho-chi-minh/syn-coffee-nguyen-thi-nghi/binh-luan,SYN Coffee - Nguyễn Thị Nghỉ,"58 Nguyễn Thị Nghỉ, X. Tân Phú Trung",694,1133238,2,0.0,0,0,0,0,4,0,10.9442480922154,106.5408275457776
+/ho-chi-minh/ba-bay-map-sam-lanh-quoc-lo-22.tlnrbf/binh-luan,Bà Bảy Mập - Sâm Lạnh - Quốc Lộ 22,"167 Quốc Lộ 22, X. Tân Phú Trung",694,1000048123,2,0.0,0,0,0,0,29,0,10.9353808,106.5479917
+/ho-chi-minh/thanh-xuan-anh-ga-nuong-xe-mam-ho-vang-tang.kh55g5/binh-luan,Thành Xuân Anh - Gà Nướng Xé Mâm - Hồ Văng Tắng,"124/9 Hồ Văn Tắng, P. Tân Phú Trung",694,1000048033,2,0.0,0,0,0,0,10,0,10.940274,106.5415579
+/ho-chi-minh/cafe-hoa-giay-duong-458/binh-luan,Cafe Hoa Giấy - Đường 458,"93 Đường 458 Ấp Thạnh An, Xã Trung An",694,1128169,2,0.0,0,0,0,0,11,0,10.9889508,106.5840853
+/ho-chi-minh/bun-dau-mam-tom-anh-bo-tinh-lo-8/binh-luan,Bún Đậu Mắm Tôm Anh Bo - Tỉnh Lộ 8,"86 Tỉnh Lộ 8, Ấp 1",694,1127613,2,0.0,0,0,0,0,7,0,10.9844116718085,106.5740254007835
+/ho-chi-minh/phi-yen-coffee-coffee-tea/binh-luan,Phi Yến Coffee - Coffee & Tea,"22-24 Đường Số 31, Ấp Tân Tiến, X. Tân Thông Hội",694,1126428,2,0.0,0,0,0,0,36,0,10.9687898,106.5075202
+/ho-chi-minh/thanh-xuan-anh-bia-ruou-banh-keo/binh-luan,Thành Xuân Anh - Bia Rượu & Bánh Kẹo,"8 Liêu Bình Hương, Ấp Tân Tiến, X. Tân Thông Hội",694,1126387,2,0.0,0,0,0,0,30,0,10.9459524732631,106.5245534889034
+/ho-chi-minh/yuki-coffee/binh-luan,Yuki Coffee,"5 Quốc Lộ 22, Xã Tân An Hội",694,997369,2,8.8,9,0,1,0,80,2,10.969651,106.483649
+/ho-chi-minh/du-kin-the-gioi-kem/binh-luan,Du Kin - Thế Giới Kem,"400 Quốc Lộ 22, Xã Tân Thông Hội",694,692402,2,8.8,17,0,1,1,220,0,10.9614308356755,106.5013739839196
+/ho-chi-minh/quan-ba-sau-chao-ca-rau-dang/binh-luan,Quán Bà Sáu - Cháo Cá Rau Đắng,"896 Quốc Lộ 22, Khu Phố 8",694,228825,2,8.8,5,0,1,2,417,0,10.970749,106.482485
+/ho-chi-minh/co-thuy-banh-xeo-banh-khot/binh-luan,Cô Thủy - Bánh Xèo & Bánh Khọt,"32 Đường Số 490, Ấp 2",694,631969,2,8.7,13,0,2,1,670,2,11.0240714364833,106.5442527793378
+/ho-chi-minh/unlimited-coffee-s/binh-luan,Unlimited Coffee's,"50 Tỉnh Lộ 8, Khu Phố 2",694,86063,2,8.6,10,0,2,1,998,1,10.970043,106.489604
+/ho-chi-minh/pizza-ngon-tinh-lo-15/binh-luan,Pizza Ngon - Tỉnh Lộ 15,"131 Tỉnh Lộ 15, Ấp 1A, Xã Tân Thạnh Tây",694,790718,2,8.6,93,0,1,0,848,5,10.983246,106.576628
+/ho-chi-minh/pho-94/binh-luan,Phở 94,94 Đường Số 11,694,653418,2,8.6,0,0,1,0,120,1,10.967786,106.484518
+/ho-chi-minh/tra-sua-dinta/binh-luan,Trà Sữa Dinta,"183 Liêu Bình Hương, Xã Tân Thông Hội",694,777036,2,8.5,29,0,2,1,740,4,10.969972,106.506518
+/ho-chi-minh/ghe-oc-dem/binh-luan,Ghé Ốc Đêm,"Tỉnh Lộ 8, Xã Tân An Hội",694,654965,2,8.4,31,0,1,2,626,3,10.960774,106.477798
+/ho-chi-minh/dong-hao-quan-an-gia-dinh/binh-luan,Đông Hào - Quán Ăn Gia Đình,48 Nguyễn Văn Khạ,694,863064,2,8.4,7,0,1,0,180,0,10.9737316,106.4890944999999
+/ho-chi-minh/bun-bo-my-ngoc-tinh-lo-15/binh-luan,Bún Bò Mỹ Ngọc - Tỉnh Lộ 15,"Tỉnh Lộ 15, Xã Phú Hoà Đông",694,72200,2,7.25,0,0,4,3,1349,0,11.032296,106.564838
+/ho-chi-minh/com-tam-tu-rau/binh-luan,Cơm Tấm Tư Râu,"521 Quốc Lộ 22, TT Củ Chi",694,45660,2,7.5,2,0,2,4,1694,3,10.9650580751959,106.4937474656982
+/ho-chi-minh/ke-quan-banh-beo-tra-sua/binh-luan,"Kệ Quán - Trà Sữa, Xiên Que & Lẩu Nhúng",62 - 147 Nguyễn Văn Khạ,694,165191,2,7.1,7,0,2,3,1002,4,10.9748559451644,106.4897114038467
+/ho-chi-minh/bo-to-cu-chi-nga-tu-xom-moi/binh-luan,Bò Tơ Củ Chi - Ngã Tư Xóm Mới,"Hương Lộ 2, Ấp Xóm Mới, Xã Trung Lập Hạ",694,714535,2,0.0,0,0,0,0,193,0,11.0085247588237,106.4719030794677
+/ho-chi-minh/tino-coffee-nguyen-thi-ranh/binh-luan,Tino Coffee - Nguyễn Thị Rành,25/96 Nguyễn Thị Rành,694,830812,2,0.0,0,0,0,0,18,0,10.980092,106.470622
+/ho-chi-minh/quan-diem-mi-mon-an-gia-dinh/binh-luan,Quán Diễm Mi - Món Ăn Gia Đình,"Nguyễn Thị Rành, Xã Tân An Hội",694,653560,2,7.8,4,0,1,1,906,1,10.979337,106.471071
+/ho-chi-minh/bee-bee-quan-goi-cuon-an-vat/binh-luan,Bee Bee Quán - Gỏi Cuốn & Ăn Vặt,"860 Tỉnh Lộ 7, Ấp Phước Hưng, Xã Phước Thạnh",694,736215,2,0.0,4,0,0,0,155,0,11.059748,106.476759
+/ho-chi-minh/trang-coffee/binh-luan,Trang Coffee,31 Lê Minh Nhựt,694,654974,2,0.0,0,0,0,0,34,0,10.955125,106.471002
+/ho-chi-minh/tuong-vy-coffee/binh-luan,Tường Vy Coffee,673 Lê Minh Nhựt,694,654976,2,0.0,0,0,0,0,49,0,10.960197,106.472628
+/ho-chi-minh/3-cay-dua-pho-bo-binh-dan/binh-luan,3 Cây Dừa - Phở Bò Bình Dân,"Nguyễn Thị Rành, Xã Trung Lập Hạ",694,665579,2,0.0,0,0,0,0,92,0,11.010443,106.475544
+/ho-chi-minh/tra-sua-choi-tea-kool/binh-luan,Trà Sữa Chòi Tea Kool,"53B Đường 364, Âp Mũi Lớn 2, Xã Tân An Hội",694,745778,2,0.0,7,0,0,0,73,0,10.9563858,106.473926
+/ho-chi-minh/cuisine-de-mi/binh-luan,Cuisine De Mi - Tiệm Bánh - Shop Online,"Quốc Lộ 22, Củ Chi",694,679632,2,8.0,31,0,2,2,204,4,11.1370124891051,106.4858781918883
+/ho-chi-minh/trung-nguyen-coffee-nguyen-van-hoai/binh-luan,Trung Nguyên Coffee - Nguyễn Văn Hoài,"41 Nguyễn Văn Hoài, Xã Tân An Hội",694,1047291,2,0.0,29,0,0,0,47,0,10.9773521642543,106.4784944057464
+/ho-chi-minh/com-tam-go-dau-tuan-phuong-com-tam-277-tinh-lo-8.pxgsmm/binh-luan,Cơm Tấm Gò Dầu Tuấn Phương - Cơm Tấm - 277 Tỉnh Lộ 8,"277 Tỉnh Lộ 8, tt. Củ Chi",694,1000037757,2,0.0,0,0,0,0,27,0,10.9778646,106.502561
+/ho-chi-minh/my-cay-naga-tan-quy-cu-chi/binh-luan,Mỳ Cay Naga Tân Quy Củ Chi,"243 Tỉnh Lộ 15, Ấp 1, Xã Tân Thạnh Tây",694,1081851,2,0.0,0,0,0,0,60,0,10.9887192,106.5742672
+/ho-chi-minh/sala-tra-sua-an-vat-mi-cay/binh-luan,"Sala - Trà Sữa, Ăn Vặt & Mì Cay","70 Trần Tử Bình, Ấp Tân Định, X. Tân Thông Hội",694,1077000,2,0.0,0,0,0,0,21,0,10.9637912,106.5072262
+/ho-chi-minh/aloha-tra-sua-pizza-mi-cay-ga-ran-tttm-satra-cu-chi/binh-luan,"Aloha - Trà Sữa, Pizza, Mì Cay & Gà Rán - TTTM Satra Củ Chi","Lầu 1 Centre Mall - TTTM Satra Củ Chi - Số 1239, Tỉnh Lộ 8, Ấp Thạnh An, X. Trung An",694,1077092,2,0.0,0,0,0,0,42,0,10.9839758,106.5801758
+/ho-chi-minh/tra-sua-d-d/binh-luan,Trà Sữa D&D,"89B Suối Lội, Ấp Bầu Sim, X. Tân Thông Hội",694,1079239,2,0.0,0,0,0,0,14,0,10.9570064,106.527811
+/ho-chi-minh/quan-2-chi-em-bau-gia/binh-luan,Quán 2 Chị Em - Bàu Giã,"1B Bàu Giã, X. Tân Phú Trung",694,1076949,2,0.0,0,0,0,0,22,0,10.9570804,106.5298419
+/ho-chi-minh/tra-sua-saytea-nguyen-van-kha/binh-luan,Trà Sữa Saytea - Nguyễn Văn Khạ,"159 Nguyễn Văn Khạ, Khu phố 1, TT. Củ Chi",694,1118938,2,0.0,0,0,0,0,37,0,10.9765357429323,106.4904600852876
+/ho-chi-minh/jollibee-satra-cu-chi/binh-luan,Jollibee - Satra Củ Chi,"1239 Tỉnh Lộ 8, Xã Trung An",694,1000010,2,0.0,0,3,0,0,179,0,10.983747,106.579457
+/ho-chi-minh/kebab-torki-tan-quy/binh-luan,Kebab Torki Tân Quy,"Đối Diện Bến Xe Buýt Tân Quy, Đường Số 473, P. Trung An",694,917900,2,0.0,5,0,0,0,41,0,10.984167,106.578048
+/ho-chi-minh/th-true-mart-tinh-lo-8-70000312/binh-luan,TH True Mart - Tỉnh Lộ 8 - 70000312,"213 Tỉnh Lộ 8, Khu Phố 3, TT. Củ Chi",694,1097813,2,0.0,0,0,0,0,31,0,10.976857087419,106.5009927392384
+/ho-chi-minh/banh-trang-minh-minh-shop-online/binh-luan,Bánh Tráng Minh Minh - Shop Online,110 Bà Thiên,694,252232,2,6.6,6,0,1,0,338,0,11.0563608559371,106.4964759349823
+/ho-chi-minh/pizza-thuong/binh-luan,Pizza Thương,"3 Nguyễn Văn Tỷ, KP. 2, TT. Củ Chi",694,1076958,2,0.0,0,0,0,0,28,0,10.97006,106.4901684
+/ho-chi-minh/com-tam-cu-chi/binh-luan,Cơm Tấm Củ Chi,153 Liêu Bình Hương,694,1069646,2,0.0,14,1,0,1,47,0,10.9681204619886,106.5055689177169
+/ho-chi-minh/tiem-com-tam-banh-mi-chay-com-tam-va-banh-mi-huynh-thi-thom.ko20rk/binh-luan,Tiệm Cơm Tấm Bánh Mì Chay - Cơm Tấm Và Bánh Mì - Huỳnh Thị Thơm,"116 Huỳnh Thị Thơm, X. Tân Thông Hội",694,1000043907,2,0.0,0,0,0,0,34,0,10.9617979,106.503484
+/ho-chi-minh/pho-huy-pho-to-ky/binh-luan,Phở Huy - Phở - Tô Ký,"6A Đường 177, Tổ 3, Ấp 4A, X. Bình Mỹ",694,1000043860,2,0.0,0,0,0,0,22,0,10.9590847,106.6412449
+/ho-chi-minh/an-vat-hieu-buon-do-an-vat-18a-pham-huu-tam.c6ecn9/binh-luan,ĂN VẶT HIỆU BUÔN - ĐỒ ĂN VẶT - 18A PHẠM HỮU TÂM,"18A Phạm Hữu Tâm, tt. Củ Chi",694,1000038711,2,0.0,0,0,0,0,45,0,10.9774678,106.4999752
+/ho-chi-minh/am-thuc-bay-lan-cu-chi-do-chua-18-duong-51.lu7qcb/binh-luan,Ẩm Thực Bảy Lan Củ Chi - Đồ Chua - 18 Đường 51,"18 Đường 51, X. Tân Phú Trung",694,1000036908,2,0.0,0,0,0,0,9,0,10.9295454,106.5522833
+/ho-chi-minh/banh-trang-di-5-banh-trang-song-lu.hraxgj/binh-luan,Bánh Tráng Dì 5 - Bánh Tráng - Sông Lu,"91 Sông Lu, X. Hòa Phú",694,1000036509,2,0.0,0,0,0,0,8,0,10.9861853,106.6082837
+/ho-chi-minh/ccm-coffee-ca-phe-tra-quoc-lo-22.samn0z/binh-luan,CCM COFFEE - Cà Phê & Trà - Quốc Lộ 22,"291 Quốc Lộ 22, Tân Thông Hội",694,1000034672,2,0.0,0,0,0,0,22,0,10.9564879,106.5101798
+/ho-chi-minh/my-house-coffee-le-thi-bay/binh-luan,My House Coffee - Lê Thị Bay,20 Lê Thị Bay,694,956426,2,0.0,0,1,0,0,22,0,10.971605,106.58394
+/ho-chi-minh/sinh-to-bi-bi-sinh-to-nuoc-ep-che-tra-sua-le-minh-nhut.r3kozq/binh-luan,"Sinh Tố Bi Bi - Sinh Tố, Nước Ép, Chè, Trà Sữa  - Lê Minh Nhựt","361 Lê Minh Nhựt, Xã Tân An Hội",694,1000027214,2,0.0,0,0,0,0,31,0,10.9519262,106.4928208
+/ho-chi-minh/hu-tieu-toan-thanh/binh-luan,Hủ Tiếu Toàn Thanh,"6 Nguyễn Văn Khạ, KP. 1, TT. Củ Chi",694,1076920,2,0.0,0,0,0,0,20,0,10.970971,106.4872017
+/ho-chi-minh/lang-the-nha-hang-dong-que/binh-luan,Láng The - Nhà Hàng Đồng Quê,"Tỉnh Lộ 8, Ấp 6, Xã Phước Vĩnh An",694,681688,2,6.666,13,0,3,1,1340,3,10.985943,106.53742
+/ho-chi-minh/bia-tho-7-de-nuong-cac-mon-nhau-binh-dan/binh-luan,Bia Thố 7 - Dê Nướng & Các Món Nhậu Bình Dân,128A Liêu Bình Hương,694,694916,2,6.8,36,0,2,1,490,1,10.971353,106.506652
+/ho-chi-minh/hu-tieu-nam-vang-cu-chi/binh-luan,Hủ Tiếu Nam Vang Củ Chi,Quốc Lộ 22,694,71932,2,7.6,2,0,2,0,1497,0,10.967403,106.488682
+/ho-chi-minh/thuy-truc-quan-du-lich-sinh-thai-binh-my/binh-luan,Thủy Trúc Quán - Du Lịch Sinh Thái Bình Mỹ,Khu Du Lịch Sinh Thái Bình Mỹ,694,212821,2,0.0,6,11,0,2,1437,0,10.9676726147738,106.6470658779144
+/ho-chi-minh/ngau-lac-lieu-binh-huong/binh-luan,Ngầu Lắc - Liêu Bình Hương,"95 Liêu Bình Hương, Xã Tân Thông Hội",694,88484,2,7.0,0,0,1,2,1352,4,10.9639267,106.503859
+/ho-chi-minh/aroma-coffee-duong-so-9/binh-luan,Aroma Coffee - Đường Số 9,"85A Đường Số 9, Liêu Bình Hương, X. Tân Thông Hội",694,1124674,2,0.0,0,0,0,0,22,0,10.9699238,106.5079036
+/ho-chi-minh/song-ha-coffee-tea/binh-luan,Song Ha - Coffee& Tea,"1884 Tỉnh Lộ 8, Xã Hòa Phú",694,872330,2,8.2,17,0,1,0,205,2,10.9793351374879,106.6162353869808
+/ho-chi-minh/thuy-truc-cafe-duong-so-35/binh-luan,Thuỷ Trúc Cafe - Đường Số 35,"Đường số 35, Khu Phố 7",694,71381,2,8.2,0,0,1,0,891,0,10.977622,106.496901
+/ho-chi-minh/dac-san-de-ninh-binh-nguyen-dinh-huan/binh-luan,Đặc Sản Dê Ninh Bình - Nguyễn Đình Huân,12 Nguyễn Đình Huân,694,871874,2,8.1,48,0,2,1,306,0,10.9746192737894,106.491412035582
+/ho-chi-minh/sushi-akiko/binh-luan,Sushi Akiko,"104B Nguyễn Thị Triệu, KP 2",694,634722,2,7.802,15,0,3,3,568,0,10.9738734480848,106.4964430779218
+/ho-chi-minh/bo-kho-bun-rieu-cua-binh-dan/binh-luan,Bò Kho & Bún Riêu Cua Bình Dân,"Hà Duy Phiên, X. Bình Mỹ",694,231011,2,8.0,27,0,3,0,275,0,10.922357,106.64833
+/ho-chi-minh/tocotoco-bubble-tea-tinh-lo-8/binh-luan,TocoToco Bubble Tea - Tỉnh Lộ 8,"56 Tỉnh Lộ 8, KP. 2, TT. Củ Chi",694,856110,2,0.0,5,4,0,3,399,1,10.969617,106.488748
+/ho-chi-minh/tra-sua-tinh-lo-15/binh-luan,Trà Sữa,286 Tỉnh Lộ 15,694,273252,2,0.0,8,5,0,2,107,5,10.94936,106.604762
+/ho-chi-minh/kem-cuon-thai-lan-tan-quy/binh-luan,Kem Cuộn Thái Lan - Tân Quy,Ngã Tư Tân Quy,694,169303,2,0.0,10,3,0,2,214,2,10.983709,106.575246
+/ho-chi-minh/net-xua-cafe-tinh-lo-8/binh-luan,Net Xưa Cafe - Tỉnh Lộ 8,311A Tỉnh Lộ 8,694,827350,2,0.0,0,0,0,0,23,0,10.961065,106.478383
+/ho-chi-minh/o-ke-quan-mon-an-gia-dinh/binh-luan,Ô Kê Quán - Món Ăn Gia Đình,"Tỉnh Lộ 8, Xã Tân An Hội",694,654942,2,0.0,18,0,0,0,150,1,10.961349,106.481214
+/ho-chi-minh/dac-san-bo-to-dong-que/binh-luan,Đặc Sản Bò Tơ Đồng Quê,671 Nguyễn Thị Rành,694,228707,2,0.0,7,1,0,0,175,1,11.036895,106.485852
+/ho-chi-minh/kem-tuoi-mimi/binh-luan,Kem Tươi MiMi,"622A Nguyễn Thị Rành, Xã Nhuận Đức",694,655044,2,0.0,0,2,0,0,78,0,11.0367223114223,106.4860746636986
+/ho-chi-minh/ngoc-khanh-quan-an-gia-dinh/binh-luan,Ngọc Khanh - Quán Ăn Gia Đình,"2 Đường Số 808, Ấp Phú Trung, Xã An Phú",694,889351,2,0.0,0,0,0,0,111,0,11.126129,106.491733
+/ho-chi-minh/chuoi-mien-tay-trai-cay-bui-thi-he/binh-luan,Chuối Miền Tây - Trái Cây - Bùi Thị He,"06 Bùi Thị He, Thị Trấn Củ Chi",694,1093068,2,0.0,0,0,0,0,33,0,10.971448,106.483094
+/ho-chi-minh/the-gioi-an-vat-huyen-food-duong-26/binh-luan,Thế Giới Ăn Vặt Huyền Food - Đường 26,"57 Đường 26, Ấp Trung, X. Tân Thông Hội",694,1100736,2,0.0,0,0,0,0,9,0,10.9535382,106.5119761
+/ho-chi-minh/trung-nguyen-e-coffee-nguyen-van-xo/binh-luan,Trung Nguyên E - Coffee - Nguyễn Văn Xơ,"19 Nguyễn Văn Xơ, KP. 1, TT Củ Chi",694,1076973,2,0.0,0,0,0,0,33,0,10.9721642,106.4890481
+/ho-chi-minh/bao-ngan-kitchen/binh-luan,Bảo Ngân Kitchen,"21 Đường số 473, Ấp Thạnh An, X. Trung An",694,1076927,2,0.0,0,0,0,0,19,0,10.9853989,106.5780902
+/ho-chi-minh/goi-kho-bo-bot-chien-68/binh-luan,Gỏi Khô Bò - Bột Chiên 68,"54 Đường Số 15, Ấp Tân Tiến, X. Tân Thông Hội",694,1079240,2,0.0,0,0,0,0,17,0,10.9616767,106.5058585
+/ho-chi-minh/tra-sua-keng-tea/binh-luan,Trà Sữa Keng Tea,"70 Nguyễn Văn Khạ, Tổ 7 Khu phố 7. TT. Củ Chi",694,1076984,2,0.0,0,1,0,0,42,0,10.9758109,106.4902085
+/ho-chi-minh/tra-sua-family-lieu-binh-huong/binh-luan,Trà Sữa FAMILY - Liêu Bình Hương,"127 Liêu Bình Hương, X. Tân Thông Hôi",694,1076968,2,0.0,0,0,0,0,39,0,10.9662081,106.5045639
+/ho-chi-minh/com-ga-huu-phuoc/binh-luan,Cơm Gà Hữu Phước,"96 Nguyễn Văn Khạ, TT. Củ Chi",694,1076996,2,0.0,0,0,0,0,15,0,10.9779708,106.4917914
+/ho-chi-minh/sinh-to-nuoc-ep-hachi/binh-luan,Sinh Tố - Nước Ép Hachi,"74 Lê Minh Nhựt, X. Tân Thông Hội",694,1077007,2,0.0,0,0,0,0,34,0,10.9425267,106.5178511
+/ho-chi-minh/tv-coffee-ca-phe-nguyen-van-kha/binh-luan,TV Coffee - Cà Phê - Nguyễn Văn Khạ,"155 Nguyễn Văn Khạ, tt. Củ Chi",694,903292,2,0.0,0,1,0,0,39,0,10.9760548,106.4903535
+/ho-chi-minh/nhoi-milk-tea-tra-sua-le-vinh-huy.v6hebi/binh-luan,Nhoi Milk Tea - Trà Sữa - Lê Vĩnh Huy,"1B  Lê Vĩnh Huy, TT. Củ Chi",694,1000032163,2,0.0,0,0,0,0,25,0,10.9752072,106.495646
+/ho-chi-minh/nhu-foods-keo-banh-an-no-keo-banh-an-vat-nhieu-loai-ben-than/binh-luan,Như Foods - Kẹo Bánh Ăn No & Kẹo Bánh Ăn Vặt Nhiều Loại - Bến Than," 30/18D Bến Than, Ấp 1, Xã Tân Thạnh Đông",694,1091478,2,0.0,0,0,0,0,8,0,10.9481407643113,106.6081120683732
+/ho-chi-minh/cp-five-star-nguyen-thi-trieu/binh-luan,CP Five Star - Nguyễn Thị Triệu,"66 Nguyễn Thị Triệu, KP. 2, Thị Trấn Củ Chi",694,1088433,2,0.0,0,0,0,0,30,0,10.9711299793002,106.4962335717357
+/ho-chi-minh/bep-sunan-an-vat-cu-chi-nguyen-kim-cuong.otb3m7/binh-luan,Bếp Sunan - Ăn Vặt Củ Chi - Nguyễn Kim Cương,"397/25A  Nguyễn Kim Cương, Tân Thạnh Đông",694,1000029885,2,0.0,0,0,0,0,17,0,10.9445586,106.6028343
+/ho-chi-minh/mon-ngon-nha-lam-ap-cho/binh-luan,Món Ngon Nhà Làm - Ấp Chợ,"67 Đường 57 Ấp Chợ, P. Tân Phú Trung",694,1078511,2,0.0,0,0,0,0,26,0,10.9359973,106.5505562
+/ho-chi-minh/7-ga-ga-ac-tiem-thuoc-bac-binh-my.rp2z2m/binh-luan,7 Gà - Gà Ác Tiềm Thuốc Bắc - Bình Mỹ,"139 Tỉnh lộ 9, P. Bình Mỹ",694,1000026692,2,0.0,0,0,0,0,17,0,10.9435702,106.6464327
+/ho-chi-minh/kem-cuon-thai-lan-thy-duong/binh-luan,Kem Cuộn Thái Lan Thy Dương,"76 Tỉnh Lộ 8, Xã Tân Thạnh Tây",694,171651,2,5.4,7,0,2,1,326,3,10.983917,106.575081
+/ho-chi-minh/ponpo-mi-cay-7-cap-do/binh-luan,Ponpo - Mì Cay 7 Cấp Độ,"19 Hồ Văn Tắng, Ấp Đình, Xã Tân Phú Trung",694,786074,2,6.5,7,0,2,1,428,1,10.941394,106.542116
+/ho-chi-minh/la-espresso-station/binh-luan,Lạ Espresso Station,Nguyễn Văn Khạ,694,684222,2,8.0,14,0,1,1,182,3,10.9727675178155,106.4884591475129
+/ho-chi-minh/bun-rieu-tuoi/binh-luan,Bún Riêu Tươi,"26 Hồ Văn Tắng, Ấp Xóm Đồng, Xã Tân Phú Trung",694,800455,2,7.6,9,0,2,0,267,2,10.943468,106.543024
+/ho-chi-minh/quan-khanh-linh-lau-nuong-cua-dong/binh-luan,Quán Khánh Linh - Lẩu Nướng Cua Đồng,Quốc Lộ 22,694,262577,2,0.0,29,5,0,1,979,3,10.968903,106.485118
+/ho-chi-minh/truc-xanh-cafe-nguyen-thi-trieu/binh-luan,Trúc Xanh Cafe - Nguyễn Thị Triệu,87 Nguyễn Thị Triệu,694,69255,2,5.5,2,0,2,1,978,0,10.973447,106.496331
+/ho-chi-minh/quan-tram-chim-mon-an-gia-dinh/binh-luan,Quán Tràm Chim - Món Ăn Gia Đình,"49 Hà Duy Phiên, X. Bình Mỹ",694,256937,2,0.0,5,2,0,1,921,0,10.966029,106.640221
+/ho-chi-minh/cho-hai-san-an-tuong/binh-luan,Chợ Hải Sản Ấn Tượng,"395 Tỉnh Lộ 8, Xã Phước Vĩnh An",694,716505,2,8.0,13,0,1,0,791,1,10.9811702,106.5087121
+/ho-chi-minh/duong-son-quan-lau-de/binh-luan,Dương Sơn Quán - Lẩu Dê,Tỉnh Lộ 8,694,212717,2,6.0,11,0,2,0,758,4,10.97368,106.496152
+/ho-chi-minh/ga-ran-cp-five-star-6a-nguyen-van-kha/binh-luan,Gà Rán CP Five Star - 6A Nguyễn Văn Khạ,"6A Nguyễn Văn Khạ, TT. Củ Chi",694,1105910,2,0.0,0,0,0,0,40,0,10.9720382,106.4871228
+/ho-chi-minh/hau-sua-quan-an-gia-dinh/binh-luan,Hàu Sữa - Quán Ăn Gia Đình,"Tỉnh Lộ 15, Xã Bình Mỹ",694,676928,2,8.0,32,0,1,0,307,1,10.920138,106.600315
+/ho-chi-minh/quan-9999-bo-to-ga-ta/binh-luan,Quán 9999 - Bò Tơ & Gà Ta,"23 Đường Số 28, Ấp Hậu, Xã Tân Thông Hội",694,300688,2,8.0,2,0,1,0,354,3,10.956948,106.51444
+/ho-chi-minh/jm-quan-an-vat/binh-luan,JM - Quán Ăn Vặt,"293 Quốc Lộ 22, Xã Tân Thông Hội",694,253136,2,0.0,5,8,0,2,173,1,10.9560651637187,106.5107238292694
+/ho-chi-minh/sach-cafe-lieu-binh-huong/binh-luan,Sách Cafe - Liêu Bình Hương,8 Liêu Bình Hương,694,672613,2,0.0,0,3,0,2,99,0,10.97664,106.502636
+/ho-chi-minh/quan-nhau-739/binh-luan,Quán Nhậu 739,739 Tỉnh Lộ 8,694,654979,2,0.0,0,0,0,0,55,1,10.961241,106.482859
+/ho-chi-minh/quan-an-thuy-hoa-mon-an-gia-dinh/binh-luan,Quán Ăn Thúy Hoa - Món Ăn Gia Đình,609 Quốc Lộ 22,694,653425,2,0.0,0,0,0,0,58,0,10.969324,106.483639
+/ho-chi-minh/ong-hai-coffee/binh-luan,Ông Hai Coffee,"Đường Số 11, Tân An Hội",694,653422,2,0.0,0,0,0,0,49,0,10.967859,106.483605
+/ho-chi-minh/hu-tieu-nam-vang-thinh-phat/binh-luan,Hủ Tiếu Nam Vang Thịnh Phát,569 Quốc Lộ 22,694,653428,2,0.0,0,1,0,0,68,1,10.968896,106.484033
+/ho-chi-minh/timiti-coffee/binh-luan,Timiti Coffee,494 Tỉnh Lộ 8,694,654909,2,0.0,0,0,0,0,39,0,10.963066,106.484179
+/ho-chi-minh/dung-phuong-banh-canh-cua/binh-luan,Dũng Phượng - Bánh Canh Cua,"282 Quốc Lộ 22, Xã Tân Thông Hội",694,700124,2,0.0,3,0,0,0,275,1,10.957296,106.509093
+/ho-chi-minh/highlands-coffee-centre-mall-cu-chi/binh-luan,Highlands Coffee - Centre Mall Củ Chi,"Centre Mall Củ Chi, 1239 Tỉnh lộ 8, Ấp Thạnh An, Xã Trung An",694,794874,2,0.0,5,0,0,0,709,4,10.983811,106.578907
+/ho-chi-minh/oc-nhu-duong-so-21/binh-luan,Ốc Như,"159 Đường Số 21, Ấp Tân Lập, Xã Tân Thông Hội",694,644535,2,0.0,8,2,0,1,186,0,10.966365,106.500482
+/ho-chi-minh/tra-sua-classic/binh-luan,Trà Sữa Classic,"Đường Tỉnh Lộ 15, Xã Tân Thạnh Đông",694,299687,2,0.0,0,0,0,0,103,1,10.949416,106.604697
+/ho-chi-minh/tra-sua-yellow-tea-duong-so-39/binh-luan,Trà Sữa Yellow Tea - Đường Số 39,35A Tổ 7 Khu 7 Đường 39,694,761072,2,5.0,0,0,1,0,124,1,10.979215,106.495158
+/ho-chi-minh/hu-tieu-mi-hoanh-thanh-hien-ky-hu-tieu-mi-hoanh-thanh-tinh-lo-8.8odi3j/binh-luan,Hủ Tiếu Mì Hoành Thánh Hiền Ký - Hủ Tiếu Mì Hoành Thánh - Tỉnh Lộ 8,"299 Tỉnh Lộ 8,X. Phước Vĩnh An",694,1000027777,2,0.0,0,0,0,0,12,0,10.9782387,106.5033894
+/ho-chi-minh/pl-coffee-ca-phe-nguyen-chat-pha-may-tu-rang-tinh-lo-8.cmqc9k/binh-luan,"PL Coffee - Cà Phê Nguyên Chất, Pha Máy, Tự Rang - Tỉnh Lộ 8","1457 Tỉnh Lộ 8, Hòa Phú",694,1000023326,2,0.0,0,0,0,0,18,0,10.9824747,106.5993392
+/ho-chi-minh/trung-nguyen-e-coffee-127-tinh-lo-15/binh-luan,Trung Nguyên E-Coffee - 127 Tỉnh Lộ 15,"127 Tỉnh Lộ 15, Xã Tân Thạnh Tây",694,1015879,2,0.0,0,0,0,0,76,0,10.983055,106.57671
+/ho-chi-minh/milano-coffee-nguyen-thi-lang/binh-luan,Milano Coffee - Nguyễn Thị Lắng,"269 Nguyễn Thị Lắng, Xã Tân Phú Trung",694,956329,2,0.0,0,0,0,0,37,0,10.961273,106.543792
+/ho-chi-minh/sua-chua-tran-chau-ha-long-tinh-lo-8/binh-luan,Sữa Chua Trân Châu Hạ Long - Tỉnh Lộ 8,"5A1 Tỉnh Lộ 8, TT, Củ Chi",694,1035987,2,0.0,0,0,0,0,132,0,10.983822,106.576034
+/ho-chi-minh/banh-xeo-binh-my/binh-luan,Bánh Xèo Bình Mỹ,"Hà Duy Phiên, Xã Bình Mỹ",694,268610,2,7.5,7,0,2,0,308,2,10.923318,106.648063
+/ho-chi-minh/black-white-cafe-le-vinh-huy/binh-luan,Black & White Cafe,54 Lê Vĩnh Huy,694,239108,2,6.4,4,0,2,0,407,1,10.9760449,106.4953487
+/ho-chi-minh/quan-nuong-79/binh-luan,Quán Nướng 79,"185 Hương Lộ 2, Xã Phước Vĩnh An",694,694494,2,0.0,0,2,0,0,717,0,10.966567,106.520696
+/ho-chi-minh/five-star-chicken-tinh-lo-8/binh-luan,Five Star Vietnam - Tỉnh Lộ 8,"1229 Tỉnh Lộ 8, Trung An",694,119078,2,0.0,0,2,0,0,672,2,10.974798,106.64381
+/ho-chi-minh/ca-map-quan/binh-luan,Cá Mập Quán,"21Bis Đường Số 72, Ấp Đình, Xã Tân Phú Trung ",694,112154,2,0.0,9,1,0,1,668,1,10.9420549,106.5377123
+/ho-chi-minh/com-ga-xoi-mo-a-thanh/binh-luan,Cơm Gà Xối Mỡ A Thanh,161a Nguyễn Văn Khạ,694,103702,2,0.0,6,1,0,0,556,2,10.9807325,106.4935563
+/ho-chi-minh/buffet-ngoi-xua/binh-luan,Buffet Ngói Xưa,"9/3 Nguyễn Văn On, TT. Củ Chi",694,779599,2,0.0,67,1,0,0,554,0,10.9718583572,106.4941072506097
+/ho-chi-minh/quan-xom-nuong/binh-luan,Quán Xóm Nướng,"126A Trung An, Ấp Hội Thạnh",694,235253,2,7.6,4,0,1,0,192,0,10.9849759686003,106.5940402820706
+/ho-chi-minh/banh-xeo-tinh-lo-15/binh-luan,Bánh Xèo Tỉnh Lộ 15,"Tỉnh Lộ 15, Xã An Nhơn Tây",694,652975,2,7.4,5,0,1,0,216,0,11.094041,106.512615
+/ho-chi-minh/tiem-banh-phuong-nhi/binh-luan,Tiệm Bánh Phương Nhi,725 Quốc Lộ 22,694,653416,2,7.2,3,0,1,1,274,1,10.96834,106.485533
+/ho-chi-minh/cun-s-house-coffee/binh-luan,Cun's House Coffee,"15 Phạm Hữu Tâm, KP. 3",694,175575,2,7.2,8,0,1,0,363,1,10.977818,106.499697
+/ho-chi-minh/mi-cay-naga-pham-huu-tam/binh-luan,Mì Cay Naga - Phạm Hữu Tâm,29 Phạm Hữu Tâm,694,648831,2,4.6,1,0,2,0,193,0,10.9785544,106.4990008
+/ho-chi-minh/an-khang-coffee/binh-luan,An Khang Coffee,39 Nguyễn Văn Khạ,694,653413,2,0.0,0,0,0,0,41,0,10.969265,106.48603
+/ho-chi-minh/banh-pia-soc-trang-nguyen-van-kha/binh-luan,Bánh Pía Sóc Trăng,8 Nguyễn Văn Khạ. TT. Củ Chi,694,182102,2,0.0,0,1,0,0,113,1,10.9700022,106.4866356
+/ho-chi-minh/hot-dog-gia-dinh/binh-luan,Hot Dog Gia Đình,Nguyễn Văn Khạ,694,697895,2,0.0,17,1,0,0,91,0,10.9707060659123,106.4870989322662
+/ho-chi-minh/ery-s-house-cafe/binh-luan,Ery's House Cafe,"Hà Văn Lao, Xã Tân An Hội",694,667584,2,6.4,19,0,1,0,153,0,10.966183,106.48696
+/ho-chi-minh/cp-five-star-nguyen-van-kha/binh-luan,CP Five Star - Nguyễn Văn Khạ,"6A Nguyễn Văn Khạ, KP. 1",694,1088430,2,0.0,0,0,0,0,35,0,10.9710948,106.4873885
+/ho-chi-minh/quan-nhau-quoc-khanh-dac-san-lau-de/binh-luan,Quán Nhậu Quốc Khánh - Đặc Sản Lẩu Dê,Tổ 4 Tỉnh Lô 8,694,694952,2,0.0,0,0,0,0,62,0,10.969239,106.487919
+/ho-chi-minh/the-wild-craft-beer/binh-luan,The Wild Craft Beer,"101 Nguyễn Văn Khạ, TT. Củ Chi",694,894981,2,0.0,14,0,0,0,79,0,10.972708,106.488217
+/ho-chi-minh/coffee-chichi/binh-luan,Coffee Chichi,13/18 Tỉnh Lộ 8,694,826652,2,0.0,0,0,0,0,17,0,10.968941,106.48807
+/ho-chi-minh/soc-nau-coffee-nuoc-giai-khat/binh-luan,Sóc Nâu Coffee & Nước Giải Khát,43 Đào Văn Thử,694,654912,2,0.0,0,0,0,0,56,0,10.962643,106.487757
+/ho-chi-minh/tra-sua-miucha/binh-luan,Trà Sữa Miucha,"350 Tỉnh Lộ 8, KP4",694,672582,2,0.0,33,0,0,0,346,0,10.976668,106.501169
+/ho-chi-minh/tra-sua-tram-dung-90/binh-luan,Trà Sữa Trạm Dừng 90,"540A Tỉnh Lộ 8, Ấp 4",694,744923,2,0.0,0,1,0,0,219,1,10.982433195553,106.5116759938484
+/ho-chi-minh/tra-sua-zipper-cu-chi/binh-luan,Trà Sữa Zipper Củ Chi,Tỉnh lộ 7,694,165307,2,0.0,10,2,0,1,536,3,11.0879199521388,106.513310149312
+/ho-chi-minh/quan-an-gia-dinh-144/binh-luan,Quán Ăn Gia Đình 144,"3 Nguyễn Văn Xơ, Khu Phố 1, TT. Củ Chi",694,1077097,2,0.0,0,0,0,0,15,0,10.9721369,106.4890098
+/ho-chi-minh/hung-obito-trung-an/binh-luan,Hùng Obito - Trung An,"68 Trung An, X. Trung An",694,1076912,2,0.0,0,0,0,0,40,0,10.9896077,106.5938176
+/ho-chi-minh/buffet-tet-ga-99k-trang-bang/binh-luan,Buffet Tẹt Ga 99k - Trảng Bàng,"429 Quốc Lộ 22, Xã Tân Thông Hội",694,862111,2,0.0,75,3,0,0,518,0,10.961072,106.50143
+/ho-chi-minh/quan-an-hai-san-hoa-thuan/binh-luan,Quán Ăn Hải Sản Hòa Thuận,"75/15 Ấp Tân Tiến, Xã Tân Thông Hội",694,223817,2,0.0,11,3,0,0,508,1,10.9480808269287,106.5065610408783
+/ho-chi-minh/fiopa-bakery-coffee/binh-luan,Fiopa Bakery & Coffee,"282 Hương lộ 2, Ấp 2, Xã Phước Vĩnh An",694,175229,2,0.0,17,7,0,0,467,4,10.9835466,106.5007281
+/ho-chi-minh/queen-cafe-huong-lo-2/binh-luan,Queen Cafe - Hương Lộ 2,Hương Lộ 2 ,694,134107,2,0.0,4,1,0,0,437,1,10.9514921,106.546311
+/ho-chi-minh/quan-ran-thanh-lan/binh-luan,Quán Rắn Thanh Lan,"Nguyễn Thị Triệu, KP. 2, TT. Củ Chi",694,665695,2,0.0,2,10,0,1,405,2,10.970243,106.49581
+/ho-chi-minh/bun-bo-hue-thao-vy-tinh-lo-8/binh-luan,Bún Bò Huế Thảo Vy - Tỉnh Lộ 8,"135 Tỉnh Lộ 8, Khu Phố 7, TT. Củ Chi",694,1077094,2,0.0,0,0,0,0,13,0,10.9763428,106.4995073
+/ho-chi-minh/cf-viet-pha-may/binh-luan,CF Việt Pha Máy,"9a Liêu Bình Hương, X. Tân Thông Hội",694,1076980,2,0.0,0,0,0,0,22,0,10.961279,106.502645
+/ho-chi-minh/dinta-coffee-tea/binh-luan,Dinta Coffee & Tea,"183 Liêu Bình Hương, Ấp Tân Lập, X. Tân Thông Hội",694,1076978,2,0.0,0,1,0,0,21,0,10.970727,106.5065107
+/ho-chi-minh/thao-vy-bun-bo-hue/binh-luan,Thảo Vy - Bún Bò Huế,135 Tỉnh Lộ 8,694,672637,2,7.2,0,0,1,0,109,1,10.975092,106.497806
+/ho-chi-minh/bo-vang-bo-bit-tet-bo-ne/binh-luan,Bò Vàng - Bò Bít Tết & Bò Né,"223 Liêu Bình Hương, Xã Tân Thông Hội",694,729083,2,7.0,16,0,1,1,287,0,10.972751,106.505558
+/ho-chi-minh/long-huynh-quan-nuong/binh-luan,Long Huỳnh - Quán Nướng,143 Liêu Bình Hương,694,239093,2,7.0,5,0,1,0,255,0,10.9646452,106.5042126999999
+/ho-chi-minh/banh-mi-thit-cha-op-la/binh-luan,Bánh Mì Thịt Chả Ốp La,8 Trần Tử Bình,694,637075,2,7.0,0,0,1,0,149,0,10.9607952286741,106.5060088410973
+/ho-chi-minh/khap-khun-kem-xoi-dua/binh-luan,Khạp Khun - Kem Xôi Dừa,"676 Quốc Lộ 22, Khu Phố 2, Thị Trấn Củ Chi",694,652404,2,0.0,26,10,0,1,276,1,10.9668272797021,106.4905680307395
+/ho-chi-minh/oc-bui-sai-gon-duong-so-35/binh-luan,Ốc Bụi Sài Gòn,Đường Số 35,694,302099,2,0.0,6,2,0,1,196,3,10.975501,106.498431
+/ho-chi-minh/zipper-tra-sua-soda/binh-luan,Zipper - Trà Sữa & Soda,"19 KP. 7, Lê Vĩnh Huy",694,220617,2,0.0,4,4,0,1,108,2,10.975001,106.495948
+/ho-chi-minh/burger-sai-gon/binh-luan,Burger Sài Gòn,"89 Đường Số 42, Xã Tân Thông Hội",694,248176,2,0.0,8,2,0,1,104,1,10.9664718650994,106.5012824535369
+/ho-chi-minh/an-nhien-coffee-phu-my/binh-luan,An Nhiên Coffee - Phú Mỹ ,"64 Phú Mỹ, Ấp Phú Mỹ, Xã Phú Hòa Đông",694,134942,2,0.0,5,2,0,1,371,1,11.021454844778,106.554922797284
+/ho-chi-minh/pha-lau-bo-nguyen-van-kha/binh-luan,Phá Lấu Bò - Nguyễn Văn Khạ,40 Nguyễn Văn Khạ,694,722774,2,0.0,0,2,0,1,237,0,10.9727615931779,106.4884236082434
+/ho-chi-minh/quan-nhau-ot-xanh/binh-luan,Quán Nhậu Ớt Xanh,"6 Nguyễn Văn Xơ, KP 1",694,691660,2,0.0,0,0,0,0,47,0,10.971435,106.489323
+/ho-chi-minh/an-vat-karin-cu-chi/binh-luan,Ăn Vặt Karin - Củ Chi,"64 Nguyễn Văn Khạ, Củ Chi",694,1000000974,2,0.0,0,0,0,0,42,0,10.9751614,106.489926
+/ho-chi-minh/onlyb-drinks-foods-lieu-binh-huong/binh-luan,OnlyB - Drinks & Foods - Liêu Bình Hương,"167 Liêu Bình Hương, Ấp Tân Lập, Xã Tân Thông Hội",694,705076,2,0.0,0,1,0,1,226,0,10.969078,106.506146
+/ho-chi-minh/pizza-ngon-nguyen-van-xo/binh-luan,Pizza Ngon - Nguyễn Văn Xơ,"Tổ 1, Khu Phố 1, Nguyễn Văn Xơ",694,790707,2,0.0,21,2,0,0,291,0,10.970588,106.489896
+/ho-chi-minh/che-58/binh-luan,Chè 58,58 Lê Vĩnh Huy,694,252529,2,0.0,4,3,0,0,125,2,10.97803,106.493522
+/ho-chi-minh/quan-chay-tieu-huong/binh-luan,Quán Chay Tiểu Hương,567 Quốc Lộ 22,694,260024,2,0.0,0,1,0,1,374,1,10.965863,106.492383
+/ho-chi-minh/quan-199-nhau-binh-dan/binh-luan,Quán 199 - Nhậu Bình Dân,"458 Đường 458, Ấp Trung An",694,694028,2,0.0,2,2,0,0,347,0,10.989319,106.574359
+/ho-chi-minh/sinh-to-di-3/binh-luan,Sinh Tố Dì 3,"48 Bến Than, X. Tân Thạnh Đông",694,1076917,2,0.0,0,0,0,0,37,0,10.9515792,106.6071492
+/ho-chi-minh/dl2008-milano-hcm/binh-luan,DL2008 - Milano HCM,"Số 99 Phạm Văn Cội, Ấp 5, Xã Phạm Văn Cội",694,1070163,2,0.0,0,0,0,0,9,0,11.0518962,106.5141099
+/ho-chi-minh/pho-huong-xua-tinh-lo-8/binh-luan,Phở Hương Xưa - Tỉnh Lộ 8,"1944 Tỉnh Lộ 8, Xã Bình Mỹ",694,1065142,2,0.0,0,0,0,0,39,0,10.9734834258765,106.6368299627175
+/ho-chi-minh/612-coffee-house/binh-luan,612 Coffee House,"612D Tỉnh Lộ 8, Xã Phước Vĩnh An",694,669726,2,0.0,2,6,0,1,251,1,10.9850676,106.5217138
+/ho-chi-minh/duy-tan-mi-cay-7-cap-do/binh-luan,Duy Tân - Mì Cay 7 Cấp Độ,Hồ Văn Tắng,694,251806,2,0.0,0,6,0,1,112,2,10.942832,106.542656
+/ho-chi-minh/quan-cay-vu-sua-nhau-binh-dan/binh-luan,Quán Cây Vú Sữa - Nhậu Bình Dân,21 Nhữ Tiến Hiến,694,688787,2,0.0,0,1,0,1,101,1,10.9723806,106.5032204
+/ho-chi-minh/quan-hai-ngheo-mon-an-gia-dinh/binh-luan,Quán Hai Nghẹo - Món Ăn Gia Đình,"Tỉnh lộ 8, Xã Phước Vĩnh An",694,653149,2,0.0,0,3,0,1,181,1,10.985126,106.531777
+/ho-chi-minh/quan-com-trang-vy/binh-luan,Quán Cơm Trang Vy,"794 Tỉnh Lộ 8, Ấp 4, Xã Phước Vĩnh An",694,235584,2,0.0,6,2,0,1,55,0,10.985078,106.532246
+/ho-chi-minh/cay-xoai-bo-bit-tet/binh-luan,Cây Xoài - Bò Bít Tết,"64B Tỉnh Lộ 15, Xã Phú Hòa Đông",694,891195,2,0.0,6,1,0,1,57,0,11.0193176727427,106.5637004747986
+/ho-chi-minh/bo-beefsteak-phu-hoa/binh-luan,Bò Beefsteak Phú Hoa,16 Nguyễn Đình Huân,694,750637,2,0.0,1,2,0,1,85,0,10.9747002578787,106.4910732863693
+/ho-chi-minh/sai-gon-pho-ca-phe/binh-luan,Sài Gòn Phố Cà Phê,"Đường N4, Thị Trấn Củ Chi",694,859653,2,0.0,0,0,0,0,93,0,10.980627,106.490423
+/ho-chi-minh/coffee-tuyet-ni/binh-luan,Coffee Tuyết Ni,68 Nguyễn Văn Khạ,694,830740,2,0.0,0,0,0,0,13,0,10.975424,106.490156
+/ho-chi-minh/luna-coffee/binh-luan,Luna Coffee, 37/3 Đào Văn Thử,694,654919,2,0.0,0,0,0,0,76,0,10.964409,106.489671
+/ho-chi-minh/gac-cafe-2/binh-luan,Gác Cafe 2,"1H Nguyễn Văn Tỷ, TT. Củ Chi",694,1015980,2,0.0,0,0,0,0,27,0,10.969843,106.490144
+/ho-chi-minh/banh-khot-nem-nuong-tuyen/binh-luan,Bánh Khọt & Nem Nướng Tuyền,"24 Nguyễn Văn Tỷ, TT. Củ Chi",694,667865,2,0.0,7,3,0,0,263,1,10.969208,106.490474
+/ho-chi-minh/banh-xe-quan-quan-an-binh-dan/binh-luan,Bánh Xe Quán - Quán Ăn Bình Dân,65A Tỉnh Lộ 8,694,297872,2,0.0,7,0,0,0,258,1,10.9715174962793,106.4919034402282
+/ho-chi-minh/quan-oc-phuong-2/binh-luan,Quán Ốc Phượng 2,432 Tỉnh Lộ 8,694,688015,2,5.0,0,1,1,0,180,1,10.979042,106.505076
+/ho-chi-minh/phuc-long-tinh-lo-15/binh-luan,Phúc Long Tỉnh Lộ 15,565G Tỉnh Lộ 15,694,1085503,2,0.0,0,3,0,0,285,0,10.9666773,106.5912866
+/ho-chi-minh/kem-xoi-thanh-hang-le-minh-nhut/binh-luan,Kem Xôi Thanh Hằng - Lê Minh Nhựt,"Lê Minh Nhựt, Xã Tân Thông Hội",694,133303,2,0.0,16,5,0,0,264,0,10.9485183,106.524087
+/ho-chi-minh/meme-s-coffee/binh-luan,Meme's Coffee,"612B Tỉnh Lộ 8, Ấp 4, X. Phước Vĩnh An",694,1045101,2,0.0,0,0,0,0,17,0,10.984068,106.517766
+/ho-chi-minh/gogo-coffee-duong-17b.nkcicv/binh-luan,Gogo Coffee - Đường 17B,"50 Đường Số 17B, X. Tân Thông Hội",694,1000000637,2,0.0,0,0,0,0,21,0,10.9622279,106.506198
+/ho-chi-minh/dino-ice-cream/binh-luan,Dino Ice-Cream,"995 Tỉnh Lộ 15, Xã An Nhơn Tây",694,1040541,2,0.0,11,0,0,0,20,1,11.086559,106.514654
+/ho-chi-minh/asi-coffee-tea/binh-luan,ASI Coffee & Tea,"67 Phạm Hữu Tâm, TT. Củ Chi",694,1037928,2,0.0,0,0,0,0,15,0,10.981473,106.496197
+/ho-chi-minh/be-man-quan-an-gia-dinh-kcn-dong-nam/binh-luan,Bé Mận - Quán Ăn Gia Đình - KCN Đông Nam,"Cổng A KCN Đông Nam, Ấp 2A",694,1034719,2,0.0,0,0,0,0,51,0,10.969995,106.621467
+/ho-chi-minh/nun-coffee/binh-luan,NUN Coffee,"51 Đường Số 35, Xã Tân Thông Hội",694,1018825,2,0.0,0,0,0,0,13,0,10.971842,106.504105
+/ho-chi-minh/goi-vit-sai-gon/binh-luan,Gỏi Vịt Sài Gòn,"436A Tỉnh Lộ 8, TT. Củ Chi",694,672642,2,0.0,0,2,0,1,78,0,10.978809,106.504431
+/ho-chi-minh/cafe-na-na/binh-luan,Cafe Na Na,267 Nguyễn Văn Khạ,694,813232,2,0.0,0,0,0,0,22,0,10.977256,106.491248
+/ho-chi-minh/pho-tuyen/binh-luan,Phở Tuyền,24 Nguyễn Văn Tỷ,694,266509,2,0.0,11,2,0,0,85,1,10.968733,106.491092
+/ho-chi-minh/pho-tan-sang/binh-luan,Phở Tấn Sang,"1094 Tỉnh Lộ 15, Xã An Phú",694,264594,2,0.0,0,0,0,0,63,1,11.1179172,106.4998689
+/ho-chi-minh/hoa-vien-coffee/binh-luan,Hoa Viên Coffee,1555 Tỉnh Lộ 15,694,652965,2,0.0,0,0,0,0,46,0,11.117927,106.499884
+/ho-chi-minh/banh-beo-chen-ba-sau-nguyen-thi-ru/binh-luan,Bánh Bèo Chén Bà Sáu - Nguyễn Thị Rư,16A Nguyễn Thị Rư,694,672970,2,0.0,12,3,0,0,148,1,10.9769150641227,106.4923855662345
+/ho-chi-minh/bun-dau-mam-tom-h-famil-lieu-binh-huong/binh-luan,Bún Đậu Mắm Tôm H-Famil - Liêu Bình Hương,"84 Liêu Bình Hương, TT. Củ Chi",694,983898,2,0.0,21,0,0,0,136,0,10.966082,106.504814
+/ho-chi-minh/sau-set-quan-an-gia-dinh/binh-luan,Sáu Sết - Quán Ăn Gia Đình,"28 Nguyễn Kim Cương, Xã Tân Thạnh Tây",694,269610,2,0.0,1,0,0,0,92,0,10.9813028223182,106.5697076171636
+/ho-chi-minh/tra-sua-zipper/binh-luan,Trà Sữa Zipper,"932 Tỉnh Lộ 15, Ấp 12, Xã Tân Thạnh Đông",694,652955,2,0.0,5,1,0,0,91,1,10.9800465036444,106.578710116446
+/ho-chi-minh/ut-canh-quan-an-gia-dinh/binh-luan,Út Cảnh - Quán Ăn Gia Đình,"55 Bến Than, Xã Tân Thạnh Đông",694,677278,2,0.0,93,0,0,0,240,2,10.9524793,106.6079500999999
+/ho-chi-minh/ngoi-do-bbq-nguyen-van-ni/binh-luan,Ngói Đỏ BBQ,64 Nguyễn Văn Ni,694,258403,2,0.0,15,0,0,0,170,2,10.973709,106.498003
+/ho-chi-minh/oc-nuong-trang/binh-luan,Ốc Nướng Trang,"27 Đường Số 40, Tổ 8, KP. 3",694,640640,2,0.0,12,1,0,0,252,1,10.980323,106.496674
+/ho-chi-minh/che-thai-chinh-hieu/binh-luan,Chè Thái Chính Hiệu,90 Tỉnh Lộ 8,694,653123,2,0.0,0,2,0,0,252,2,10.984273,106.573101
+/ho-chi-minh/light-coffee-tinh-lo-9/binh-luan,Light Coffee - Tỉnh Lộ 9,391 Tỉnh Lộ 9,694,1013346,2,0.0,0,0,0,0,11,0,10.952367,106.64522
+/ho-chi-minh/bun-mam-bun-rieu-ben-than/binh-luan,Bún Mắm & Bún Riêu - Tỉnh Lộ 15,"Chợ Sáng, Tỉnh Lộ 15, P. Tân Thạnh Đông",694,1005134,2,0.0,1,0,0,0,37,1,10.948403,106.605349
+/ho-chi-minh/nuoc-ep-sinh-to-di-ba/binh-luan,Nước Ép Sinh Tố Dì Ba,"48 Bến Than, Xã Tân Thạnh Đông",694,1003638,2,0.0,1,0,0,0,84,0,10.950754,106.607212
+/ho-chi-minh/quan-com-ba-tam-huong-lo-2/binh-luan,Quán Cơm Bà Tám - Hương Lộ 2,"328 Hương Lộ 2, Xã Phước Vĩnh An, Củ Chi",694,987347,2,0.0,1,0,0,0,34,0,10.9614575,106.525593
+/ho-chi-minh/quan-an-san-vuon-que-nha/binh-luan,Quán Ăn Sân Vườn Quê Nhà,"343A Sông Lu, Xã Trung An",694,962697,2,0.0,8,0,0,0,86,0,11.007622,106.598079
+/ho-chi-minh/cafe-da-khuc-nguyen-van-ty/binh-luan,Cafe Dạ Khúc - Nguyễn Văn Tỷ,48 Nguyễn Văn Tỷ,694,811783,2,0.0,0,0,0,0,19,0,10.96867,106.492048
+/ho-chi-minh/coffee-sala/binh-luan,Coffee Sala,50A Nguyễn Văn Tỷ,694,826430,2,0.0,0,0,0,0,26,0,10.968631,106.492451
+/ho-chi-minh/tan-ky-mi-gia-le-vinh-huy/binh-luan,Tân Ký Mì Gia - Lê Vĩnh Huy,"19A Lê Vĩnh Huy, KP7",694,738361,2,0.0,36,0,0,0,41,0,10.977895,106.493035
+/ho-chi-minh/quan-nhau-ngoi-xua-2/binh-luan,Quán Nhậu Ngói Xưa 2,"64 Lê Vĩnh Huy, KP 2",694,691694,2,0.0,0,0,0,0,121,1,10.977283,106.494186
+/ho-chi-minh/oc-dem-tinh-lo-8/binh-luan,Ốc Đêm - Tỉnh Lộ 8,"410 Tỉnh Lộ 8, Ấp Mũi Lớn 2",694,691734,2,0.0,0,0,0,0,66,1,10.982134,106.510414
+/ho-chi-minh/ba-sau-banh-beo-chen/binh-luan,Bà Sáu - Bánh Bèo Chén,46/4 Tỉnh Lộ 15,694,663988,2,0.0,11,1,0,0,203,1,11.024958,106.564578
+/ho-chi-minh/paradise-cafe-san-vuon/binh-luan,Paradise - Cafe Sân Vườn,"84 Tỉnh Lộ 8, Xã Tân Thạnh Tây",694,650113,2,0.0,9,1,0,0,199,1,10.9839517051641,106.5741238743066
+/ho-chi-minh/hoang-anh-am-thuc-3-mien/binh-luan,Hoàng Anh - Ẩm Thực 3 Miền,"225 Tỉnh Lộ 9, Ấp 5, Xã Bình Mỹ",694,686138,2,0.0,0,0,0,0,194,1,10.940101,106.64587
+/ho-chi-minh/am-thuc-kim-son-quan-an-gia-dinh/binh-luan,Ẩm Thực Kim Sơn - Quán Ăn Gia Đình,"185 Liêu Bình Hương , Xã Tân Thông Hội",694,951011,2,0.0,1,0,0,0,107,0,10.970118,106.506614
+/ho-chi-minh/quan-linh-chuyen-oc-xien-que/binh-luan,Quán Linh - Chuyên Ốc & Xiên Que,"71 Phạm Hữu Tâm, TT. Củ Chi",694,938615,2,0.0,14,0,0,0,26,0,10.982239,106.495138
+/ho-chi-minh/banh-mi-sai-gon-le-vinh-huy/binh-luan,Bánh Mì Sài Gòn - Lê Vĩnh Huy,"1A Lê Vĩnh Huy, TT. Củ Chi",694,936563,2,0.0,7,0,0,0,19,0,10.975074,106.495871
+/ho-chi-minh/ga-quay-ong-8/binh-luan,Gà Quay Ông 8,"105 Liêu Bình Hương, Xã Tân Thông Hội",694,936109,2,0.0,5,0,0,0,33,0,10.964499,106.50408
+/ho-chi-minh/hcm-cooking-class/binh-luan,HCM Cooking Class,"107/7 Trần Văn Chẩm , Ấp 3, P. Phước Vĩnh An",694,930018,2,0.0,150,0,0,0,32,0,10.975703,106.516577
+/ho-chi-minh/banh-trang-kho-ga-ngoc-giau-shop-online/binh-luan,Bánh Tráng Khô Gà Ngọc Giàu - Shop Online,Lê Minh Nhựt,694,276902,2,0.0,6,0,0,0,150,1,10.9445178261748,106.5214761346578
+/ho-chi-minh/chuoi-chien-4k/binh-luan,Chuối Chiên 4K,"1074 Tỉnh Lộ 15, Thạnh An",694,200914,2,0.0,2,0,0,0,154,1,11.052799,106.536017
+/ho-chi-minh/the-citylight-cafe-karaoke/binh-luan,The Citylight - Cafe & Karaoke,373 Hà Duy Phiên,694,646954,2,0.0,8,1,0,0,126,1,10.964801,106.640443
+/ho-chi-minh/an-vat-que-toi-shop-online/binh-luan,Ăn Vặt Quê Tôi - Shop Online,"9 Tỉnh Lộ 9, Xã Bình Mỹ",694,278199,2,0.0,6,2,0,0,70,1,10.926442,106.647933
+/ho-chi-minh/lua-do-quan-an-gia-dinh/binh-luan,Lửa Đỏ - Quán Ăn Gia Đình,3 An Nhơn Tây,694,659862,2,0.0,6,0,0,0,93,1,11.08939,106.512914
+/ho-chi-minh/khang-458-banh-khot/binh-luan,Khang 458 - Bánh Khọt,"Đường 458, Xã Trung An",694,634450,2,0.0,4,2,0,0,100,1,10.996404,106.595205
+/ho-chi-minh/com-trua-van-phong-tinh-lo-8/binh-luan,Cơm Trưa Văn Phòng - Tỉnh Lộ 8,121 Tỉnh Lộ 8,694,672782,2,0.0,0,1,0,0,171,0,10.9744573512656,106.4968661963939
+/ho-chi-minh/quan-ut-ngon-diem-tam-sang/binh-luan,Quán Út Ngon - Điểm Tâm Sáng,"444 Quốc Lộ 22, Ấp Đình, Xã Tân Phú Trung",694,210503,2,0.0,0,0,0,0,170,0,10.943874,106.531239
+/ho-chi-minh/kebab-torki-tinh-lo-8/binh-luan,Kebab Torki - Tỉnh Lộ 8,"1239 Tỉnh Lộ 8, Xã Trung An",694,917899,2,0.0,7,0,0,0,40,0,10.9833293119894,106.58287525177
+/ho-chi-minh/thuy-tien-cafe-bep-than/binh-luan,Thủy Tiên Cafe - Bếp Than,"276-284 Bến Than, P. Hòa Phú",694,903371,2,0.0,0,0,0,0,14,0,10.972586,106.61431
+/ho-chi-minh/chu-5-hu-tieu-nam-vang/binh-luan,Chú 5 - Hủ Tiếu Nam Vang,"58 Trần Tử Bình, Xã Tân Thông Hội",694,898342,2,0.0,0,0,0,0,26,1,10.962702,106.506887
+/ho-chi-minh/huong-xua-cafe-lieu-binh-huong/binh-luan,Hương Xưa Cafe - Liêu Bình Hương,"114 Liêu Bình Hương, Ấp Tân Tiến, Xã Tân Thông Hội",694,883806,2,0.0,11,1,0,0,138,0,10.968998,106.50618
+/ho-chi-minh/anfafoco-da-ca-say-gion-online/binh-luan,Anfafoco - Da Cá Sấy Giòn Online,"35 Đường 145, Xã Bình Mỹ",694,872573,2,0.0,1,1,0,0,80,1,10.9281326014934,106.6209864930756
+/ho-chi-minh/chao-nong-viet-soup-nguyen-thi-trieu/binh-luan,Cháo Nóng Việt Soup - Nguyễn Thị Triệu,"64/13 Nguyễn Thị Triệu, KP. 2, TT. Củ Chi",694,714771,2,0.0,4,1,0,0,65,0,10.9709535,106.4967362
+/ho-chi-minh/bi-do-an-vat-tra-sua/binh-luan,Bí Đỏ - Ăn Vặt & Trà Sữa,703C Tỉnh Lộ 8,694,660981,2,0.0,4,4,0,0,99,0,10.974594,106.496967
+/ho-chi-minh/thu-gian-cafe-huong-lo-2/binh-luan,Thư Giãn Cafe - Hương Lộ 2,76C Hương Lộ 2,694,733440,2,0.0,8,0,0,0,45,0,10.985587,106.497666
+/ho-chi-minh/cay-diep-quan-an-binh-dan/binh-luan,Cây Điệp - Quán Ăn Bình Dân,Hồ Văn Tắng,694,862223,2,0.0,4,0,0,0,57,0,10.9403833578381,106.5415777726523
+/ho-chi-minh/cat-tuong-hai-san-lau/binh-luan,Cát Tường - Hải Sản & Lẩu,190 Liêu Bình Hương,694,695249,2,0.0,0,1,0,0,84,0,10.973348,106.505181
+/ho-chi-minh/song-an-quan-mon-an-gia-dinh/binh-luan,Song An Quán - Món Ăn Gia Đình,"Tỉnh lộ 8, Xã Tân Thạnh Tây",694,653097,2,0.0,0,0,0,0,103,0,10.983792,106.575918
+/ho-chi-minh/kinh-anh-coffee/binh-luan,Kinh Anh Coffee,"Tỉnh Lộ 15, Xã An Nhơn Tây",694,652969,2,0.0,0,0,0,0,28,0,11.093918,106.51264
+/ho-chi-minh/linh-suong-tra-sua-an-vat/binh-luan,Linh Sương - Trà Sữa & Ăn Vặt,121 Đường Số 27,694,664995,2,0.0,3,2,0,0,126,1,10.967384,106.505422
+/ho-chi-minh/khai-nguyen-cafe-tinh-lo-8/binh-luan,Khải Nguyên Cafe - Tỉnh Lộ 8,129 Tỉnh Lộ 8,694,672631,2,0.0,3,0,0,0,132,1,10.975147,106.498191
+/ho-chi-minh/quan-minh-ky-hu-tieu-mi-xao/binh-luan,Quán Minh Ký - Hủ Tiếu & Mì Xào,"38 Đường Số 77, Xã Tân Phú Trung",694,768863,2,0.0,3,1,0,0,122,1,10.9440991115209,106.5415256470441
+/ho-chi-minh/t-t-cafe-tinh-lo-8/binh-luan,T & T Cafe - Tỉnh Lộ 8,549 Tỉnh Lộ 8,694,672783,2,0.0,2,0,0,0,43,1,10.983098,106.513408
+/ho-chi-minh/am-thuc-4-xuyen-quan-an-gia-dinh/binh-luan,Ẩm Thực 4 Xuyên - Quán Ăn Gia Đình,"Hồ Văn Tắng, Xã Tân Phú Trung",694,226653,2,0.0,3,0,0,0,139,0,10.963105,106.546071
+/ho-chi-minh/th-true-mart-tinh-lo-8/binh-luan,TH true mart - Tỉnh Lộ 8,213 Tỉnh Lộ 8,694,756241,2,0.0,1,0,0,0,138,0,10.9845127,106.563763
+/ho-chi-minh/coi-da-cafe-tinh-lo-8/binh-luan,Cối Đá Cafe - Tỉnh Lộ 8,452 Tỉnh Lộ 8,694,672775,2,0.0,0,0,0,0,138,0,10.982042,106.510116
+/ho-chi-minh/banh-trang-nuong-tinh-lo-15/binh-luan,Bánh Tráng Nướng - Tỉnh Lộ 15,583 Tỉnh Lộ 15,694,853053,2,0.0,1,0,0,0,62,0,10.9282610655464,106.6023208232637
+/ho-chi-minh/coffee-thao-trang-duong-so-84/binh-luan,Coffee Thảo Trang - Đường Số 84,19 Đường Số 84,694,830976,2,0.0,0,0,0,0,10,0,10.944313,106.534133
+/ho-chi-minh/chat-coffee-pham-van-cheo/binh-luan,Chất Coffee - Phạm Văn Chèo,32 Phạm Văn Chèo,694,672658,2,0.0,0,0,0,0,32,0,10.976911,106.499416
+/ho-chi-minh/g-milktea/binh-luan,G Milktea,12A Đường Số 27,694,689277,2,0.0,20,0,0,0,62,0,10.9699207157718,106.4991252869367
+/ho-chi-minh/banh-canh-ca-loc-quoc-lo-22/binh-luan,Bánh Canh Cá Lóc - Quốc Lộ 22,"260 Quốc Lộ 22, Xã Tân Phú Trung",694,691761,2,0.0,0,0,0,0,99,0,10.9384586,106.5421821
+/ho-chi-minh/quan-suoi-loi-quan-an-binh-dan/binh-luan,Quán Suối Lội - Quán Ăn Bình Dân,"52 Bàu Giã, Xã Phước Vĩnh An",694,758320,2,0.0,0,0,0,0,41,0,10.9650999499636,106.5326096490025
+/ho-chi-minh/ben-co-quan-an-gia-dinh/binh-luan,Bến Cỏ - Quán Ăn Gia Đình,"442 Bến Cỏ, Xã Phú Hòa Đông",694,311351,2,0.0,1,0,0,0,70,1,11.0432339771189,106.5636944398284
+/ho-chi-minh/an-vat-sin-pham-shop-online/binh-luan,Ăn Vặt Sin Phạm - Shop Online,"Tỉnh Lộ 15, Cầu Xáng",694,726985,2,0.0,41,0,0,0,67,0,10.9263400622465,106.5915123000741
+/ho-chi-minh/the-rising-hope/binh-luan,The Rising Hope,578 Tỉnh Lộ 8,694,182331,2,0.0,30,0,0,0,131,0,10.9838401286947,106.5173465386032
+/ho-chi-minh/rin-rin-tea-shop/binh-luan,Rin Rin Tea Shop,"694 Tỉnh Lộ 8, Xã Phước Vĩnh An",694,717454,2,0.0,16,1,0,0,118,0,10.9852803,106.523013
+/ho-chi-minh/tra-sua-merry/binh-luan,Trà Sữa Merry,"Ấp Bầu Sim, Xã Tân Thới Hội",694,204762,2,0.0,0,1,0,0,117,1,10.953698,106.508971
+/ho-chi-minh/rovina-coffee-duong-so-92/binh-luan,Rovina Coffee - Đường Số 92,46 Đường Số 92,694,823588,2,0.0,0,0,0,0,19,0,10.939004,106.533305
+/ho-chi-minh/cafe-kim-tien/binh-luan,Cafe Kim Tiến,"236 Tỉnh Lộ 2, Xã Tân Phú Trung",694,822280,2,0.0,0,0,0,0,11,0,10.953599,106.532921
+/ho-chi-minh/cafe-cao-nguyen/binh-luan,Cafe Cao Nguyên,"10A Tỉnh Lộ 2, Ấp Chợ",694,821958,2,0.0,0,0,0,0,8,0,10.935438,106.549658
+/ho-chi-minh/hoa-mi-cafe-huong-lo-2/binh-luan,Họa Mi Cafe - Hương Lộ 2,104 Hương Lộ 2,694,821334,2,0.0,0,0,0,0,16,0,10.941866,106.543688
+/ho-chi-minh/go-my-nghe-cafe/binh-luan,Gỗ Mỹ Nghệ Cafe,"89 Hồ Văn Tắng, Ấp Xóm Đồng",694,820907,2,0.0,0,0,0,0,13,0,10.943831,106.543208
+/ho-chi-minh/ngoi-cafe-le-thi-bay/binh-luan,Ngồi Cafe - Lê Thị Bay,"9 Lê Thị Bay, Ấp 6, Xã Tân Thạnh Đông",694,814152,2,0.0,0,0,0,0,26,0,10.971688,106.584203
+/ho-chi-minh/cafe-trong-an/binh-luan,Cafe Trọng Ân,"Tỉnh Lộ 8, Ấp Hội Thạnh, Xã Trung An",694,813924,2,0.0,0,0,0,0,9,0,10.983261,106.583035
+/ho-chi-minh/susi-cafe-tinh-lo-8/binh-luan,Susi Cafe - Tỉnh Lộ 8,"1401 Tỉnh Lộ 8, Xã Hòa Phú",694,813672,2,0.0,0,0,0,0,19,0,10.982566,106.594585
+/ho-chi-minh/cafe-tu-nhien-duong-so-458/binh-luan,Cafe Tự Nhiên - Đường Số 458,55 Đường Số 458,694,812847,2,0.0,0,0,0,0,32,0,10.989178,106.578662
+/ho-chi-minh/cafe-bida379/binh-luan,Cafe Bida 379,379A Tỉnh Lộ 8,694,812144,2,0.0,0,0,0,0,21,0,10.984005,106.550105
+/ho-chi-minh/banh-mi-thao-quyen/binh-luan,Bánh Mì Thảo Quyên,"382 Tỉnh Lộ 8, TT. Củ Chi",694,672634,2,0.0,0,0,0,0,63,2,10.977406,106.502024
+/ho-chi-minh/khanh-vy-cafe-trung-an/binh-luan,Khánh Vy Cafe - Trung An,"55 Trung An, Xã Trung An",694,795453,2,0.0,0,0,0,0,13,0,10.989435,106.593322
+/ho-chi-minh/hu-tieu-a-sen/binh-luan,Hủ Tiếu A Sến,"Đường Số 19, Ấp Tân Lập",694,711849,2,0.0,0,0,0,0,29,0,10.965328,106.501734
+/ho-chi-minh/quan-nhau-tu-suot/binh-luan,Quán Nhậu Tư Sướt,85 Tỉnh Lộ 8,694,653116,2,0.0,0,0,0,0,55,1,10.98384,106.572836
+/ho-chi-minh/quan-nhau-sau-map/binh-luan,Quán Nhậu Sáu Mập,"Đường Số 6, Xã Tân Thạnh Tây",694,653120,2,0.0,0,0,0,0,84,1,10.98327,106.572716
+/ho-chi-minh/moc-cafe-tinh-lo-15/binh-luan,Mộc Cafe - Tỉnh Lộ 15,"Tỉnh Lộ 15, Xã Tân Thạnh Tây",694,670367,2,0.0,0,1,0,0,56,1,10.986016,106.574753
+/ho-chi-minh/banh-tieu-do-xanh-cay-bai/binh-luan,Bánh Tiêu Đỗ Xanh - Cây Bài,2 Cây Bài,694,300933,2,0.0,0,1,0,0,49,1,10.985136,106.524156
+/ho-chi-minh/goi-cuon-thao/binh-luan,Gỏi Cuốn Thảo,"Tỉnh Lộ 9, Xã Bình Mỹ",694,679688,2,0.0,1,0,0,0,100,0,10.926976,106.647746
+/ho-chi-minh/mi-5-to/binh-luan,Mì 5 Tô,"21 Đường Số 35, Xã Tân Thông Hội",694,763651,2,0.0,0,0,0,0,79,0,10.9711953229711,106.5054117845021
+/ho-chi-minh/kinh-ba-banh-la-banh-goi-banh-chung-shop-online/binh-luan,"Kinh Ba - Bánh Lá, Bánh Gói & Bánh Chưng - Shop Online","Đường Số 171, Ấp 5, Xã Bình Mỹ",694,755458,2,0.0,1,1,0,0,91,0,10.9477121518245,106.6463255882263
+/ho-chi-minh/tra-sua-trung-phu/binh-luan,Trà Sữa Trung Phú,"150A Đường 458, Xã Trung An",694,736174,2,0.0,1,0,0,0,47,0,10.988615369447,106.5849032959595
+/ho-chi-minh/t-coffee-duong-78/binh-luan,T Coffee - Đường Số 78,"21 Đường Số 78, Ấp Đình, Xã Tân Phú Trung",694,734089,2,0.0,0,0,0,0,28,0,10.941668,106.539585
+/ho-chi-minh/xuan-lan-cafe/binh-luan,Xuân Lan Cafe,448 Tỉnh Lộ 8,694,672649,2,0.0,0,0,0,0,32,0,10.97903,106.505085
+/ho-chi-minh/cheese-flavor-street-foods/binh-luan,Cheese Flavor - Street Foods,"1030 Tỉnh Lộ 15, Xã Trung An",694,642819,2,0.0,0,0,0,0,86,1,11.0009756735795,106.5690672397614
+/ho-chi-minh/ga-ran-cp-five-star-98-tran-tu-binh/binh-luan,Gà Rán CP Five Star - 98 Trần Tử Bình,"98 Trần Tử Bình, X. Tân Thông Hội",694,1105906,2,0.0,0,0,0,0,36,1,10.9651869,106.5080463
+/ho-chi-minh/binh-my-cafe/binh-luan,Bình Mỹ Cafe,Võ Văn Bích,694,221714,2,0.0,3,0,0,0,88,0,10.9376524112342,106.615662574768
+/ho-chi-minh/anh-minh-com-ga-xoi-mo/binh-luan,Anh Minh - Cơm Gà Xối Mỡ,"1068 Tỉnh Lộ 15, Xã Trung An",694,702264,2,0.0,8,0,0,0,82,0,10.9857277072412,106.5757402405142
+/ho-chi-minh/minh-yen-ga-say-la-chanh/binh-luan,Minh Yến - Gà Sấy Lá Chanh,67 Đường Số 57,694,707804,2,0.0,2,0,0,0,42,0,10.933813,106.552495
+/ho-chi-minh/quan-nhau-kim-anh/binh-luan,Quán Nhậu Kim Anh,"20 Nhữ Tiến Hiền, KP 4",694,691724,2,0.0,0,0,0,0,59,0,10.970904,106.506102
+/ho-chi-minh/dat-viet-coffee/binh-luan,Đất Việt Coffee,1844 Tỉnh Lộ 8 ( Cổng A Khu Công Nghiệp Đông Nam) Xã Hoà Phú,694,701421,2,0.0,6,0,0,0,54,0,10.975764,106.622508
+/ho-chi-minh/chao-dinh-duong-panda-phan-chau-trinh/binh-luan,Cháo Dinh Dưỡng Panda - Phan Châu Trinh,"21 Ấp 6A, Phan Châu Trinh",694,727701,2,0.0,5,0,0,0,53,0,10.8653696,106.5946123
+/ho-chi-minh/quan-an-nam-tai-quan-an-gia-dinh/binh-luan,Quán Ăn Năm Tài - Quán Ăn Gia Đình,"Tỉnh Lộ 8, Xã Tân Thạnh Tây",694,688737,2,0.0,0,0,0,0,77,0,10.9842404,106.5692603
+/ho-chi-minh/quan-nhau-long-huynh/binh-luan,Quán Nhậu Long Huỳnh,139 Liêu Bình Hương,694,694595,2,0.0,0,0,0,0,56,0,10.971089,106.506785
+/ho-chi-minh/guu-cafe/binh-luan,Guu Cafe,"Tỉnh lộ 8, Xã Tân Thạnh Tây",694,653090,2,0.0,0,0,0,0,26,0,10.983563,106.573746
+/ho-chi-minh/hoa-su-coffee-duong-457/binh-luan,Hoa Sứ Coffee,"31B Đường 457, Xã Trung An",694,292881,2,0.0,2,0,0,0,45,0,10.98976,106.590574
+/ho-chi-minh/quan-295-com-pho-hu-tieu/binh-luan,"Quán 295 - Cơm, Phở & Hủ Tiếu",295/1A Tỉnh Lộ 15,694,664030,2,0.0,0,1,0,0,50,0,11.028074,106.564887
+/ho-chi-minh/hau-sua-quan-an-gia-dinh/binh-luan,Hàu Sữa - Quán Ăn Gia Đình,"Tỉnh Lộ 15, Xã Bình Mỹ",694,676928,2,8.0,32,0,1,0,308,1,10.920138,106.600315
+/ho-chi-minh/bo-to-xuan-anh-cu-chi/binh-luan,Bò Tơ Xuân Anh - Củ Chi,"79 Tỉnh Lộ 8, Ấp Tây, Xã An Hội",694,29830,2,6.58,139,0,10,7,14135,11,10.964492,106.48447
