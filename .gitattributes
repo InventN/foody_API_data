@@ -1,4 +1,2 @@
 crawled_all_shops/data_hcm_final.csv filter=lfs diff=lfs merge=lfs -text
-crawled_all_shops/DataComments.csv filter=lfs diff=lfs merge=lfs -text
-crawled_all_shopsdata_hcm_final.csv filter=lfs diff=lfs merge=lfs -text
-crawled_all_shopsDataComments.csv filter=lfs diff=lfs merge=lfs -text
+crawled_menu/*.csv filter=lfs diff=lfs merge=lfs -text
